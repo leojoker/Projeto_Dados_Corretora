@@ -1,18 +1,31 @@
-# 📊 Projeto de Dados — Corretora Internacional
+# Projeto de Dados - Corretora Internacional
 
-Este projeto foi desenvolvido com o objetivo de estruturar, automatizar e potencializar a jornada de dados de uma corretora internacional, desde a ingestão de leads até a geração de insights para tomada de decisão. A solução inclui ETL, análise exploratória, modelagem preditiva, detecção de fraudes e visualização interativa com dashboards e relatórios.
+Este projeto simula o pipeline de dados de uma corretora internacional com foco em:
+
+- Conversão de leads
+- Previsão de crescimento
+- Detecção de fraudes
+- Visualização com dashboards interativos (Streamlit)
+
+Todos os dados foram gerados de forma sintética com controle de crescimento e padrões realistas, refletindo o comportamento esperado de uma operação de marketing digital no mercado financeiro.
 
 ---
 
-## 🚀 Objetivos
+## 📘 Notebooks Principais
 
-- 📥 Automatizar a ingestão de dados exportados do CRM
-- 🔍 Realizar análises exploratórias por canal, país e perfil
-- 📈 Construir modelos preditivos para conversão de leads e crescimento da base
-- 🚨 Detectar possíveis fraudes com base em anomalias nos dados
-- 🧾 Gerar relatórios gerenciais em PDF com alertas
-- 📊 Criar dashboards interativos com **Streamlit**
-- 🤖 Preparar o sistema para integração com **Telegram**
+- [🔁 ETL e Geração de Leads Simulados](./Notebooks/ETL/gerador_leads_fake.ipynb)
+- [📊 Análise Preditiva de Conversão](./Notebooks/Modelagem/preditivo_conversao_e_crescimento_final.ipynb)
+- [🔍 Detecção de Fraudes (Anomalias)](./Notebooks/Fraude/deteccao_anomalias.ipynb)
+- [📈 Dashboard Interativo com Streamlit](./App/app_dashboard.py)
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- Python (Pandas, NumPy, Faker, Scikit-Learn)
+- Visualização: Matplotlib, Seaborn, Streamlit
+- Organização: Pathlib, Estrutura modular
+- Geração de dados simulados com crescimento progressivo
 
 ---
 
@@ -68,44 +81,6 @@ PROJETO_DADOS_CORRETORA/
 
 ---
 
-## 🛠 Tecnologias e Bibliotecas
-
-- **Python**: pandas, numpy, scikit-learn, pathlib, faker, matplotlib, seaborn
-- **Visualização**: Power BI, Streamlit
-- **Modelagem**: RandomForestClassifier, métricas de classificação
-- **Detecção de Fraude**: Score de risco e análise de anomalias
-- **Automação**: Geração dinâmica de CSVs e pastas por semana
-- **Deploy Futuro**: Integração com Telegram e relatórios por e-mail
-
----
-
-## 🧪 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/projeto-corretora.git
-   cd projeto-corretora
-   ```
-
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Execute os notebooks na seguinte ordem:
-   - `Notebooks/ETL/gerador_leads_semanal.ipynb`
-   - `Notebooks/ETL/ETL_Leads.ipynb`
-   - `Notebooks/EDA/analyze_leads_completo.ipynb`
-   - `Notebooks/Modelagem/...`
-   - `Notebooks/Fraude/...`
-
-4. Execute o dashboard (opcional):
-   ```bash
-   streamlit run App/dashboard.py
-   ```
-
----
-
 ## 📈 Resultados Esperados
 
 - 📊 Indicadores de performance por canal, país e perfil
@@ -138,3 +113,4 @@ Instrutor do MBA em Ciência de Dados da CBF Academy
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+---
