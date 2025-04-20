@@ -1,5 +1,11 @@
 # Projeto de Dados - Corretora Internacional
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Plataforma](https://img.shields.io/badge/projeto-corretora%20internacional-critical)
+
+
 Este projeto simula o pipeline de dados de uma corretora internacional com foco em:
 
 - Conversão de leads
