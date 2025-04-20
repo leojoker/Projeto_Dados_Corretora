@@ -1,0 +1,301 @@
+lead_id,origem,data_cadastro,status_conversao,dias_ate_1o_trade,valor_deposito,perfil,pais,foi_convertido,ano_mes_cadastro
+2001,Orgânico,2025-03-29,Não Convertido,,0.0,,Brasil,False,2025-03
+2002,Instagram,2025-03-10,Não Convertido,,0.0,,Portugal,False,2025-03
+2003,Orgânico,2025-02-20,Convertido,6.0,7985.78,Scalper,Espanha,True,2025-02
+2004,Facebook,2025-03-13,Convertido,7.0,6026.72,Investidor,Brasil,True,2025-03
+2005,Orgânico,2025-01-28,Convertido,6.0,4513.74,Investidor,Espanha,True,2025-01
+2006,TikTok,2025-01-22,Convertido,6.0,675.03,Trader,Argentina,True,2025-01
+2007,E-mail Marketing,2025-01-22,Não Convertido,,0.0,,Portugal,False,2025-01
+2008,Google Ads,2025-01-23,Convertido,7.0,3403.72,Iniciante,Portugal,True,2025-01
+2009,Facebook,2025-04-15,Convertido,7.0,7109.92,Iniciante,Argentina,True,2025-04
+2010,Orgânico,2025-03-03,Não Convertido,,0.0,,Brasil,False,2025-03
+2011,YouTube Ads,2025-01-28,Convertido,5.0,658.47,Iniciante,Argentina,True,2025-01
+2012,WhatsApp,2025-02-10,Não Convertido,,0.0,,Espanha,False,2025-02
+2013,Google Ads,2025-04-11,Não Convertido,,0.0,,Portugal,False,2025-04
+2014,Facebook,2025-03-25,Não Convertido,,0.0,,Portugal,False,2025-03
+2015,Indicação,2025-03-10,Não Convertido,,0.0,,Portugal,False,2025-03
+2016,Google Ads,2025-04-05,Convertido,7.0,8341.18,Iniciante,Argentina,True,2025-04
+2017,Instagram,2025-03-12,Convertido,5.0,107.71,Iniciante,México,True,2025-03
+2018,Orgânico,2025-01-30,Convertido,4.0,6213.07,High Roller,Brasil,True,2025-01
+2019,YouTube Ads,2025-03-18,Convertido,9.0,5295.09,Scalper,Portugal,True,2025-03
+2020,Instagram,2025-01-21,Convertido,8.0,2983.17,Iniciante,Espanha,True,2025-01
+2021,WhatsApp,2025-03-26,Convertido,9.0,561.99,Trader,Brasil,True,2025-03
+2022,WhatsApp,2025-01-26,Convertido,2.0,3886.37,High Roller,Argentina,True,2025-01
+2023,LinkedIn,2025-03-07,Não Convertido,,0.0,,Espanha,False,2025-03
+2024,Google Ads,2025-04-11,Convertido,3.0,5964.9,Scalper,Argentina,True,2025-04
+2025,Instagram,2025-03-25,Convertido,2.0,8613.41,Investidor,Portugal,True,2025-03
+2026,YouTube Ads,2025-02-15,Convertido,6.0,1788.19,Investidor,Espanha,True,2025-02
+2027,Google Ads,2025-04-02,Não Convertido,,0.0,,Portugal,False,2025-04
+2028,Facebook,2025-02-17,Convertido,6.0,231.32,Trader,Argentina,True,2025-02
+2029,LinkedIn,2025-02-25,Convertido,8.0,9659.76,Scalper,Portugal,True,2025-02
+2030,Orgânico,2025-01-27,Convertido,1.0,3915.62,Scalper,Argentina,True,2025-01
+2031,YouTube Ads,2025-03-07,Não Convertido,,0.0,,Espanha,False,2025-03
+2032,Facebook,2025-04-09,Não Convertido,,0.0,,Brasil,False,2025-04
+2033,YouTube Ads,2025-04-06,Não Convertido,,0.0,,México,False,2025-04
+2034,Google Ads,2025-01-27,Convertido,9.0,1066.95,Scalper,México,True,2025-01
+2035,Facebook,2025-03-07,Não Convertido,,0.0,,México,False,2025-03
+2036,E-mail Marketing,2025-02-18,Não Convertido,,0.0,,Espanha,False,2025-02
+2037,LinkedIn,2025-04-05,Não Convertido,,0.0,,México,False,2025-04
+2038,YouTube Ads,2025-01-31,Convertido,3.0,2486.15,High Roller,Portugal,True,2025-01
+2039,YouTube Ads,2025-01-25,Não Convertido,,0.0,,Espanha,False,2025-01
+2040,Orgânico,2025-02-04,Convertido,6.0,6138.97,Iniciante,Argentina,True,2025-02
+2041,LinkedIn,2025-02-23,Convertido,7.0,440.45,High Roller,México,True,2025-02
+2042,LinkedIn,2025-03-09,Convertido,0.0,2661.92,Scalper,Brasil,True,2025-03
+2043,WhatsApp,2025-01-30,Não Convertido,,0.0,,Espanha,False,2025-01
+2044,Facebook,2025-03-18,Não Convertido,,0.0,,Argentina,False,2025-03
+2045,Instagram,2025-03-04,Não Convertido,,0.0,,Espanha,False,2025-03
+2046,TikTok,2025-03-09,Não Convertido,,0.0,,Portugal,False,2025-03
+2047,E-mail Marketing,2025-02-28,Não Convertido,,0.0,,Portugal,False,2025-02
+2048,Google Ads,2025-01-31,Convertido,7.0,7578.08,Investidor,México,True,2025-01
+2049,TikTok,2025-02-24,Convertido,5.0,2158.62,Iniciante,Portugal,True,2025-02
+2050,Facebook,2025-02-20,Convertido,3.0,1930.06,High Roller,Espanha,True,2025-02
+2051,Facebook,2025-04-07,Convertido,1.0,7773.81,Trader,Brasil,True,2025-04
+2052,LinkedIn,2025-03-17,Convertido,1.0,4011.99,Iniciante,Brasil,True,2025-03
+2053,Orgânico,2025-04-15,Convertido,3.0,6019.21,Investidor,Portugal,True,2025-04
+2054,Orgânico,2025-02-27,Não Convertido,,0.0,,Portugal,False,2025-02
+2055,WhatsApp,2025-03-17,Convertido,7.0,5747.4,Scalper,Portugal,True,2025-03
+2056,Google Ads,2025-02-23,Convertido,8.0,9615.6,Trader,Argentina,True,2025-02
+2057,Orgânico,2025-03-19,Convertido,4.0,3947.91,Iniciante,Brasil,True,2025-03
+2058,WhatsApp,2025-04-05,Convertido,1.0,5442.95,High Roller,Brasil,True,2025-04
+2059,YouTube Ads,2025-01-24,Convertido,7.0,3631.86,Iniciante,Portugal,True,2025-01
+2060,TikTok,2025-04-02,Convertido,8.0,3033.11,Investidor,Brasil,True,2025-04
+2061,Facebook,2025-03-06,Não Convertido,,0.0,,Espanha,False,2025-03
+2062,Indicação,2025-03-23,Convertido,0.0,254.8,Scalper,Portugal,True,2025-03
+2063,TikTok,2025-02-07,Não Convertido,,0.0,,Argentina,False,2025-02
+2064,Instagram,2025-02-26,Não Convertido,,0.0,,Brasil,False,2025-02
+2065,Instagram,2025-03-20,Convertido,8.0,7745.22,Investidor,Argentina,True,2025-03
+2066,Orgânico,2025-02-15,Convertido,7.0,154.67,Iniciante,Argentina,True,2025-02
+2067,Instagram,2025-02-11,Convertido,2.0,7097.89,Investidor,Brasil,True,2025-02
+2068,Facebook,2025-03-12,Convertido,2.0,7922.74,Investidor,México,True,2025-03
+2069,TikTok,2025-03-12,Convertido,4.0,9270.38,Investidor,Espanha,True,2025-03
+2070,Facebook,2025-01-24,Convertido,9.0,1247.1,Trader,Portugal,True,2025-01
+2071,Orgânico,2025-03-22,Convertido,6.0,8515.38,Investidor,Portugal,True,2025-03
+2072,Instagram,2025-04-14,Convertido,1.0,1044.56,Trader,Espanha,True,2025-04
+2073,TikTok,2025-01-26,Convertido,6.0,3178.72,Iniciante,Espanha,True,2025-01
+2074,Twitter,2025-01-29,Não Convertido,,0.0,,Portugal,False,2025-01
+2075,Google Ads,2025-04-16,Convertido,7.0,6692.63,Iniciante,México,True,2025-04
+2076,TikTok,2025-02-24,Convertido,7.0,2819.75,Investidor,Brasil,True,2025-02
+2077,Blog/SEO,2025-04-08,Convertido,2.0,4774.93,High Roller,Brasil,True,2025-04
+2078,YouTube Ads,2025-02-16,Não Convertido,,0.0,,Portugal,False,2025-02
+2079,LinkedIn,2025-02-14,Convertido,4.0,9719.95,High Roller,Portugal,True,2025-02
+2080,TikTok,2025-04-12,Não Convertido,,0.0,,Espanha,False,2025-04
+2081,Orgânico,2025-04-03,Convertido,2.0,7631.77,Investidor,Espanha,True,2025-04
+2082,Google Ads,2025-04-15,Não Convertido,,0.0,,Brasil,False,2025-04
+2083,Facebook,2025-03-20,Não Convertido,,0.0,,Brasil,False,2025-03
+2084,E-mail Marketing,2025-01-25,Convertido,9.0,2436.25,Investidor,Portugal,True,2025-01
+2085,Instagram,2025-04-03,Convertido,6.0,500.29,Iniciante,México,True,2025-04
+2086,YouTube Ads,2025-03-22,Não Convertido,,0.0,,México,False,2025-03
+2087,LinkedIn,2025-02-08,Convertido,9.0,351.65,Iniciante,Brasil,True,2025-02
+2088,Facebook,2025-03-21,Não Convertido,,0.0,,México,False,2025-03
+2089,Orgânico,2025-02-22,Convertido,2.0,411.15,Scalper,México,True,2025-02
+2090,YouTube Ads,2025-01-23,Convertido,6.0,4806.17,Trader,Argentina,True,2025-01
+2091,Facebook,2025-04-12,Convertido,3.0,9084.91,Iniciante,Portugal,True,2025-04
+2092,Orgânico,2025-01-30,Convertido,6.0,6083.73,Trader,Portugal,True,2025-01
+2093,Google Ads,2025-02-10,Não Convertido,,0.0,,Brasil,False,2025-02
+2094,Instagram,2025-02-10,Não Convertido,,0.0,,Portugal,False,2025-02
+2095,Google Ads,2025-04-19,Não Convertido,,0.0,,Espanha,False,2025-04
+2096,TikTok,2025-02-15,Não Convertido,,0.0,,Espanha,False,2025-02
+2097,Twitter,2025-02-21,Não Convertido,,0.0,,Portugal,False,2025-02
+2098,Indicação,2025-03-19,Não Convertido,,0.0,,Portugal,False,2025-03
+2099,Facebook,2025-04-02,Não Convertido,,0.0,,México,False,2025-04
+2100,TikTok,2025-02-06,Convertido,3.0,9434.25,Trader,Portugal,True,2025-02
+2101,Google Ads,2025-03-27,Não Convertido,,0.0,,Brasil,False,2025-03
+2102,Instagram,2025-01-23,Convertido,6.0,2968.54,High Roller,Argentina,True,2025-01
+2103,Instagram,2025-03-08,Convertido,5.0,8816.63,Iniciante,Portugal,True,2025-03
+2104,LinkedIn,2025-02-03,Convertido,9.0,8100.39,Investidor,México,True,2025-02
+2105,Google Ads,2025-01-21,Convertido,8.0,1144.39,Trader,Espanha,True,2025-01
+2106,Facebook,2025-03-27,Convertido,3.0,8936.33,Iniciante,México,True,2025-03
+2107,Facebook,2025-03-23,Convertido,9.0,1308.67,Iniciante,Espanha,True,2025-03
+2108,TikTok,2025-01-24,Convertido,8.0,3248.23,Investidor,Espanha,True,2025-01
+2109,Instagram,2025-04-03,Não Convertido,,0.0,,Brasil,False,2025-04
+2110,Facebook,2025-02-16,Não Convertido,,0.0,,Espanha,False,2025-02
+2111,Twitter,2025-03-13,Convertido,0.0,2794.11,Trader,Portugal,True,2025-03
+2112,Twitter,2025-04-08,Convertido,8.0,8198.35,Trader,México,True,2025-04
+2113,E-mail Marketing,2025-03-14,Convertido,8.0,3117.33,Scalper,México,True,2025-03
+2114,Google Ads,2025-03-22,Convertido,5.0,5156.4,High Roller,México,True,2025-03
+2115,TikTok,2025-02-07,Não Convertido,,0.0,,Argentina,False,2025-02
+2116,LinkedIn,2025-04-13,Convertido,8.0,4899.82,Scalper,Espanha,True,2025-04
+2117,YouTube Ads,2025-03-02,Convertido,0.0,1286.67,High Roller,Brasil,True,2025-03
+2118,TikTok,2025-04-16,Convertido,7.0,9434.81,Iniciante,Espanha,True,2025-04
+2119,TikTok,2025-04-10,Não Convertido,,0.0,,Argentina,False,2025-04
+2120,YouTube Ads,2025-02-02,Não Convertido,,0.0,,Portugal,False,2025-02
+2121,Instagram,2025-03-16,Convertido,5.0,2265.77,High Roller,Espanha,True,2025-03
+2122,Orgânico,2025-04-15,Não Convertido,,0.0,,Portugal,False,2025-04
+2123,Instagram,2025-03-29,Convertido,7.0,7059.89,Scalper,Brasil,True,2025-03
+2124,Orgânico,2025-02-08,Convertido,0.0,742.43,Investidor,Brasil,True,2025-02
+2125,Instagram,2025-02-15,Convertido,9.0,9628.23,High Roller,Argentina,True,2025-02
+2126,Instagram,2025-03-14,Não Convertido,,0.0,,Brasil,False,2025-03
+2127,LinkedIn,2025-01-23,Não Convertido,,0.0,,Brasil,False,2025-01
+2128,Instagram,2025-02-19,Convertido,6.0,5022.76,Investidor,Espanha,True,2025-02
+2129,Instagram,2025-02-16,Convertido,0.0,1566.06,Scalper,Brasil,True,2025-02
+2130,Orgânico,2025-03-09,Convertido,7.0,465.18,Scalper,Espanha,True,2025-03
+2131,Orgânico,2025-02-15,Convertido,0.0,9768.49,Investidor,Espanha,True,2025-02
+2132,TikTok,2025-02-13,Não Convertido,,0.0,,Portugal,False,2025-02
+2133,TikTok,2025-02-18,Não Convertido,,0.0,,México,False,2025-02
+2134,WhatsApp,2025-02-12,Não Convertido,,0.0,,México,False,2025-02
+2135,YouTube Ads,2025-02-15,Convertido,5.0,427.2,Trader,Portugal,True,2025-02
+2136,Orgânico,2025-04-12,Convertido,0.0,6380.08,Iniciante,Portugal,True,2025-04
+2137,LinkedIn,2025-02-22,Convertido,1.0,5356.25,High Roller,Brasil,True,2025-02
+2138,Google Ads,2025-03-17,Não Convertido,,0.0,,Portugal,False,2025-03
+2139,Facebook,2025-02-18,Convertido,9.0,9857.94,Scalper,Argentina,True,2025-02
+2140,TikTok,2025-04-17,Não Convertido,,0.0,,Portugal,False,2025-04
+2141,Google Ads,2025-02-13,Não Convertido,,0.0,,Espanha,False,2025-02
+2142,Facebook,2025-02-09,Convertido,6.0,6754.14,Trader,Espanha,True,2025-02
+2143,Twitter,2025-01-26,Não Convertido,,0.0,,México,False,2025-01
+2144,LinkedIn,2025-04-01,Convertido,7.0,2452.61,Investidor,Argentina,True,2025-04
+2145,WhatsApp,2025-04-18,Convertido,5.0,3741.05,Iniciante,Portugal,True,2025-04
+2146,TikTok,2025-04-10,Convertido,3.0,9835.89,Scalper,Brasil,True,2025-04
+2147,E-mail Marketing,2025-01-27,Não Convertido,,0.0,,Argentina,False,2025-01
+2148,Indicação,2025-01-24,Convertido,5.0,5404.17,Scalper,Espanha,True,2025-01
+2149,Orgânico,2025-02-15,Convertido,0.0,1592.1,Scalper,Brasil,True,2025-02
+2150,Facebook,2025-01-26,Convertido,5.0,6988.55,Iniciante,Argentina,True,2025-01
+2151,Google Ads,2025-03-10,Convertido,2.0,5949.84,Iniciante,Portugal,True,2025-03
+2152,E-mail Marketing,2025-03-12,Convertido,3.0,264.22,Scalper,Argentina,True,2025-03
+2153,Instagram,2025-01-29,Convertido,2.0,8114.06,Investidor,Brasil,True,2025-01
+2154,Facebook,2025-03-28,Convertido,3.0,6487.21,Trader,México,True,2025-03
+2155,WhatsApp,2025-02-19,Não Convertido,,0.0,,Brasil,False,2025-02
+2156,Twitter,2025-03-16,Não Convertido,,0.0,,Portugal,False,2025-03
+2157,Orgânico,2025-04-15,Convertido,3.0,9411.18,Trader,Portugal,True,2025-04
+2158,YouTube Ads,2025-03-23,Convertido,7.0,3928.68,Iniciante,Portugal,True,2025-03
+2159,E-mail Marketing,2025-03-22,Convertido,1.0,8393.33,Trader,Portugal,True,2025-03
+2160,WhatsApp,2025-03-26,Não Convertido,,0.0,,Portugal,False,2025-03
+2161,Facebook,2025-04-10,Não Convertido,,0.0,,Brasil,False,2025-04
+2162,Orgânico,2025-02-18,Convertido,8.0,1223.39,High Roller,Argentina,True,2025-02
+2163,Facebook,2025-04-04,Convertido,6.0,5460.33,Iniciante,Portugal,True,2025-04
+2164,LinkedIn,2025-03-27,Não Convertido,,0.0,,Espanha,False,2025-03
+2165,WhatsApp,2025-03-13,Não Convertido,,0.0,,Espanha,False,2025-03
+2166,Google Ads,2025-03-02,Não Convertido,,0.0,,Argentina,False,2025-03
+2167,Facebook,2025-03-12,Convertido,9.0,2653.62,Scalper,México,True,2025-03
+2168,WhatsApp,2025-02-16,Convertido,9.0,9823.47,Iniciante,Brasil,True,2025-02
+2169,Orgânico,2025-04-10,Não Convertido,,0.0,,Argentina,False,2025-04
+2170,TikTok,2025-04-02,Não Convertido,,0.0,,Espanha,False,2025-04
+2171,Instagram,2025-04-14,Não Convertido,,0.0,,Espanha,False,2025-04
+2172,TikTok,2025-03-19,Convertido,3.0,5343.54,High Roller,Espanha,True,2025-03
+2173,WhatsApp,2025-01-23,Convertido,1.0,9962.91,Scalper,Brasil,True,2025-01
+2174,Instagram,2025-02-18,Convertido,4.0,9014.14,Scalper,Argentina,True,2025-02
+2175,Google Ads,2025-02-09,Não Convertido,,0.0,,Argentina,False,2025-02
+2176,Instagram,2025-03-28,Convertido,6.0,3456.39,Iniciante,Portugal,True,2025-03
+2177,Google Ads,2025-04-07,Não Convertido,,0.0,,Espanha,False,2025-04
+2178,Instagram,2025-02-10,Convertido,2.0,7033.54,High Roller,Brasil,True,2025-02
+2179,Facebook,2025-02-18,Convertido,2.0,8577.61,High Roller,Argentina,True,2025-02
+2180,Orgânico,2025-03-11,Convertido,5.0,7820.77,Trader,Argentina,True,2025-03
+2181,Facebook,2025-03-10,Convertido,7.0,8524.19,High Roller,Portugal,True,2025-03
+2182,Google Ads,2025-02-03,Convertido,0.0,1700.12,Investidor,Espanha,True,2025-02
+2183,YouTube Ads,2025-04-01,Não Convertido,,0.0,,Argentina,False,2025-04
+2184,YouTube Ads,2025-04-06,Não Convertido,,0.0,,México,False,2025-04
+2185,Instagram,2025-03-01,Convertido,5.0,6722.98,High Roller,México,True,2025-03
+2186,Google Ads,2025-03-16,Não Convertido,,0.0,,Espanha,False,2025-03
+2187,Orgânico,2025-02-08,Convertido,2.0,3785.6,Scalper,Portugal,True,2025-02
+2188,Instagram,2025-03-31,Não Convertido,,0.0,,Espanha,False,2025-03
+2189,YouTube Ads,2025-01-20,Não Convertido,,0.0,,México,False,2025-01
+2190,WhatsApp,2025-02-27,Convertido,8.0,6668.67,High Roller,México,True,2025-02
+2191,Google Ads,2025-02-07,Convertido,1.0,1692.0,Trader,Espanha,True,2025-02
+2192,Indicação,2025-04-02,Convertido,1.0,4907.58,High Roller,Espanha,True,2025-04
+2193,Orgânico,2025-03-27,Convertido,2.0,6554.42,Trader,Argentina,True,2025-03
+2194,Orgânico,2025-03-03,Convertido,8.0,1841.66,Iniciante,Argentina,True,2025-03
+2195,Instagram,2025-01-23,Convertido,3.0,2448.77,Scalper,Brasil,True,2025-01
+2196,Facebook,2025-02-25,Convertido,4.0,1870.34,Trader,Brasil,True,2025-02
+2197,Orgânico,2025-01-26,Convertido,7.0,6531.37,Investidor,Brasil,True,2025-01
+2198,Twitter,2025-03-16,Não Convertido,,0.0,,Brasil,False,2025-03
+2199,Facebook,2025-02-03,Convertido,6.0,7237.31,Investidor,Argentina,True,2025-02
+2200,Instagram,2025-01-28,Convertido,0.0,5471.15,Scalper,Espanha,True,2025-01
+2201,Google Ads,2025-04-05,Não Convertido,,0.0,,Espanha,False,2025-04
+2202,Google Ads,2025-04-10,Convertido,2.0,6399.69,Trader,Espanha,True,2025-04
+2203,Twitter,2025-03-28,Convertido,5.0,2515.5,Iniciante,Portugal,True,2025-03
+2204,Orgânico,2025-03-29,Convertido,5.0,9791.04,Investidor,Portugal,True,2025-03
+2205,Facebook,2025-02-05,Convertido,2.0,8931.26,Investidor,Brasil,True,2025-02
+2206,TikTok,2025-02-04,Convertido,1.0,3565.78,Iniciante,Brasil,True,2025-02
+2207,Orgânico,2025-02-23,Convertido,0.0,5811.35,High Roller,Argentina,True,2025-02
+2208,Twitter,2025-01-21,Não Convertido,,0.0,,Espanha,False,2025-01
+2209,Twitter,2025-04-10,Convertido,0.0,2032.91,High Roller,Argentina,True,2025-04
+2210,Orgânico,2025-03-11,Não Convertido,,0.0,,México,False,2025-03
+2211,Facebook,2025-03-25,Não Convertido,,0.0,,Portugal,False,2025-03
+2212,Orgânico,2025-03-19,Não Convertido,,0.0,,Espanha,False,2025-03
+2213,TikTok,2025-02-16,Não Convertido,,0.0,,Argentina,False,2025-02
+2214,Orgânico,2025-04-04,Convertido,2.0,5762.84,Scalper,México,True,2025-04
+2215,TikTok,2025-03-02,Convertido,0.0,531.68,Scalper,Espanha,True,2025-03
+2216,E-mail Marketing,2025-04-09,Convertido,4.0,8846.59,Trader,Espanha,True,2025-04
+2217,Instagram,2025-02-16,Convertido,8.0,9535.41,Trader,Espanha,True,2025-02
+2218,Blog/SEO,2025-01-21,Convertido,0.0,5572.37,High Roller,México,True,2025-01
+2219,TikTok,2025-02-07,Não Convertido,,0.0,,Argentina,False,2025-02
+2220,Instagram,2025-01-29,Convertido,2.0,9805.28,Scalper,Espanha,True,2025-01
+2221,Indicação,2025-03-01,Convertido,3.0,3015.04,Iniciante,Argentina,True,2025-03
+2222,Google Ads,2025-02-03,Não Convertido,,0.0,,Brasil,False,2025-02
+2223,Google Ads,2025-03-11,Convertido,4.0,1990.02,Scalper,Argentina,True,2025-03
+2224,WhatsApp,2025-02-19,Convertido,0.0,3237.53,Trader,Espanha,True,2025-02
+2225,Google Ads,2025-01-21,Convertido,1.0,5612.33,Scalper,México,True,2025-01
+2226,LinkedIn,2025-01-29,Não Convertido,,0.0,,Brasil,False,2025-01
+2227,YouTube Ads,2025-02-28,Convertido,5.0,6990.69,Investidor,Argentina,True,2025-02
+2228,Google Ads,2025-04-01,Convertido,7.0,797.12,Trader,Argentina,True,2025-04
+2229,Instagram,2025-01-23,Convertido,1.0,6188.57,Iniciante,Espanha,True,2025-01
+2230,TikTok,2025-03-11,Convertido,5.0,3650.6,Investidor,Argentina,True,2025-03
+2231,WhatsApp,2025-03-23,Convertido,9.0,8785.99,Trader,Portugal,True,2025-03
+2232,YouTube Ads,2025-03-06,Convertido,0.0,8501.83,Trader,Brasil,True,2025-03
+2233,TikTok,2025-03-15,Convertido,8.0,7054.59,High Roller,Brasil,True,2025-03
+2234,TikTok,2025-02-14,Convertido,6.0,3006.56,Iniciante,México,True,2025-02
+2235,TikTok,2025-03-16,Não Convertido,,0.0,,Argentina,False,2025-03
+2236,Instagram,2025-03-26,Convertido,6.0,4255.83,High Roller,Espanha,True,2025-03
+2237,Twitter,2025-02-20,Não Convertido,,0.0,,Espanha,False,2025-02
+2238,Facebook,2025-02-17,Convertido,1.0,8684.02,Scalper,Brasil,True,2025-02
+2239,Google Ads,2025-01-30,Convertido,9.0,151.33,Trader,Espanha,True,2025-01
+2240,Instagram,2025-03-04,Não Convertido,,0.0,,México,False,2025-03
+2241,Orgânico,2025-02-20,Não Convertido,,0.0,,Argentina,False,2025-02
+2242,TikTok,2025-04-12,Convertido,3.0,8003.12,Investidor,Argentina,True,2025-04
+2243,E-mail Marketing,2025-03-06,Convertido,0.0,802.32,Iniciante,Argentina,True,2025-03
+2244,LinkedIn,2025-01-28,Convertido,2.0,3446.15,High Roller,Portugal,True,2025-01
+2245,LinkedIn,2025-03-27,Convertido,1.0,1030.42,Scalper,Argentina,True,2025-03
+2246,Orgânico,2025-04-02,Convertido,6.0,6753.06,High Roller,Argentina,True,2025-04
+2247,TikTok,2025-04-14,Convertido,2.0,4709.42,Investidor,Brasil,True,2025-04
+2248,Google Ads,2025-02-27,Não Convertido,,0.0,,Brasil,False,2025-02
+2249,TikTok,2025-02-03,Não Convertido,,0.0,,Espanha,False,2025-02
+2250,Facebook,2025-04-01,Convertido,5.0,5949.25,High Roller,Portugal,True,2025-04
+2251,Facebook,2025-04-16,Convertido,5.0,2577.49,Scalper,México,True,2025-04
+2252,Orgânico,2025-01-31,Não Convertido,,0.0,,México,False,2025-01
+2253,LinkedIn,2025-01-22,Não Convertido,,0.0,,Argentina,False,2025-01
+2254,Orgânico,2025-02-01,Não Convertido,,0.0,,Argentina,False,2025-02
+2255,Facebook,2025-02-04,Convertido,9.0,8243.75,Iniciante,Brasil,True,2025-02
+2256,Blog/SEO,2025-02-18,Convertido,5.0,5417.12,Trader,Brasil,True,2025-02
+2257,E-mail Marketing,2025-02-12,Convertido,4.0,5270.21,Iniciante,Brasil,True,2025-02
+2258,LinkedIn,2025-04-04,Convertido,4.0,2788.27,Trader,Brasil,True,2025-04
+2259,Google Ads,2025-04-08,Convertido,4.0,4626.93,High Roller,México,True,2025-04
+2260,YouTube Ads,2025-02-24,Não Convertido,,0.0,,Espanha,False,2025-02
+2261,Instagram,2025-02-07,Convertido,5.0,611.65,Scalper,Portugal,True,2025-02
+2262,Orgânico,2025-03-16,Convertido,3.0,4172.4,Investidor,Portugal,True,2025-03
+2263,Instagram,2025-03-15,Convertido,2.0,6410.56,Scalper,Argentina,True,2025-03
+2264,Instagram,2025-04-08,Não Convertido,,0.0,,Brasil,False,2025-04
+2265,TikTok,2025-03-08,Não Convertido,,0.0,,México,False,2025-03
+2266,Instagram,2025-02-12,Não Convertido,,0.0,,Argentina,False,2025-02
+2267,Blog/SEO,2025-04-02,Convertido,3.0,1414.18,Scalper,México,True,2025-04
+2268,Orgânico,2025-03-03,Não Convertido,,0.0,,Argentina,False,2025-03
+2269,Instagram,2025-03-01,Não Convertido,,0.0,,Argentina,False,2025-03
+2270,Facebook,2025-04-09,Convertido,1.0,5211.37,Investidor,Argentina,True,2025-04
+2271,Google Ads,2025-04-08,Convertido,2.0,7972.34,Scalper,México,True,2025-04
+2272,Instagram,2025-03-26,Não Convertido,,0.0,,Espanha,False,2025-03
+2273,WhatsApp,2025-02-03,Não Convertido,,0.0,,Brasil,False,2025-02
+2274,E-mail Marketing,2025-03-28,Não Convertido,,0.0,,México,False,2025-03
+2275,Instagram,2025-04-14,Convertido,2.0,4445.82,High Roller,México,True,2025-04
+2276,Orgânico,2025-02-09,Convertido,6.0,2583.52,Trader,Portugal,True,2025-02
+2277,Google Ads,2025-01-21,Convertido,9.0,9630.22,Iniciante,Argentina,True,2025-01
+2278,E-mail Marketing,2025-04-17,Não Convertido,,0.0,,Brasil,False,2025-04
+2279,Google Ads,2025-03-04,Convertido,6.0,4340.31,High Roller,Argentina,True,2025-03
+2280,WhatsApp,2025-03-18,Convertido,4.0,676.12,Iniciante,México,True,2025-03
+2281,WhatsApp,2025-03-01,Não Convertido,,0.0,,México,False,2025-03
+2282,Twitter,2025-03-04,Não Convertido,,0.0,,México,False,2025-03
+2283,Google Ads,2025-03-29,Convertido,9.0,1648.73,Trader,Brasil,True,2025-03
+2284,Facebook,2025-03-10,Não Convertido,,0.0,,Portugal,False,2025-03
+2285,E-mail Marketing,2025-04-10,Não Convertido,,0.0,,Argentina,False,2025-04
+2286,WhatsApp,2025-02-09,Convertido,1.0,2473.89,Scalper,México,True,2025-02
+2287,Facebook,2025-01-30,Convertido,5.0,7174.5,Iniciante,Espanha,True,2025-01
+2288,Orgânico,2025-02-02,Convertido,7.0,9352.68,Iniciante,México,True,2025-02
+2289,Facebook,2025-02-24,Convertido,0.0,9553.17,Investidor,Portugal,True,2025-02
+2290,LinkedIn,2025-03-08,Convertido,6.0,6605.4,Investidor,Espanha,True,2025-03
+2291,Instagram,2025-02-22,Convertido,4.0,6156.04,Scalper,Brasil,True,2025-02
+2292,LinkedIn,2025-02-22,Convertido,6.0,572.39,Trader,México,True,2025-02
+2293,Facebook,2025-01-21,Convertido,9.0,3624.13,Scalper,Brasil,True,2025-01
+2294,Facebook,2025-02-01,Não Convertido,,0.0,,Portugal,False,2025-02
+2295,Facebook,2025-02-01,Convertido,4.0,1289.63,Investidor,Argentina,True,2025-02
+2296,TikTok,2025-02-08,Não Convertido,,0.0,,Portugal,False,2025-02
+2297,Orgânico,2025-03-16,Convertido,4.0,1032.15,Iniciante,Argentina,True,2025-03
+2298,Facebook,2025-02-09,Convertido,3.0,1835.77,Scalper,México,True,2025-02
+2299,Twitter,2025-04-16,Convertido,9.0,7657.31,Iniciante,México,True,2025-04
+2300,YouTube Ads,2025-02-18,Convertido,4.0,4787.37,Iniciante,México,True,2025-02

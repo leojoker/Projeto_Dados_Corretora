@@ -1,0 +1,2161 @@
+lead_id,origem,data_cadastro,status_conversao,dias_ate_1o_trade,valor_deposito,perfil,pais
+64189,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Dominican Republic
+64190,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Gabon
+64191,Indicação,2024-01-17,Não Convertido,,0.0,Agressivo,Poland
+64192,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Norway
+64193,TikTok,2024-01-19,Não Convertido,,0.0,Desconhecido,New Caledonia
+64194,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Cocos (Keeling) Islands
+64195,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Heard Island and McDonald Islands
+64196,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Guatemala
+64197,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Moldova
+64198,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Albania
+64199,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Cook Islands
+64200,WhatsApp,2024-01-15,Não Convertido,,0.0,Conservador,Sao Tome and Principe
+64201,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,United Kingdom
+64202,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Saint Helena
+64203,Instagram,2024-01-15,Não Convertido,,0.0,Conservador,United Kingdom
+64204,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Panama
+64205,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Sri Lanka
+64206,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Costa Rica
+64207,YouTube Ads,2024-01-20,Convertido,1.0,8251.52,Agressivo,Argentina
+64208,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Madagascar
+64209,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Uganda
+64210,Indicação,2024-01-15,Não Convertido,,0.0,Conservador,Panama
+64211,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Paraguay
+64212,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,United States of America
+64213,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Taiwan
+64214,Indicação,2024-01-16,Não Convertido,,0.0,Agressivo,Botswana
+64215,Indicação,2024-01-15,Não Convertido,,0.0,Desconhecido,France
+64216,Google Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Switzerland
+64217,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Conservador,Guadeloupe
+64218,Indicação,2024-01-19,Não Convertido,,0.0,Conservador,Libyan Arab Jamahiriya
+64219,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Burkina Faso
+64220,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Cook Islands
+64221,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Tuvalu
+64222,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Cape Verde
+64223,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Solomon Islands
+64224,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Botswana
+64225,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Iraq
+64226,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Iran
+64227,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Paraguay
+64228,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Solomon Islands
+64229,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Greenland
+64230,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Burundi
+64231,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,French Polynesia
+64232,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Tanzania
+64233,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Morocco
+64234,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Myanmar
+64235,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Bhutan
+64236,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Lithuania
+64237,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Cayman Islands
+64238,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Korea
+64239,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,South Africa
+64240,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Desconhecido,Falkland Islands (Malvinas)
+64241,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Iraq
+64242,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Conservador,Cyprus
+64243,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Turks and Caicos Islands
+64244,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Mayotte
+64245,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,British Indian Ocean Territory (Chagos Archipelago)
+64246,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+64247,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Maldives
+64248,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Suriname
+64249,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Turkey
+64250,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Haiti
+64251,WhatsApp,2024-01-19,Não Convertido,,0.0,Agressivo,Gambia
+64252,Instagram,2024-01-15,Não Convertido,,0.0,Desconhecido,Namibia
+64253,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Desconhecido,El Salvador
+64254,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+64255,WhatsApp,2024-01-17,Não Convertido,,0.0,Agressivo,Taiwan
+64256,Instagram,2024-01-19,Não Convertido,,0.0,Desconhecido,Paraguay
+64257,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Pitcairn Islands
+64258,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Ethiopia
+64259,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Micronesia
+64260,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Saint Helena
+64261,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Turkey
+64262,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Panama
+64263,TikTok,2024-01-17,Convertido,22.0,4440.84,Desconhecido,Costa Rica
+64264,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Australia
+64265,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Bolivia
+64266,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Iceland
+64267,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Lesotho
+64268,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Tajikistan
+64269,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Wallis and Futuna
+64270,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Senegal
+64271,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Belize
+64272,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Angola
+64273,Facebook,2024-01-20,Não Convertido,,0.0,Conservador,Montserrat
+64274,Indicação,2024-01-16,Não Convertido,,0.0,Moderado,Montserrat
+64275,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Germany
+64276,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Haiti
+64277,Facebook,2024-01-16,Não Convertido,,0.0,Agressivo,Uganda
+64278,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Ethiopia
+64279,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Jordan
+64280,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Malaysia
+64281,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Belize
+64282,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Conservador,Syrian Arab Republic
+64283,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Heard Island and McDonald Islands
+64284,Indicação,2024-01-15,Não Convertido,,0.0,Agressivo,Denmark
+64285,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Azerbaijan
+64286,Orgânico,2024-01-18,Não Convertido,,0.0,Desconhecido,Slovenia
+64287,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Uzbekistan
+64288,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Ukraine
+64289,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Mali
+64290,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Guatemala
+64291,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Denmark
+64292,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,China
+64293,WhatsApp,2024-01-20,Convertido,19.0,191.36,Moderado,Turkmenistan
+64294,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Taiwan
+64295,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Brunei Darussalam
+64296,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Cape Verde
+64297,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Conservador,Israel
+64298,WhatsApp,2024-01-20,Não Convertido,,0.0,Agressivo,Tanzania
+64299,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Uzbekistan
+64300,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Suriname
+64301,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Nigeria
+64302,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Japan
+64303,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+64304,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Niue
+64305,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,Yemen
+64306,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Brunei Darussalam
+64307,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Faroe Islands
+64308,Facebook,2024-01-18,Não Convertido,,0.0,Desconhecido,Colombia
+64309,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Netherlands Antilles
+64310,Google Ads,2024-01-18,Não Convertido,,0.0,Desconhecido,Anguilla
+64311,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Suriname
+64312,Facebook,2024-01-20,Não Convertido,,0.0,Conservador,Bangladesh
+64313,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Saint Barthelemy
+64314,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Belgium
+64315,Indicação,2024-01-17,Não Convertido,,0.0,Moderado,Djibouti
+64316,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Benin
+64317,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Croatia
+64318,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Liberia
+64319,WhatsApp,2024-01-20,Convertido,21.0,8116.86,Moderado,Azerbaijan
+64320,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Honduras
+64321,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Zimbabwe
+64322,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+64323,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Saint Helena
+64324,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Antigua and Barbuda
+64325,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Maldives
+64326,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Djibouti
+64327,WhatsApp,2024-01-18,Não Convertido,,0.0,Conservador,Papua New Guinea
+64328,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Grenada
+64329,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Chile
+64330,Instagram,2024-01-15,Não Convertido,,0.0,Desconhecido,Lao People's Democratic Republic
+64331,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Saint Barthelemy
+64332,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Namibia
+64333,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Mauritania
+64334,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Desconhecido,Botswana
+64335,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Vanuatu
+64336,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+64337,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Ireland
+64338,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Micronesia
+64339,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Suriname
+64340,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+64341,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Cameroon
+64342,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Slovakia (Slovak Republic)
+64343,YouTube Ads,2024-01-15,Não Convertido,,0.0,Conservador,Bouvet Island (Bouvetoya)
+64344,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,British Virgin Islands
+64345,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Georgia
+64346,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Western Sahara
+64347,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Cayman Islands
+64348,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Djibouti
+64349,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Switzerland
+64350,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Cote d'Ivoire
+64351,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Congo
+64352,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,New Zealand
+64353,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Comoros
+64354,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Norfolk Island
+64355,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Lesotho
+64356,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Suriname
+64357,Indicação,2024-01-16,Não Convertido,,0.0,Agressivo,Mongolia
+64358,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,Trinidad and Tobago
+64359,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Bahrain
+64360,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Malaysia
+64361,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Conservador,Colombia
+64362,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Conservador,Peru
+64363,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Slovenia
+64364,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Northern Mariana Islands
+64365,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Liberia
+64366,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Niger
+64367,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Saint Pierre and Miquelon
+64368,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Burkina Faso
+64369,Orgânico,2024-01-19,Convertido,23.0,1761.69,Desconhecido,Isle of Man
+64370,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,United States Virgin Islands
+64371,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Belize
+64372,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Ethiopia
+64373,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Turkey
+64374,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Paraguay
+64375,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Belarus
+64376,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,Ecuador
+64377,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Zambia
+64378,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Macao
+64379,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Conservador,Northern Mariana Islands
+64380,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Bermuda
+64381,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Tunisia
+64382,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Sierra Leone
+64383,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Belarus
+64384,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Portugal
+64385,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Saint Barthelemy
+64386,Facebook,2024-01-16,Não Convertido,,0.0,Desconhecido,Ukraine
+64387,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Philippines
+64388,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Rwanda
+64389,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Western Sahara
+64390,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Nauru
+64391,Instagram,2024-01-20,Convertido,19.0,4832.68,Conservador,Antigua and Barbuda
+64392,TikTok,2024-01-17,Convertido,21.0,1048.69,Moderado,New Caledonia
+64393,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Djibouti
+64394,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Botswana
+64395,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Qatar
+64396,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Gambia
+64397,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Peru
+64398,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Singapore
+64399,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Suriname
+64400,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Dominica
+64401,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,Italy
+64402,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Russian Federation
+64403,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Australia
+64404,WhatsApp,2024-01-15,Não Convertido,,0.0,Desconhecido,Jamaica
+64405,Orgânico,2024-01-18,Não Convertido,,0.0,Desconhecido,Cape Verde
+64406,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Thailand
+64407,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Burundi
+64408,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Vanuatu
+64409,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Christmas Island
+64410,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Sudan
+64411,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Djibouti
+64412,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Rwanda
+64413,YouTube Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Grenada
+64414,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Monaco
+64415,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Costa Rica
+64416,TikTok,2024-01-19,Convertido,17.0,7861.87,Conservador,Antigua and Barbuda
+64417,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Armenia
+64418,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Brunei Darussalam
+64419,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Germany
+64420,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Conservador,Brazil
+64421,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Zambia
+64422,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Cook Islands
+64423,WhatsApp,2024-01-16,Não Convertido,,0.0,Agressivo,Cyprus
+64424,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Namibia
+64425,Facebook,2024-01-18,Não Convertido,,0.0,Conservador,American Samoa
+64426,Google Ads,2024-01-17,Não Convertido,,0.0,Conservador,British Indian Ocean Territory (Chagos Archipelago)
+64427,TikTok,2024-01-20,Não Convertido,,0.0,Desconhecido,Nepal
+64428,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Guadeloupe
+64429,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Reunion
+64430,TikTok,2024-01-20,Não Convertido,,0.0,Agressivo,United States of America
+64431,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Samoa
+64432,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Western Sahara
+64433,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Congo
+64434,WhatsApp,2024-01-20,Não Convertido,,0.0,Desconhecido,Guernsey
+64435,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Canada
+64436,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Western Sahara
+64437,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Timor-Leste
+64438,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Denmark
+64439,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Iran
+64440,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Syrian Arab Republic
+64441,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Malta
+64442,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Djibouti
+64443,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Samoa
+64444,Orgânico,2024-01-15,Convertido,19.0,9850.79,Agressivo,Mali
+64445,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Netherlands Antilles
+64446,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Western Sahara
+64447,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Martinique
+64448,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Netherlands
+64449,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+64450,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Guinea-Bissau
+64451,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Iceland
+64452,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Guyana
+64453,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Cameroon
+64454,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Bermuda
+64455,YouTube Ads,2024-01-20,Não Convertido,,0.0,Desconhecido,Latvia
+64456,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,American Samoa
+64457,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Chile
+64458,Indicação,2024-01-16,Não Convertido,,0.0,Moderado,Korea
+64459,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Lebanon
+64460,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,India
+64461,Instagram,2024-01-19,Não Convertido,,0.0,Desconhecido,Rwanda
+64462,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Hong Kong
+64463,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Turks and Caicos Islands
+64464,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Montenegro
+64465,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,United Arab Emirates
+64466,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Greenland
+64467,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Bosnia and Herzegovina
+64468,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Chad
+64469,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,British Indian Ocean Territory (Chagos Archipelago)
+64470,YouTube Ads,2024-01-19,Não Convertido,,0.0,Desconhecido,Belize
+64471,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Botswana
+64472,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Mauritius
+64473,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Sweden
+64474,Facebook,2024-01-18,Não Convertido,,0.0,Conservador,Canada
+64475,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Norway
+64476,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Netherlands Antilles
+64477,WhatsApp,2024-01-16,Não Convertido,,0.0,Desconhecido,Cameroon
+64478,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Desconhecido,Falkland Islands (Malvinas)
+64479,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Mozambique
+64480,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Samoa
+64481,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Portugal
+64482,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,France
+64483,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Moldova
+64484,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,New Caledonia
+64485,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Ukraine
+64486,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Albania
+64487,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Northern Mariana Islands
+64488,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Svalbard & Jan Mayen Islands
+64489,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Mauritius
+64490,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,India
+64491,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Chile
+64492,Orgânico,2024-01-18,Convertido,5.0,8411.89,Desconhecido,Kuwait
+64493,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Bangladesh
+64494,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Cuba
+64495,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Swaziland
+64496,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Madagascar
+64497,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Solomon Islands
+64498,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Cape Verde
+64499,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,Cape Verde
+64500,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Sao Tome and Principe
+64501,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Guadeloupe
+64502,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Bhutan
+64503,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Faroe Islands
+64504,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Guam
+64505,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Netherlands
+64506,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Kazakhstan
+64507,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Reunion
+64508,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Malaysia
+64509,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,British Virgin Islands
+64510,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Yemen
+64511,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Niue
+64512,WhatsApp,2024-01-19,Não Convertido,,0.0,Agressivo,Turks and Caicos Islands
+64513,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Dominican Republic
+64514,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Heard Island and McDonald Islands
+64515,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Iraq
+64516,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Guernsey
+64517,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Israel
+64518,YouTube Ads,2024-01-16,Não Convertido,,0.0,Conservador,Korea
+64519,YouTube Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Uruguay
+64520,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Central African Republic
+64521,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Botswana
+64522,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Austria
+64523,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,San Marino
+64524,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Jamaica
+64525,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Nigeria
+64526,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Mauritania
+64527,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Kyrgyz Republic
+64528,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Guernsey
+64529,TikTok,2024-01-20,Não Convertido,,0.0,Desconhecido,Israel
+64530,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Bolivia
+64531,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Puerto Rico
+64532,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Qatar
+64533,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Gibraltar
+64534,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Samoa
+64535,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Conservador,Niue
+64536,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Venezuela
+64537,Indicação,2024-01-16,Não Convertido,,0.0,Moderado,Georgia
+64538,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,Northern Mariana Islands
+64539,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Liechtenstein
+64540,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Belarus
+64541,Instagram,2024-01-15,Não Convertido,,0.0,Conservador,Mongolia
+64542,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+64543,Orgânico,2024-01-16,Convertido,20.0,2371.09,Desconhecido,Somalia
+64544,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Turks and Caicos Islands
+64545,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Mali
+64546,YouTube Ads,2024-01-15,Não Convertido,,0.0,Conservador,Maldives
+64547,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Gibraltar
+64548,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Kuwait
+64549,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Puerto Rico
+64550,Indicação,2024-01-15,Não Convertido,,0.0,Desconhecido,British Virgin Islands
+64551,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,Turkey
+64552,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Turkmenistan
+64553,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Jordan
+64554,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Rwanda
+64555,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Egypt
+64556,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Canada
+64557,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Albania
+64558,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Costa Rica
+64559,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Czech Republic
+64560,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Venezuela
+64561,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Hong Kong
+64562,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+64563,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Canada
+64564,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Faroe Islands
+64565,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Marshall Islands
+64566,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,American Samoa
+64567,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Azerbaijan
+64568,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Saudi Arabia
+64569,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Canada
+64570,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Madagascar
+64571,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Turks and Caicos Islands
+64572,WhatsApp,2024-01-20,Não Convertido,,0.0,Agressivo,Hungary
+64573,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Latvia
+64574,TikTok,2024-01-19,Convertido,25.0,3506.86,Moderado,Pakistan
+64575,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,French Southern Territories
+64576,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Papua New Guinea
+64577,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Cook Islands
+64578,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Spain
+64579,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,United Arab Emirates
+64580,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Spain
+64581,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Conservador,Guam
+64582,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Tajikistan
+64583,Indicação,2024-01-20,Não Convertido,,0.0,Moderado,Russian Federation
+64584,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Malta
+64585,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Malawi
+64586,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Mauritius
+64587,Google Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Sri Lanka
+64588,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Zambia
+64589,Indicação,2024-01-20,Não Convertido,,0.0,Moderado,Sudan
+64590,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,American Samoa
+64591,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Bouvet Island (Bouvetoya)
+64592,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,British Virgin Islands
+64593,Google Ads,2024-01-15,Não Convertido,,0.0,Desconhecido,Palestinian Territory
+64594,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Kiribati
+64595,TikTok,2024-01-20,Convertido,6.0,3754.26,Moderado,Cape Verde
+64596,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Liberia
+64597,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Senegal
+64598,Instagram,2024-01-16,Convertido,25.0,6832.28,Moderado,Congo
+64599,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Morocco
+64600,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Korea
+64601,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,El Salvador
+64602,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Zambia
+64603,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Central African Republic
+64604,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Liechtenstein
+64605,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Aruba
+64606,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Azerbaijan
+64607,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Guam
+64608,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,United States of America
+64609,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Mauritius
+64610,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Chile
+64611,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Yemen
+64612,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Lao People's Democratic Republic
+64613,TikTok,2024-01-19,Não Convertido,,0.0,Desconhecido,Liechtenstein
+64614,WhatsApp,2024-01-17,Não Convertido,,0.0,Agressivo,Niger
+64615,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Eritrea
+64616,YouTube Ads,2024-01-18,Não Convertido,,0.0,Desconhecido,Bahrain
+64617,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Swaziland
+64618,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Andorra
+64619,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Lesotho
+64620,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,North Macedonia
+64621,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Sri Lanka
+64622,YouTube Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Heard Island and McDonald Islands
+64623,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Somalia
+64624,E-mail Marketing,2024-01-15,Convertido,5.0,4810.42,Conservador,Djibouti
+64625,WhatsApp,2024-01-17,Não Convertido,,0.0,Desconhecido,Cyprus
+64626,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,Oman
+64627,YouTube Ads,2024-01-19,Não Convertido,,0.0,Conservador,Portugal
+64628,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Jordan
+64629,Orgânico,2024-01-19,Não Convertido,,0.0,Desconhecido,New Zealand
+64630,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Solomon Islands
+64631,YouTube Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Trinidad and Tobago
+64632,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Grenada
+64633,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Belarus
+64634,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Falkland Islands (Malvinas)
+64635,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Turkey
+64636,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Guinea
+64637,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Tunisia
+64638,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Oman
+64639,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Saudi Arabia
+64640,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Burundi
+64641,Instagram,2024-01-15,Não Convertido,,0.0,Conservador,Sierra Leone
+64642,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Netherlands
+64643,YouTube Ads,2024-01-16,Não Convertido,,0.0,Conservador,Italy
+64644,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Peru
+64645,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Yemen
+64646,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Pitcairn Islands
+64647,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Australia
+64648,Indicação,2024-01-17,Não Convertido,,0.0,Desconhecido,Kyrgyz Republic
+64649,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Iceland
+64650,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Guyana
+64651,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+64652,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Colombia
+64653,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,Aruba
+64654,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Switzerland
+64655,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Palau
+64656,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Andorra
+64657,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Afghanistan
+64658,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Sudan
+64659,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Georgia
+64660,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,New Caledonia
+64661,Google Ads,2024-01-17,Não Convertido,,0.0,Conservador,Western Sahara
+64662,TikTok,2024-01-15,Não Convertido,,0.0,Desconhecido,Bangladesh
+64663,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Honduras
+64664,Facebook,2024-01-20,Não Convertido,,0.0,Desconhecido,Australia
+64665,YouTube Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Angola
+64666,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Nicaragua
+64667,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Sweden
+64668,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Bouvet Island (Bouvetoya)
+64669,WhatsApp,2024-01-17,Convertido,25.0,3449.16,Moderado,Ireland
+64670,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Bahrain
+64671,Facebook,2024-01-16,Convertido,2.0,2925.35,Conservador,Kenya
+64672,Instagram,2024-01-16,Não Convertido,,0.0,Desconhecido,Northern Mariana Islands
+64673,YouTube Ads,2024-01-18,Não Convertido,,0.0,Conservador,Azerbaijan
+64674,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Somalia
+64675,YouTube Ads,2024-01-18,Não Convertido,,0.0,Desconhecido,Uruguay
+64676,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Barbados
+64677,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Guinea-Bissau
+64678,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Tunisia
+64679,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Tunisia
+64680,Indicação,2024-01-19,Não Convertido,,0.0,Conservador,Italy
+64681,Orgânico,2024-01-16,Convertido,6.0,8207.96,Moderado,French Polynesia
+64682,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Sudan
+64683,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,Afghanistan
+64684,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Bangladesh
+64685,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Iraq
+64686,YouTube Ads,2024-01-15,Não Convertido,,0.0,Conservador,Belize
+64687,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Philippines
+64688,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Portugal
+64689,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Singapore
+64690,Orgânico,2024-01-17,Convertido,7.0,163.8,Conservador,Uganda
+64691,WhatsApp,2024-01-17,Não Convertido,,0.0,Agressivo,New Caledonia
+64692,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Moldova
+64693,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Mozambique
+64694,Instagram,2024-01-15,Convertido,6.0,3716.06,Moderado,Italy
+64695,TikTok,2024-01-15,Convertido,30.0,2927.23,Moderado,Qatar
+64696,YouTube Ads,2024-01-19,Não Convertido,,0.0,Desconhecido,Monaco
+64697,TikTok,2024-01-15,Convertido,20.0,1235.69,Moderado,Belgium
+64698,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Puerto Rico
+64699,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Somalia
+64700,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Moldova
+64701,Indicação,2024-01-15,Não Convertido,,0.0,Conservador,Bermuda
+64702,WhatsApp,2024-01-16,Não Convertido,,0.0,Agressivo,Monaco
+64703,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Martinique
+64704,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Somalia
+64705,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,British Virgin Islands
+64706,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Norway
+64707,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Montserrat
+64708,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Lesotho
+64709,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Dominica
+64710,Indicação,2024-01-16,Não Convertido,,0.0,Moderado,Morocco
+64711,TikTok,2024-01-19,Convertido,10.0,503.7,Conservador,Martinique
+64712,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Armenia
+64713,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Gambia
+64714,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Liechtenstein
+64715,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Burkina Faso
+64716,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Saint Barthelemy
+64717,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Kuwait
+64718,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Honduras
+64719,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Yemen
+64720,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Desconhecido,Jersey
+64721,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Falkland Islands (Malvinas)
+64722,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Lithuania
+64723,Google Ads,2024-01-16,Convertido,25.0,6611.79,Moderado,Cameroon
+64724,WhatsApp,2024-01-19,Não Convertido,,0.0,Agressivo,Azerbaijan
+64725,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Haiti
+64726,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Hungary
+64727,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Falkland Islands (Malvinas)
+64728,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Trinidad and Tobago
+64729,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Jordan
+64730,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+64731,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Vietnam
+64732,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Zambia
+64733,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Anguilla
+64734,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,United States Minor Outlying Islands
+64735,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Finland
+64736,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Iran
+64737,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Mozambique
+64738,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Isle of Man
+64739,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Norway
+64740,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Malta
+64741,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Dominica
+64742,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Cuba
+64743,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,Tunisia
+64744,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Egypt
+64745,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Romania
+64746,Orgânico,2024-01-16,Convertido,7.0,7901.13,Moderado,French Guiana
+64747,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Norfolk Island
+64748,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Switzerland
+64749,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Namibia
+64750,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Armenia
+64751,TikTok,2024-01-15,Não Convertido,,0.0,Desconhecido,Mali
+64752,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,United States Minor Outlying Islands
+64753,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Lao People's Democratic Republic
+64754,YouTube Ads,2024-01-19,Não Convertido,,0.0,Conservador,Myanmar
+64755,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+64756,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Canada
+64757,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Myanmar
+64758,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Singapore
+64759,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Bahrain
+64760,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Belize
+64761,E-mail Marketing,2024-01-15,Convertido,23.0,8060.85,Conservador,Comoros
+64762,YouTube Ads,2024-01-18,Convertido,23.0,4046.19,Agressivo,Croatia
+64763,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Peru
+64764,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Djibouti
+64765,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Poland
+64766,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Bangladesh
+64767,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Honduras
+64768,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Conservador,Heard Island and McDonald Islands
+64769,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,United Kingdom
+64770,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Honduras
+64771,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Nepal
+64772,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,North Macedonia
+64773,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Faroe Islands
+64774,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Cape Verde
+64775,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Falkland Islands (Malvinas)
+64776,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Liberia
+64777,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Thailand
+64778,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Slovenia
+64779,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Mexico
+64780,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Pitcairn Islands
+64781,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Botswana
+64782,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Fiji
+64783,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Chad
+64784,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Bahamas
+64785,YouTube Ads,2024-01-20,Convertido,0.0,9728.21,Agressivo,Spain
+64786,TikTok,2024-01-16,Não Convertido,,0.0,Desconhecido,Thailand
+64787,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,Saudi Arabia
+64788,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Eritrea
+64789,TikTok,2024-01-18,Convertido,17.0,7153.86,Moderado,Austria
+64790,Facebook,2024-01-19,Convertido,12.0,5547.35,Moderado,India
+64791,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Syrian Arab Republic
+64792,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Estonia
+64793,Indicação,2024-01-20,Não Convertido,,0.0,Desconhecido,Tajikistan
+64794,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Cote d'Ivoire
+64795,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Holy See (Vatican City State)
+64796,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Iceland
+64797,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Burundi
+64798,YouTube Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Tanzania
+64799,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Saint Lucia
+64800,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Saint Kitts and Nevis
+64801,Google Ads,2024-01-20,Não Convertido,,0.0,Conservador,Morocco
+64802,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Iraq
+64803,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Barbados
+64804,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Poland
+64805,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Cook Islands
+64806,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Algeria
+64807,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Australia
+64808,Google Ads,2024-01-17,Convertido,11.0,2382.12,Moderado,Tonga
+64809,Google Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Romania
+64810,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Micronesia
+64811,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Mexico
+64812,TikTok,2024-01-17,Não Convertido,,0.0,Conservador,Australia
+64813,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Greece
+64814,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,Portugal
+64815,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,San Marino
+64816,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+64817,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Denmark
+64818,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Singapore
+64819,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Cocos (Keeling) Islands
+64820,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Guam
+64821,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Thailand
+64822,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Bangladesh
+64823,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Maldives
+64824,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Belgium
+64825,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Pakistan
+64826,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,United States of America
+64827,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Eritrea
+64828,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Guam
+64829,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Costa Rica
+64830,Orgânico,2024-01-15,Convertido,6.0,189.25,Moderado,Burundi
+64831,Google Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Colombia
+64832,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Cayman Islands
+64833,WhatsApp,2024-01-15,Convertido,26.0,6720.89,Agressivo,Serbia
+64834,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,British Indian Ocean Territory (Chagos Archipelago)
+64835,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Netherlands Antilles
+64836,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Korea
+64837,Facebook,2024-01-16,Não Convertido,,0.0,Agressivo,Croatia
+64838,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Faroe Islands
+64839,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Tuvalu
+64840,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Tonga
+64841,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Australia
+64842,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Macao
+64843,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Guinea-Bissau
+64844,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Gabon
+64845,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Equatorial Guinea
+64846,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Slovenia
+64847,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Bermuda
+64848,Instagram,2024-01-19,Não Convertido,,0.0,Desconhecido,Saint Barthelemy
+64849,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+64850,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Mauritania
+64851,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Myanmar
+64852,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Dominica
+64853,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,France
+64854,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Azerbaijan
+64855,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Namibia
+64856,YouTube Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Poland
+64857,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Sao Tome and Principe
+64858,WhatsApp,2024-01-17,Não Convertido,,0.0,Agressivo,Guadeloupe
+64859,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Gabon
+64860,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Guam
+64861,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Argentina
+64862,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Paraguay
+64863,Google Ads,2024-01-15,Não Convertido,,0.0,Desconhecido,Netherlands
+64864,Instagram,2024-01-17,Não Convertido,,0.0,Desconhecido,Jersey
+64865,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,French Southern Territories
+64866,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Lithuania
+64867,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Malta
+64868,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Canada
+64869,YouTube Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Senegal
+64870,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Korea
+64871,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Angola
+64872,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Cocos (Keeling) Islands
+64873,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Mongolia
+64874,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Jersey
+64875,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Niger
+64876,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Malawi
+64877,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Botswana
+64878,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Ethiopia
+64879,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Guinea-Bissau
+64880,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Ethiopia
+64881,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Bahrain
+64882,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Costa Rica
+64883,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Saint Pierre and Miquelon
+64884,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Uzbekistan
+64885,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,United States of America
+64886,Instagram,2024-01-16,Não Convertido,,0.0,Desconhecido,Equatorial Guinea
+64887,Facebook,2024-01-20,Não Convertido,,0.0,Conservador,Tunisia
+64888,YouTube Ads,2024-01-18,Não Convertido,,0.0,Conservador,Sri Lanka
+64889,Google Ads,2024-01-19,Não Convertido,,0.0,Desconhecido,Venezuela
+64890,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Desconhecido,Uganda
+64891,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Eritrea
+64892,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Yemen
+64893,YouTube Ads,2024-01-20,Não Convertido,,0.0,Conservador,Nauru
+64894,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Tanzania
+64895,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,New Caledonia
+64896,YouTube Ads,2024-01-19,Não Convertido,,0.0,Conservador,United States Minor Outlying Islands
+64897,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Netherlands Antilles
+64898,WhatsApp,2024-01-16,Convertido,15.0,6953.8,Conservador,French Guiana
+64899,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Faroe Islands
+64900,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Conservador,Bangladesh
+64901,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Bosnia and Herzegovina
+64902,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Georgia
+64903,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,United Kingdom
+64904,TikTok,2024-01-18,Não Convertido,,0.0,Desconhecido,Turkmenistan
+64905,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Mayotte
+64906,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Timor-Leste
+64907,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Palestinian Territory
+64908,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+64909,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Romania
+64910,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Lao People's Democratic Republic
+64911,Indicação,2024-01-17,Não Convertido,,0.0,Desconhecido,Qatar
+64912,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Hungary
+64913,TikTok,2024-01-19,Não Convertido,,0.0,Desconhecido,Paraguay
+64914,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,British Virgin Islands
+64915,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Heard Island and McDonald Islands
+64916,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,New Zealand
+64917,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Tunisia
+64918,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Saudi Arabia
+64919,WhatsApp,2024-01-17,Não Convertido,,0.0,Moderado,Liberia
+64920,WhatsApp,2024-01-20,Não Convertido,,0.0,Conservador,Ukraine
+64921,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Egypt
+64922,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+64923,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,British Virgin Islands
+64924,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Cape Verde
+64925,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,Belarus
+64926,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Antigua and Barbuda
+64927,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Hong Kong
+64928,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,United Kingdom
+64929,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Philippines
+64930,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Serbia
+64931,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Mayotte
+64932,Orgânico,2024-01-18,Não Convertido,,0.0,Desconhecido,Madagascar
+64933,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Guam
+64934,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,French Polynesia
+64935,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Singapore
+64936,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Aruba
+64937,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,China
+64938,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Oman
+64939,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,United States Virgin Islands
+64940,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Saint Lucia
+64941,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Armenia
+64942,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Jamaica
+64943,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,New Caledonia
+64944,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Bermuda
+64945,YouTube Ads,2024-01-18,Não Convertido,,0.0,Conservador,Nauru
+64946,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Nauru
+64947,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Suriname
+64948,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Syrian Arab Republic
+64949,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Bermuda
+64950,Orgânico,2024-01-19,Não Convertido,,0.0,Desconhecido,Poland
+64951,Google Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Montserrat
+64952,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Sweden
+64953,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Cyprus
+64954,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Croatia
+64955,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Cape Verde
+64956,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Vanuatu
+64957,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Grenada
+64958,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Kuwait
+64959,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Dominican Republic
+64960,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Uganda
+64961,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Cameroon
+64962,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+64963,Indicação,2024-01-17,Não Convertido,,0.0,Desconhecido,Palestinian Territory
+64964,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Morocco
+64965,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Gibraltar
+64966,TikTok,2024-01-18,Não Convertido,,0.0,Desconhecido,Uzbekistan
+64967,WhatsApp,2024-01-15,Não Convertido,,0.0,Conservador,United States Virgin Islands
+64968,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Benin
+64969,Orgânico,2024-01-18,Não Convertido,,0.0,Desconhecido,Pitcairn Islands
+64970,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Macao
+64971,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Mayotte
+64972,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+64973,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Micronesia
+64974,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Antigua and Barbuda
+64975,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Jamaica
+64976,YouTube Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Congo
+64977,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Sri Lanka
+64978,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Martinique
+64979,WhatsApp,2024-01-19,Não Convertido,,0.0,Desconhecido,Italy
+64980,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Gibraltar
+64981,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Algeria
+64982,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Somalia
+64983,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Israel
+64984,Orgânico,2024-01-18,Não Convertido,,0.0,Desconhecido,Andorra
+64985,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Monaco
+64986,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Cameroon
+64987,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Portugal
+64988,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Gambia
+64989,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Rwanda
+64990,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Portugal
+64991,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Iceland
+64992,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Guatemala
+64993,Facebook,2024-01-20,Não Convertido,,0.0,Desconhecido,Guinea
+64994,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Madagascar
+64995,Facebook,2024-01-20,Não Convertido,,0.0,Conservador,Nicaragua
+64996,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Kuwait
+64997,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Czech Republic
+64998,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Tajikistan
+64999,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Djibouti
+65000,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Israel
+65001,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Czech Republic
+65002,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Fiji
+65003,TikTok,2024-01-20,Convertido,27.0,8009.66,Conservador,Moldova
+65004,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Dominica
+65005,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Uruguay
+65006,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Timor-Leste
+65007,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Martinique
+65008,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Gabon
+65009,E-mail Marketing,2024-01-16,Convertido,1.0,7994.78,Agressivo,Andorra
+65010,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Sudan
+65011,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Kiribati
+65012,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Guernsey
+65013,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Albania
+65014,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Saint Kitts and Nevis
+65015,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,United Kingdom
+65016,TikTok,2024-01-18,Não Convertido,,0.0,Desconhecido,Fiji
+65017,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Korea
+65018,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Mayotte
+65019,Indicação,2024-01-17,Não Convertido,,0.0,Moderado,New Zealand
+65020,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Mexico
+65021,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Kuwait
+65022,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Morocco
+65023,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Ghana
+65024,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Netherlands
+65025,Facebook,2024-01-17,Convertido,6.0,3956.36,Conservador,Romania
+65026,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Mayotte
+65027,Orgânico,2024-01-15,Não Convertido,,0.0,Desconhecido,Cayman Islands
+65028,Indicação,2024-01-18,Não Convertido,,0.0,Conservador,Chile
+65029,Indicação,2024-01-19,Convertido,15.0,3972.77,Agressivo,Guinea
+65030,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Marshall Islands
+65031,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Algeria
+65032,Facebook,2024-01-15,Não Convertido,,0.0,Desconhecido,Hungary
+65033,YouTube Ads,2024-01-20,Não Convertido,,0.0,Conservador,Guinea-Bissau
+65034,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Ecuador
+65035,WhatsApp,2024-01-19,Não Convertido,,0.0,Conservador,Guatemala
+65036,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+65037,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Samoa
+65038,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Slovenia
+65039,TikTok,2024-01-20,Não Convertido,,0.0,Desconhecido,Egypt
+65040,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Pitcairn Islands
+65041,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Slovenia
+65042,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Desconhecido,Nicaragua
+65043,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Montenegro
+65044,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Indonesia
+65045,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Rwanda
+65046,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Mali
+65047,TikTok,2024-01-17,Não Convertido,,0.0,Conservador,Sierra Leone
+65048,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Mayotte
+65049,Google Ads,2024-01-16,Não Convertido,,0.0,Desconhecido,Iceland
+65050,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Guinea
+65051,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Kiribati
+65052,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Namibia
+65053,TikTok,2024-01-19,Não Convertido,,0.0,Desconhecido,Jamaica
+65054,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,New Zealand
+65055,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Nigeria
+65056,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Mongolia
+65057,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Singapore
+65058,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Guyana
+65059,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Seychelles
+65060,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Rwanda
+65061,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Uganda
+65062,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Congo
+65063,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,South Georgia and the South Sandwich Islands
+65064,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Guinea-Bissau
+65065,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Singapore
+65066,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Liberia
+65067,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Russian Federation
+65068,Indicação,2024-01-20,Não Convertido,,0.0,Desconhecido,India
+65069,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,New Zealand
+65070,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Sao Tome and Principe
+65071,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Cambodia
+65072,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Armenia
+65073,Facebook,2024-01-16,Não Convertido,,0.0,Conservador,Lebanon
+65074,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Gibraltar
+65075,WhatsApp,2024-01-19,Não Convertido,,0.0,Conservador,Vietnam
+65076,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,South Georgia and the South Sandwich Islands
+65077,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Uruguay
+65078,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,North Macedonia
+65079,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Bosnia and Herzegovina
+65080,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Saudi Arabia
+65081,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Bahrain
+65082,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Netherlands
+65083,Instagram,2024-01-17,Convertido,28.0,6926.87,Moderado,Malawi
+65084,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Liechtenstein
+65085,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Norway
+65086,E-mail Marketing,2024-01-18,Convertido,3.0,8103.43,Moderado,Latvia
+65087,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Greece
+65088,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,British Indian Ocean Territory (Chagos Archipelago)
+65089,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+65090,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Benin
+65091,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Jordan
+65092,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Spain
+65093,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Micronesia
+65094,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Comoros
+65095,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,Lesotho
+65096,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Egypt
+65097,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Mali
+65098,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Guadeloupe
+65099,Orgânico,2024-01-18,Convertido,21.0,4708.69,Agressivo,Christmas Island
+65100,Orgânico,2024-01-19,Não Convertido,,0.0,Desconhecido,France
+65101,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Venezuela
+65102,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Israel
+65103,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Yemen
+65104,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Paraguay
+65105,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Saint Pierre and Miquelon
+65106,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Macao
+65107,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Palau
+65108,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Uzbekistan
+65109,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Grenada
+65110,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Dominican Republic
+65111,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Northern Mariana Islands
+65112,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Samoa
+65113,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Conservador,Switzerland
+65114,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Israel
+65115,TikTok,2024-01-18,Convertido,18.0,2438.32,Agressivo,Anguilla
+65116,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Congo
+65117,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Hong Kong
+65118,Google Ads,2024-01-17,Não Convertido,,0.0,Conservador,Yemen
+65119,Orgânico,2024-01-15,Não Convertido,,0.0,Desconhecido,Grenada
+65120,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,Estonia
+65121,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Myanmar
+65122,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Cuba
+65123,Orgânico,2024-01-20,Convertido,17.0,5879.17,Agressivo,Antigua and Barbuda
+65124,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Liechtenstein
+65125,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Swaziland
+65126,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Seychelles
+65127,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Guam
+65128,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Georgia
+65129,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Uganda
+65130,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Equatorial Guinea
+65131,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,United States Virgin Islands
+65132,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Togo
+65133,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Afghanistan
+65134,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Zimbabwe
+65135,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Syrian Arab Republic
+65136,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Bosnia and Herzegovina
+65137,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Iraq
+65138,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Cook Islands
+65139,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Portugal
+65140,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Brunei Darussalam
+65141,Instagram,2024-01-16,Convertido,19.0,5072.62,Moderado,Denmark
+65142,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Conservador,Indonesia
+65143,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Turkmenistan
+65144,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Mauritania
+65145,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Italy
+65146,Instagram,2024-01-15,Não Convertido,,0.0,Desconhecido,Cape Verde
+65147,Indicação,2024-01-18,Não Convertido,,0.0,Moderado,American Samoa
+65148,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,Hong Kong
+65149,Indicação,2024-01-15,Convertido,10.0,1452.95,Moderado,Belgium
+65150,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Vietnam
+65151,Orgânico,2024-01-20,Convertido,17.0,806.96,Agressivo,Malaysia
+65152,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Nigeria
+65153,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Falkland Islands (Malvinas)
+65154,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Dominican Republic
+65155,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+65156,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+65157,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Cyprus
+65158,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Uruguay
+65159,Facebook,2024-01-15,Não Convertido,,0.0,Desconhecido,Liechtenstein
+65160,YouTube Ads,2024-01-20,Não Convertido,,0.0,Desconhecido,Tonga
+65161,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Mexico
+65162,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Belarus
+65163,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Estonia
+65164,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Saint Barthelemy
+65165,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,United States of America
+65166,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,United States Minor Outlying Islands
+65167,Indicação,2024-01-17,Não Convertido,,0.0,Moderado,Ukraine
+65168,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Uganda
+65169,Indicação,2024-01-18,Não Convertido,,0.0,Moderado,Kuwait
+65170,WhatsApp,2024-01-15,Não Convertido,,0.0,Desconhecido,Egypt
+65171,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,Israel
+65172,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Ecuador
+65173,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Bhutan
+65174,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,British Virgin Islands
+65175,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Russian Federation
+65176,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Hungary
+65177,YouTube Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Croatia
+65178,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Finland
+65179,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Azerbaijan
+65180,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Haiti
+65181,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Burundi
+65182,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Cuba
+65183,WhatsApp,2024-01-19,Não Convertido,,0.0,Desconhecido,China
+65184,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Brunei Darussalam
+65185,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Cyprus
+65186,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Uganda
+65187,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Mayotte
+65188,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Congo
+65189,Google Ads,2024-01-20,Não Convertido,,0.0,Desconhecido,Jersey
+65190,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Brunei Darussalam
+65191,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Christmas Island
+65192,Orgânico,2024-01-16,Não Convertido,,0.0,Desconhecido,Mauritius
+65193,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Syrian Arab Republic
+65194,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Kyrgyz Republic
+65195,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Niue
+65196,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Bolivia
+65197,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Fiji
+65198,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,United Kingdom
+65199,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Singapore
+65200,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,New Zealand
+65201,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Guinea
+65202,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Palestinian Territory
+65203,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Turks and Caicos Islands
+65204,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Belgium
+65205,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Malta
+65206,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Sao Tome and Principe
+65207,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Eritrea
+65208,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Reunion
+65209,WhatsApp,2024-01-17,Não Convertido,,0.0,Desconhecido,Macao
+65210,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Ukraine
+65211,Google Ads,2024-01-16,Não Convertido,,0.0,Desconhecido,Singapore
+65212,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Angola
+65213,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Kiribati
+65214,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Swaziland
+65215,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Hungary
+65216,WhatsApp,2024-01-20,Não Convertido,,0.0,Conservador,Puerto Rico
+65217,TikTok,2024-01-15,Convertido,20.0,6546.66,Conservador,Tunisia
+65218,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Lesotho
+65219,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Sweden
+65220,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,British Virgin Islands
+65221,Facebook,2024-01-16,Não Convertido,,0.0,Agressivo,Jordan
+65222,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Saudi Arabia
+65223,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Albania
+65224,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Denmark
+65225,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Germany
+65226,Instagram,2024-01-15,Não Convertido,,0.0,Desconhecido,Kazakhstan
+65227,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,Namibia
+65228,Facebook,2024-01-19,Não Convertido,,0.0,Desconhecido,Bahrain
+65229,YouTube Ads,2024-01-19,Não Convertido,,0.0,Desconhecido,Jamaica
+65230,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Maldives
+65231,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Tajikistan
+65232,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Turkey
+65233,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Latvia
+65234,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,French Southern Territories
+65235,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Azerbaijan
+65236,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,French Polynesia
+65237,TikTok,2024-01-15,Não Convertido,,0.0,Desconhecido,Brunei Darussalam
+65238,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Namibia
+65239,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,French Southern Territories
+65240,Indicação,2024-01-15,Não Convertido,,0.0,Conservador,Macao
+65241,Indicação,2024-01-16,Não Convertido,,0.0,Agressivo,Saint Pierre and Miquelon
+65242,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Libyan Arab Jamahiriya
+65243,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Italy
+65244,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Gambia
+65245,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Argentina
+65246,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Jamaica
+65247,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Korea
+65248,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Montenegro
+65249,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Russian Federation
+65250,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Niger
+65251,Instagram,2024-01-15,Não Convertido,,0.0,Desconhecido,Eritrea
+65252,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Denmark
+65253,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Kiribati
+65254,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Turkmenistan
+65255,Orgânico,2024-01-16,Não Convertido,,0.0,Desconhecido,Iran
+65256,Facebook,2024-01-15,Não Convertido,,0.0,Desconhecido,Cayman Islands
+65257,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Russian Federation
+65258,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Lithuania
+65259,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Botswana
+65260,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Algeria
+65261,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Uzbekistan
+65262,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Russian Federation
+65263,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Kiribati
+65264,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Colombia
+65265,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Mauritania
+65266,Google Ads,2024-01-15,Convertido,13.0,3600.84,Moderado,Kyrgyz Republic
+65267,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Romania
+65268,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Portugal
+65269,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Bahrain
+65270,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Peru
+65271,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Mauritania
+65272,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Conservador,Heard Island and McDonald Islands
+65273,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Syrian Arab Republic
+65274,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Vietnam
+65275,Google Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Paraguay
+65276,YouTube Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Benin
+65277,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Anguilla
+65278,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Switzerland
+65279,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Grenada
+65280,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,San Marino
+65281,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Gambia
+65282,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Saint Kitts and Nevis
+65283,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Cape Verde
+65284,WhatsApp,2024-01-16,Não Convertido,,0.0,Agressivo,Portugal
+65285,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Uruguay
+65286,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Mozambique
+65287,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Romania
+65288,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Northern Mariana Islands
+65289,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Jamaica
+65290,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,New Caledonia
+65291,TikTok,2024-01-16,Não Convertido,,0.0,Desconhecido,Ireland
+65292,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Cuba
+65293,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Barbados
+65294,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Morocco
+65295,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Netherlands Antilles
+65296,WhatsApp,2024-01-17,Não Convertido,,0.0,Agressivo,Solomon Islands
+65297,TikTok,2024-01-20,Não Convertido,,0.0,Desconhecido,New Zealand
+65298,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,China
+65299,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Kiribati
+65300,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Tanzania
+65301,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Senegal
+65302,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Saint Helena
+65303,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Kyrgyz Republic
+65304,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Palestinian Territory
+65305,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Philippines
+65306,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Suriname
+65307,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Cayman Islands
+65308,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Nauru
+65309,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+65310,Indicação,2024-01-19,Não Convertido,,0.0,Conservador,Maldives
+65311,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Mexico
+65312,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Uruguay
+65313,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Maldives
+65314,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Martinique
+65315,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Madagascar
+65316,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Turkmenistan
+65317,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Liberia
+65318,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,French Southern Territories
+65319,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Spain
+65320,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Costa Rica
+65321,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Nigeria
+65322,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Nicaragua
+65323,YouTube Ads,2024-01-18,Não Convertido,,0.0,Conservador,Djibouti
+65324,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Cuba
+65325,YouTube Ads,2024-01-18,Não Convertido,,0.0,Conservador,Turkey
+65326,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Portugal
+65327,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Montserrat
+65328,TikTok,2024-01-18,Não Convertido,,0.0,Desconhecido,Argentina
+65329,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Iran
+65330,Indicação,2024-01-18,Não Convertido,,0.0,Moderado,Fiji
+65331,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Japan
+65332,Indicação,2024-01-18,Não Convertido,,0.0,Moderado,Papua New Guinea
+65333,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Czech Republic
+65334,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Tuvalu
+65335,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Eritrea
+65336,TikTok,2024-01-17,Não Convertido,,0.0,Conservador,United States of America
+65337,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Libyan Arab Jamahiriya
+65338,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Latvia
+65339,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Uzbekistan
+65340,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Burkina Faso
+65341,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Russian Federation
+65342,Indicação,2024-01-16,Não Convertido,,0.0,Agressivo,Australia
+65343,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Comoros
+65344,Indicação,2024-01-17,Não Convertido,,0.0,Agressivo,Turks and Caicos Islands
+65345,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Taiwan
+65346,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Tuvalu
+65347,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Botswana
+65348,Instagram,2024-01-16,Não Convertido,,0.0,Desconhecido,Ireland
+65349,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Canada
+65350,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,San Marino
+65351,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Ecuador
+65352,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Christmas Island
+65353,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Martinique
+65354,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Syrian Arab Republic
+65355,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Macao
+65356,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Ecuador
+65357,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Antarctica (the territory South of 60 deg S)
+65358,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Panama
+65359,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Indonesia
+65360,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Sierra Leone
+65361,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Albania
+65362,Google Ads,2024-01-15,Não Convertido,,0.0,Desconhecido,Antigua and Barbuda
+65363,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Cape Verde
+65364,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Cuba
+65365,YouTube Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Sudan
+65366,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Guam
+65367,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Seychelles
+65368,Orgânico,2024-01-15,Não Convertido,,0.0,Desconhecido,United States Virgin Islands
+65369,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Suriname
+65370,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Bulgaria
+65371,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Indonesia
+65372,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Nigeria
+65373,WhatsApp,2024-01-20,Não Convertido,,0.0,Agressivo,Congo
+65374,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Solomon Islands
+65375,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,United Kingdom
+65376,YouTube Ads,2024-01-20,Não Convertido,,0.0,Conservador,Mali
+65377,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Netherlands
+65378,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Sri Lanka
+65379,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Zimbabwe
+65380,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Martinique
+65381,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Costa Rica
+65382,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Cocos (Keeling) Islands
+65383,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Burkina Faso
+65384,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Georgia
+65385,YouTube Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Ghana
+65386,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Serbia
+65387,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Nepal
+65388,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Samoa
+65389,Google Ads,2024-01-16,Convertido,8.0,435.76,Conservador,North Macedonia
+65390,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Djibouti
+65391,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Slovenia
+65392,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Gibraltar
+65393,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Russian Federation
+65394,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Peru
+65395,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Serbia
+65396,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,New Caledonia
+65397,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Turkmenistan
+65398,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Canada
+65399,WhatsApp,2024-01-16,Não Convertido,,0.0,Desconhecido,Canada
+65400,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Afghanistan
+65401,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Cameroon
+65402,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Paraguay
+65403,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Slovakia (Slovak Republic)
+65404,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Mongolia
+65405,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Ireland
+65406,E-mail Marketing,2024-01-18,Convertido,2.0,9787.69,Conservador,Comoros
+65407,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Wallis and Futuna
+65408,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Finland
+65409,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Lithuania
+65410,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Libyan Arab Jamahiriya
+65411,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Israel
+65412,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Australia
+65413,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Togo
+65414,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Turkey
+65415,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Hungary
+65416,Google Ads,2024-01-19,Não Convertido,,0.0,Desconhecido,Western Sahara
+65417,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Moldova
+65418,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,El Salvador
+65419,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Azerbaijan
+65420,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,San Marino
+65421,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Cocos (Keeling) Islands
+65422,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,New Zealand
+65423,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Japan
+65424,Indicação,2024-01-17,Não Convertido,,0.0,Moderado,Saudi Arabia
+65425,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,France
+65426,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Costa Rica
+65427,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Desconhecido,Chile
+65428,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Kiribati
+65429,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Burkina Faso
+65430,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Cote d'Ivoire
+65431,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Switzerland
+65432,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Gabon
+65433,Instagram,2024-01-15,Não Convertido,,0.0,Conservador,Fiji
+65434,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Swaziland
+65435,TikTok,2024-01-18,Não Convertido,,0.0,Desconhecido,Djibouti
+65436,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Nicaragua
+65437,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Vietnam
+65438,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Bangladesh
+65439,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Western Sahara
+65440,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Switzerland
+65441,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,American Samoa
+65442,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Qatar
+65443,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,Micronesia
+65444,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+65445,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Gibraltar
+65446,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,British Virgin Islands
+65447,TikTok,2024-01-17,Não Convertido,,0.0,Conservador,Montserrat
+65448,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Uruguay
+65449,Indicação,2024-01-15,Não Convertido,,0.0,Agressivo,Congo
+65450,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Turkmenistan
+65451,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Zambia
+65452,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Cook Islands
+65453,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Botswana
+65454,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Angola
+65455,Facebook,2024-01-15,Convertido,5.0,8784.24,Agressivo,Hungary
+65456,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Gabon
+65457,WhatsApp,2024-01-19,Não Convertido,,0.0,Conservador,Sri Lanka
+65458,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Cayman Islands
+65459,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Morocco
+65460,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Djibouti
+65461,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Uruguay
+65462,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Botswana
+65463,Indicação,2024-01-20,Não Convertido,,0.0,Agressivo,Bouvet Island (Bouvetoya)
+65464,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,North Macedonia
+65465,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Palestinian Territory
+65466,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Burkina Faso
+65467,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Mayotte
+65468,Google Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Guernsey
+65469,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Pitcairn Islands
+65470,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Togo
+65471,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Marshall Islands
+65472,WhatsApp,2024-01-20,Convertido,18.0,5955.19,Agressivo,Albania
+65473,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Pakistan
+65474,Orgânico,2024-01-16,Não Convertido,,0.0,Desconhecido,Yemen
+65475,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Saudi Arabia
+65476,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,United States Minor Outlying Islands
+65477,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Saint Barthelemy
+65478,YouTube Ads,2024-01-16,Não Convertido,,0.0,Conservador,Kazakhstan
+65479,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Togo
+65480,YouTube Ads,2024-01-16,Não Convertido,,0.0,Desconhecido,Moldova
+65481,Google Ads,2024-01-17,Não Convertido,,0.0,Desconhecido,Spain
+65482,YouTube Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+65483,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,United Kingdom
+65484,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Tanzania
+65485,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Tunisia
+65486,WhatsApp,2024-01-17,Não Convertido,,0.0,Moderado,United Arab Emirates
+65487,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Sri Lanka
+65488,Instagram,2024-01-15,Não Convertido,,0.0,Desconhecido,Czech Republic
+65489,Indicação,2024-01-15,Não Convertido,,0.0,Agressivo,Bhutan
+65490,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Belize
+65491,E-mail Marketing,2024-01-20,Convertido,2.0,2699.45,Conservador,Christmas Island
+65492,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Burkina Faso
+65493,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Conservador,Mali
+65494,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Vanuatu
+65495,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Kiribati
+65496,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Cayman Islands
+65497,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Holy See (Vatican City State)
+65498,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Hong Kong
+65499,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Cameroon
+65500,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Turkey
+65501,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Bangladesh
+65502,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Niue
+65503,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Paraguay
+65504,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Togo
+65505,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,French Southern Territories
+65506,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Netherlands
+65507,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Malta
+65508,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Paraguay
+65509,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,New Caledonia
+65510,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Kazakhstan
+65511,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Spain
+65512,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,Suriname
+65513,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Norway
+65514,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Indonesia
+65515,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Iraq
+65516,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Kyrgyz Republic
+65517,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Samoa
+65518,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+65519,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Albania
+65520,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Latvia
+65521,YouTube Ads,2024-01-19,Não Convertido,,0.0,Conservador,Antigua and Barbuda
+65522,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Chad
+65523,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Finland
+65524,Indicação,2024-01-19,Não Convertido,,0.0,Desconhecido,Northern Mariana Islands
+65525,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Palau
+65526,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Liberia
+65527,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Colombia
+65528,TikTok,2024-01-18,Não Convertido,,0.0,Desconhecido,Tuvalu
+65529,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Germany
+65530,WhatsApp,2024-01-18,Não Convertido,,0.0,Desconhecido,Afghanistan
+65531,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Ireland
+65532,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Libyan Arab Jamahiriya
+65533,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Tajikistan
+65534,WhatsApp,2024-01-19,Não Convertido,,0.0,Conservador,Greece
+65535,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Seychelles
+65536,WhatsApp,2024-01-15,Não Convertido,,0.0,Conservador,Hungary
+65537,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Liberia
+65538,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Tonga
+65539,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,India
+65540,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Micronesia
+65541,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Colombia
+65542,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Zimbabwe
+65543,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Czech Republic
+65544,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Armenia
+65545,Indicação,2024-01-20,Não Convertido,,0.0,Moderado,Thailand
+65546,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Grenada
+65547,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Guinea
+65548,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,San Marino
+65549,E-mail Marketing,2024-01-20,Convertido,22.0,9875.97,Moderado,Faroe Islands
+65550,Indicação,2024-01-15,Não Convertido,,0.0,Desconhecido,Libyan Arab Jamahiriya
+65551,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Australia
+65552,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,New Caledonia
+65553,WhatsApp,2024-01-16,Não Convertido,,0.0,Desconhecido,Palestinian Territory
+65554,Google Ads,2024-01-20,Não Convertido,,0.0,Conservador,Cote d'Ivoire
+65555,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Nicaragua
+65556,Indicação,2024-01-19,Não Convertido,,0.0,Conservador,Gibraltar
+65557,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Guinea-Bissau
+65558,TikTok,2024-01-17,Não Convertido,,0.0,Conservador,Taiwan
+65559,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Jersey
+65560,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Maldives
+65561,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Solomon Islands
+65562,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Tunisia
+65563,YouTube Ads,2024-01-19,Não Convertido,,0.0,Conservador,Guadeloupe
+65564,TikTok,2024-01-16,Não Convertido,,0.0,Desconhecido,Macao
+65565,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Guyana
+65566,Orgânico,2024-01-15,Não Convertido,,0.0,Desconhecido,Nepal
+65567,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Svalbard & Jan Mayen Islands
+65568,YouTube Ads,2024-01-19,Não Convertido,,0.0,Conservador,Hong Kong
+65569,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Bahamas
+65570,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Cameroon
+65571,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Desconhecido,Zimbabwe
+65572,Facebook,2024-01-20,Não Convertido,,0.0,Agressivo,Yemen
+65573,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Uruguay
+65574,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Montenegro
+65575,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,New Zealand
+65576,Google Ads,2024-01-15,Não Convertido,,0.0,Desconhecido,New Zealand
+65577,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Bermuda
+65578,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,Benin
+65579,WhatsApp,2024-01-19,Não Convertido,,0.0,Desconhecido,Brunei Darussalam
+65580,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+65581,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,Czech Republic
+65582,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,New Zealand
+65583,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Bermuda
+65584,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Puerto Rico
+65585,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Nicaragua
+65586,YouTube Ads,2024-01-20,Convertido,12.0,874.48,Conservador,Saudi Arabia
+65587,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Faroe Islands
+65588,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,American Samoa
+65589,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+65590,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Denmark
+65591,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Grenada
+65592,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Oman
+65593,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Brazil
+65594,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Qatar
+65595,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Slovenia
+65596,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Vanuatu
+65597,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Nicaragua
+65598,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Jamaica
+65599,Indicação,2024-01-15,Não Convertido,,0.0,Conservador,Finland
+65600,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Botswana
+65601,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Bulgaria
+65602,Orgânico,2024-01-16,Não Convertido,,0.0,Desconhecido,Mauritania
+65603,Orgânico,2024-01-15,Não Convertido,,0.0,Desconhecido,Nauru
+65604,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Mauritius
+65605,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,El Salvador
+65606,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Mongolia
+65607,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Burkina Faso
+65608,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Sao Tome and Principe
+65609,YouTube Ads,2024-01-20,Não Convertido,,0.0,Conservador,Monaco
+65610,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Sweden
+65611,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Central African Republic
+65612,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Australia
+65613,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Belgium
+65614,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Congo
+65615,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Argentina
+65616,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Saint Barthelemy
+65617,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Luxembourg
+65618,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Gibraltar
+65619,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Bolivia
+65620,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Italy
+65621,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Uzbekistan
+65622,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Georgia
+65623,Instagram,2024-01-16,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+65624,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+65625,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Monaco
+65626,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Malaysia
+65627,WhatsApp,2024-01-19,Não Convertido,,0.0,Desconhecido,Antigua and Barbuda
+65628,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Tuvalu
+65629,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Aruba
+65630,YouTube Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Finland
+65631,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Falkland Islands (Malvinas)
+65632,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Latvia
+65633,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Greenland
+65634,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Mayotte
+65635,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Chile
+65636,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Morocco
+65637,WhatsApp,2024-01-19,Não Convertido,,0.0,Agressivo,Iraq
+65638,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Iran
+65639,Facebook,2024-01-15,Não Convertido,,0.0,Desconhecido,Slovenia
+65640,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Philippines
+65641,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Slovenia
+65642,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,French Guiana
+65643,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Morocco
+65644,Indicação,2024-01-16,Não Convertido,,0.0,Agressivo,Guyana
+65645,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Liberia
+65646,Orgânico,2024-01-16,Não Convertido,,0.0,Desconhecido,Bhutan
+65647,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Nepal
+65648,WhatsApp,2024-01-19,Convertido,0.0,1932.04,Agressivo,Denmark
+65649,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Turks and Caicos Islands
+65650,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Malaysia
+65651,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Desconhecido,Faroe Islands
+65652,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,Burkina Faso
+65653,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Iran
+65654,Orgânico,2024-01-17,Convertido,5.0,233.7,Agressivo,Norway
+65655,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Greece
+65656,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Desconhecido,British Virgin Islands
+65657,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Faroe Islands
+65658,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,South Africa
+65659,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Jordan
+65660,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,Chile
+65661,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,United States Minor Outlying Islands
+65662,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Ireland
+65663,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Mongolia
+65664,Instagram,2024-01-20,Convertido,24.0,9854.47,Agressivo,Sierra Leone
+65665,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Netherlands Antilles
+65666,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Bhutan
+65667,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Mauritius
+65668,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Marshall Islands
+65669,Facebook,2024-01-17,Não Convertido,,0.0,Desconhecido,Japan
+65670,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Burkina Faso
+65671,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Montenegro
+65672,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Guam
+65673,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Aruba
+65674,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Mauritania
+65675,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Argentina
+65676,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Guadeloupe
+65677,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Peru
+65678,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Chile
+65679,E-mail Marketing,2024-01-15,Convertido,14.0,1534.05,Moderado,Sierra Leone
+65680,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Ukraine
+65681,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Conservador,Cocos (Keeling) Islands
+65682,WhatsApp,2024-01-17,Não Convertido,,0.0,Moderado,Saint Lucia
+65683,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Belarus
+65684,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Georgia
+65685,Orgânico,2024-01-18,Não Convertido,,0.0,Conservador,Saint Barthelemy
+65686,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Lao People's Democratic Republic
+65687,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Bangladesh
+65688,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Mozambique
+65689,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Falkland Islands (Malvinas)
+65690,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,France
+65691,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Comoros
+65692,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Puerto Rico
+65693,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Isle of Man
+65694,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Lebanon
+65695,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Marshall Islands
+65696,Indicação,2024-01-18,Não Convertido,,0.0,Desconhecido,Nicaragua
+65697,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,French Guiana
+65698,TikTok,2024-01-20,Não Convertido,,0.0,Conservador,Reunion
+65699,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Brunei Darussalam
+65700,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Switzerland
+65701,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Switzerland
+65702,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Qatar
+65703,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Thailand
+65704,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Madagascar
+65705,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Guinea-Bissau
+65706,Indicação,2024-01-18,Não Convertido,,0.0,Agressivo,Ghana
+65707,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Canada
+65708,Indicação,2024-01-16,Não Convertido,,0.0,Moderado,Venezuela
+65709,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Luxembourg
+65710,WhatsApp,2024-01-15,Não Convertido,,0.0,Conservador,Tanzania
+65711,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,Timor-Leste
+65712,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Kazakhstan
+65713,YouTube Ads,2024-01-15,Não Convertido,,0.0,Desconhecido,Japan
+65714,Indicação,2024-01-18,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+65715,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Ecuador
+65716,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Martinique
+65717,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Rwanda
+65718,Facebook,2024-01-16,Não Convertido,,0.0,Desconhecido,Suriname
+65719,WhatsApp,2024-01-17,Não Convertido,,0.0,Moderado,Andorra
+65720,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,United States Minor Outlying Islands
+65721,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Western Sahara
+65722,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Heard Island and McDonald Islands
+65723,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Saint Lucia
+65724,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Lebanon
+65725,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Northern Mariana Islands
+65726,YouTube Ads,2024-01-17,Não Convertido,,0.0,Desconhecido,Peru
+65727,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Gambia
+65728,Instagram,2024-01-15,Não Convertido,,0.0,Agressivo,Pitcairn Islands
+65729,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Spain
+65730,Facebook,2024-01-19,Não Convertido,,0.0,Desconhecido,El Salvador
+65731,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+65732,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Tanzania
+65733,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Denmark
+65734,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Angola
+65735,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Mali
+65736,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+65737,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Latvia
+65738,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Tunisia
+65739,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Reunion
+65740,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Heard Island and McDonald Islands
+65741,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Togo
+65742,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Bosnia and Herzegovina
+65743,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Brunei Darussalam
+65744,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Tunisia
+65745,WhatsApp,2024-01-19,Não Convertido,,0.0,Agressivo,Portugal
+65746,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Cayman Islands
+65747,Google Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Comoros
+65748,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Guinea-Bissau
+65749,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Guam
+65750,Orgânico,2024-01-16,Não Convertido,,0.0,Desconhecido,Zimbabwe
+65751,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Botswana
+65752,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Afghanistan
+65753,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Singapore
+65754,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Switzerland
+65755,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Venezuela
+65756,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Gambia
+65757,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Paraguay
+65758,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Mauritania
+65759,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Martinique
+65760,Indicação,2024-01-15,Não Convertido,,0.0,Moderado,Samoa
+65761,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Guatemala
+65762,TikTok,2024-01-20,Não Convertido,,0.0,Agressivo,Austria
+65763,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Antigua and Barbuda
+65764,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Kenya
+65765,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Cambodia
+65766,Google Ads,2024-01-20,Não Convertido,,0.0,Desconhecido,Cote d'Ivoire
+65767,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Indonesia
+65768,YouTube Ads,2024-01-15,Não Convertido,,0.0,Agressivo,American Samoa
+65769,Facebook,2024-01-16,Não Convertido,,0.0,Conservador,Afghanistan
+65770,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Mexico
+65771,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Chile
+65772,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Saint Lucia
+65773,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Dominica
+65774,YouTube Ads,2024-01-18,Não Convertido,,0.0,Conservador,Dominica
+65775,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Christmas Island
+65776,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Estonia
+65777,Google Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Central African Republic
+65778,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Papua New Guinea
+65779,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Malta
+65780,Facebook,2024-01-18,Não Convertido,,0.0,Agressivo,Burundi
+65781,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Vanuatu
+65782,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Papua New Guinea
+65783,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,United Kingdom
+65784,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Belgium
+65785,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Colombia
+65786,Facebook,2024-01-15,Não Convertido,,0.0,Desconhecido,Austria
+65787,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Austria
+65788,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Netherlands Antilles
+65789,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Saint Helena
+65790,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Benin
+65791,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Hungary
+65792,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Dominica
+65793,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,France
+65794,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Palestinian Territory
+65795,Orgânico,2024-01-15,Não Convertido,,0.0,Desconhecido,Slovenia
+65796,TikTok,2024-01-17,Não Convertido,,0.0,Conservador,Congo
+65797,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Mexico
+65798,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Paraguay
+65799,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Suriname
+65800,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Chile
+65801,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Lao People's Democratic Republic
+65802,Orgânico,2024-01-15,Convertido,7.0,3129.48,Agressivo,Anguilla
+65803,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Cambodia
+65804,Google Ads,2024-01-16,Não Convertido,,0.0,Desconhecido,Slovenia
+65805,WhatsApp,2024-01-16,Não Convertido,,0.0,Desconhecido,Uganda
+65806,Indicação,2024-01-20,Não Convertido,,0.0,Moderado,Ecuador
+65807,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Andorra
+65808,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Senegal
+65809,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,Libyan Arab Jamahiriya
+65810,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Pitcairn Islands
+65811,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Saint Martin
+65812,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Conservador,Palestinian Territory
+65813,Indicação,2024-01-15,Não Convertido,,0.0,Moderado,Malawi
+65814,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Bosnia and Herzegovina
+65815,Google Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Denmark
+65816,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Indonesia
+65817,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Reunion
+65818,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Comoros
+65819,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Sri Lanka
+65820,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,China
+65821,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Senegal
+65822,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,France
+65823,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Seychelles
+65824,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Turks and Caicos Islands
+65825,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Tanzania
+65826,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Grenada
+65827,YouTube Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Iran
+65828,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Latvia
+65829,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Guernsey
+65830,Google Ads,2024-01-18,Não Convertido,,0.0,Desconhecido,Cyprus
+65831,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,British Indian Ocean Territory (Chagos Archipelago)
+65832,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Tunisia
+65833,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Greece
+65834,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Brunei Darussalam
+65835,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Panama
+65836,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,British Virgin Islands
+65837,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Nauru
+65838,YouTube Ads,2024-01-17,Não Convertido,,0.0,Desconhecido,Mauritania
+65839,TikTok,2024-01-15,Não Convertido,,0.0,Desconhecido,United Arab Emirates
+65840,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Antigua and Barbuda
+65841,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Liechtenstein
+65842,Google Ads,2024-01-17,Não Convertido,,0.0,Conservador,Indonesia
+65843,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Korea
+65844,Orgânico,2024-01-20,Não Convertido,,0.0,Conservador,Norfolk Island
+65845,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Saint Barthelemy
+65846,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Pakistan
+65847,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Congo
+65848,Orgânico,2024-01-15,Convertido,16.0,2851.78,Agressivo,Western Sahara
+65849,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,French Polynesia
+65850,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Jordan
+65851,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Nicaragua
+65852,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+65853,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,American Samoa
+65854,Indicação,2024-01-17,Não Convertido,,0.0,Agressivo,Montenegro
+65855,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,Burkina Faso
+65856,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Moldova
+65857,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Ukraine
+65858,Orgânico,2024-01-17,Convertido,5.0,1484.11,Moderado,Moldova
+65859,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,North Macedonia
+65860,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,Puerto Rico
+65861,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Cameroon
+65862,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Tunisia
+65863,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Kiribati
+65864,Instagram,2024-01-17,Não Convertido,,0.0,Desconhecido,Russian Federation
+65865,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Turkmenistan
+65866,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Bermuda
+65867,TikTok,2024-01-18,Convertido,5.0,9556.47,Moderado,United States of America
+65868,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Albania
+65869,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Indonesia
+65870,YouTube Ads,2024-01-16,Não Convertido,,0.0,Conservador,Swaziland
+65871,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Spain
+65872,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Morocco
+65873,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Guinea-Bissau
+65874,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Wallis and Futuna
+65875,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Latvia
+65876,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Latvia
+65877,YouTube Ads,2024-01-17,Não Convertido,,0.0,Desconhecido,Luxembourg
+65878,Google Ads,2024-01-19,Convertido,5.0,1303.67,Conservador,Italy
+65879,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Haiti
+65880,Instagram,2024-01-17,Não Convertido,,0.0,Desconhecido,Colombia
+65881,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,Guatemala
+65882,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+65883,TikTok,2024-01-20,Não Convertido,,0.0,Agressivo,Madagascar
+65884,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Conservador,Montserrat
+65885,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Equatorial Guinea
+65886,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Philippines
+65887,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Zimbabwe
+65888,Indicação,2024-01-19,Não Convertido,,0.0,Conservador,Somalia
+65889,Facebook,2024-01-20,Não Convertido,,0.0,Desconhecido,Falkland Islands (Malvinas)
+65890,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Pitcairn Islands
+65891,WhatsApp,2024-01-16,Não Convertido,,0.0,Desconhecido,Tokelau
+65892,Instagram,2024-01-15,Não Convertido,,0.0,Conservador,Angola
+65893,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Cook Islands
+65894,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Tokelau
+65895,WhatsApp,2024-01-18,Convertido,29.0,748.62,Moderado,Saudi Arabia
+65896,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Comoros
+65897,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Estonia
+65898,YouTube Ads,2024-01-15,Não Convertido,,0.0,Agressivo,British Indian Ocean Territory (Chagos Archipelago)
+65899,Instagram,2024-01-16,Não Convertido,,0.0,Desconhecido,Saint Martin
+65900,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Heard Island and McDonald Islands
+65901,YouTube Ads,2024-01-17,Convertido,11.0,8991.77,Moderado,Mongolia
+65902,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Isle of Man
+65903,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,French Guiana
+65904,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Saudi Arabia
+65905,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Slovakia (Slovak Republic)
+65906,TikTok,2024-01-17,Não Convertido,,0.0,Moderado,Zimbabwe
+65907,WhatsApp,2024-01-15,Não Convertido,,0.0,Conservador,Chad
+65908,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Zambia
+65909,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Sri Lanka
+65910,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Brunei Darussalam
+65911,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,Cook Islands
+65912,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,Georgia
+65913,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Panama
+65914,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Saint Helena
+65915,WhatsApp,2024-01-20,Não Convertido,,0.0,Desconhecido,Argentina
+65916,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+65917,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,Malta
+65918,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Solomon Islands
+65919,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Myanmar
+65920,WhatsApp,2024-01-15,Não Convertido,,0.0,Conservador,Kiribati
+65921,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Holy See (Vatican City State)
+65922,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Ukraine
+65923,Orgânico,2024-01-18,Não Convertido,,0.0,Desconhecido,Myanmar
+65924,Google Ads,2024-01-17,Não Convertido,,0.0,Conservador,Gibraltar
+65925,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Tokelau
+65926,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Monaco
+65927,Google Ads,2024-01-19,Convertido,29.0,3401.53,Agressivo,Lao People's Democratic Republic
+65928,WhatsApp,2024-01-18,Não Convertido,,0.0,Conservador,Costa Rica
+65929,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Philippines
+65930,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Holy See (Vatican City State)
+65931,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Desconhecido,Indonesia
+65932,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Holy See (Vatican City State)
+65933,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Agressivo,Singapore
+65934,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Pakistan
+65935,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Palau
+65936,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Latvia
+65937,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Ghana
+65938,Orgânico,2024-01-17,Não Convertido,,0.0,Conservador,Aruba
+65939,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Eritrea
+65940,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Nigeria
+65941,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Christmas Island
+65942,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Israel
+65943,TikTok,2024-01-20,Não Convertido,,0.0,Moderado,Cook Islands
+65944,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,French Polynesia
+65945,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Bosnia and Herzegovina
+65946,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Sierra Leone
+65947,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Spain
+65948,WhatsApp,2024-01-19,Não Convertido,,0.0,Conservador,Morocco
+65949,WhatsApp,2024-01-16,Não Convertido,,0.0,Conservador,Japan
+65950,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Switzerland
+65951,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Bahrain
+65952,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Angola
+65953,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Holy See (Vatican City State)
+65954,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Macao
+65955,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Turkey
+65956,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Canada
+65957,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Venezuela
+65958,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Mayotte
+65959,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Slovakia (Slovak Republic)
+65960,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Reunion
+65961,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Taiwan
+65962,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Libyan Arab Jamahiriya
+65963,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Azerbaijan
+65964,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Isle of Man
+65965,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Kiribati
+65966,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Guinea-Bissau
+65967,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Colombia
+65968,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Niue
+65969,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Bahrain
+65970,Google Ads,2024-01-19,Não Convertido,,0.0,Agressivo,Malta
+65971,Facebook,2024-01-16,Não Convertido,,0.0,Agressivo,Hong Kong
+65972,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Myanmar
+65973,WhatsApp,2024-01-16,Convertido,9.0,8903.9,Agressivo,South Africa
+65974,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Spain
+65975,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,French Polynesia
+65976,Google Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Kyrgyz Republic
+65977,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Norfolk Island
+65978,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Guinea
+65979,WhatsApp,2024-01-17,Não Convertido,,0.0,Moderado,Uganda
+65980,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Antarctica (the territory South of 60 deg S)
+65981,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Bhutan
+65982,WhatsApp,2024-01-19,Não Convertido,,0.0,Conservador,Argentina
+65983,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Uganda
+65984,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+65985,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Chile
+65986,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Yemen
+65987,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Korea
+65988,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Haiti
+65989,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,North Macedonia
+65990,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Moldova
+65991,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Cambodia
+65992,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Desconhecido,Guernsey
+65993,WhatsApp,2024-01-20,Não Convertido,,0.0,Conservador,Burkina Faso
+65994,Google Ads,2024-01-16,Não Convertido,,0.0,Conservador,Anguilla
+65995,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Kiribati
+65996,YouTube Ads,2024-01-15,Não Convertido,,0.0,Agressivo,Iraq
+65997,YouTube Ads,2024-01-18,Não Convertido,,0.0,Desconhecido,Guernsey
+65998,Indicação,2024-01-18,Não Convertido,,0.0,Conservador,Norfolk Island
+65999,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Peru
+66000,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Comoros
+66001,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,French Polynesia
+66002,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Saint Martin
+66003,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Northern Mariana Islands
+66004,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Rwanda
+66005,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Niue
+66006,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Niger
+66007,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Uganda
+66008,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Monaco
+66009,WhatsApp,2024-01-17,Não Convertido,,0.0,Agressivo,Nicaragua
+66010,Indicação,2024-01-17,Não Convertido,,0.0,Agressivo,Bosnia and Herzegovina
+66011,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Spain
+66012,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Wallis and Futuna
+66013,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Guinea-Bissau
+66014,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Christmas Island
+66015,Instagram,2024-01-17,Não Convertido,,0.0,Desconhecido,Pitcairn Islands
+66016,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Syrian Arab Republic
+66017,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Greece
+66018,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Korea
+66019,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Venezuela
+66020,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Puerto Rico
+66021,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Palestinian Territory
+66022,TikTok,2024-01-15,Não Convertido,,0.0,Conservador,Austria
+66023,Facebook,2024-01-19,Não Convertido,,0.0,Desconhecido,Sudan
+66024,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,United Kingdom
+66025,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Bosnia and Herzegovina
+66026,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Saint Pierre and Miquelon
+66027,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Norfolk Island
+66028,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,New Caledonia
+66029,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Ukraine
+66030,WhatsApp,2024-01-18,Não Convertido,,0.0,Agressivo,Belarus
+66031,Orgânico,2024-01-16,Não Convertido,,0.0,Desconhecido,Georgia
+66032,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Turkey
+66033,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Bulgaria
+66034,TikTok,2024-01-20,Não Convertido,,0.0,Agressivo,Cook Islands
+66035,Indicação,2024-01-15,Não Convertido,,0.0,Moderado,Greece
+66036,WhatsApp,2024-01-17,Não Convertido,,0.0,Desconhecido,Heard Island and McDonald Islands
+66037,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Liberia
+66038,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Tokelau
+66039,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Malta
+66040,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Niue
+66041,Orgânico,2024-01-16,Não Convertido,,0.0,Agressivo,Nicaragua
+66042,YouTube Ads,2024-01-16,Não Convertido,,0.0,Desconhecido,Peru
+66043,Google Ads,2024-01-16,Não Convertido,,0.0,Desconhecido,Western Sahara
+66044,Indicação,2024-01-18,Não Convertido,,0.0,Desconhecido,Korea
+66045,WhatsApp,2024-01-19,Não Convertido,,0.0,Agressivo,Saint Kitts and Nevis
+66046,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Gabon
+66047,Google Ads,2024-01-20,Não Convertido,,0.0,Desconhecido,Albania
+66048,Facebook,2024-01-20,Não Convertido,,0.0,Conservador,Belgium
+66049,Google Ads,2024-01-19,Não Convertido,,0.0,Conservador,Grenada
+66050,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Denmark
+66051,Facebook,2024-01-19,Convertido,14.0,7003.02,Moderado,United States of America
+66052,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Algeria
+66053,WhatsApp,2024-01-20,Não Convertido,,0.0,Agressivo,Lesotho
+66054,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Korea
+66055,YouTube Ads,2024-01-16,Não Convertido,,0.0,Desconhecido,Russian Federation
+66056,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Lebanon
+66057,WhatsApp,2024-01-20,Não Convertido,,0.0,Conservador,Djibouti
+66058,YouTube Ads,2024-01-17,Não Convertido,,0.0,Conservador,Russian Federation
+66059,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Afghanistan
+66060,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Anguilla
+66061,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Conservador,Hong Kong
+66062,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Barbados
+66063,Indicação,2024-01-16,Não Convertido,,0.0,Moderado,Turkey
+66064,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+66065,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Benin
+66066,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Bahamas
+66067,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Conservador,Andorra
+66068,YouTube Ads,2024-01-17,Não Convertido,,0.0,Desconhecido,Greenland
+66069,Facebook,2024-01-16,Não Convertido,,0.0,Agressivo,Belize
+66070,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,French Guiana
+66071,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Lebanon
+66072,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Luxembourg
+66073,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Nepal
+66074,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Mayotte
+66075,WhatsApp,2024-01-15,Não Convertido,,0.0,Moderado,Vietnam
+66076,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Micronesia
+66077,Google Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Falkland Islands (Malvinas)
+66078,WhatsApp,2024-01-19,Não Convertido,,0.0,Agressivo,North Macedonia
+66079,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Argentina
+66080,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Bangladesh
+66081,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Tonga
+66082,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Nepal
+66083,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,French Southern Territories
+66084,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Cuba
+66085,TikTok,2024-01-20,Não Convertido,,0.0,Agressivo,Georgia
+66086,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Anguilla
+66087,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Nepal
+66088,Indicação,2024-01-17,Não Convertido,,0.0,Conservador,Iceland
+66089,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Moderado,El Salvador
+66090,Instagram,2024-01-15,Convertido,20.0,9020.1,Agressivo,Turkey
+66091,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Conservador,Malta
+66092,WhatsApp,2024-01-16,Não Convertido,,0.0,Agressivo,Malawi
+66093,Instagram,2024-01-18,Não Convertido,,0.0,Agressivo,Serbia
+66094,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Germany
+66095,Google Ads,2024-01-15,Não Convertido,,0.0,Conservador,Denmark
+66096,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Panama
+66097,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Svalbard & Jan Mayen Islands
+66098,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Martinique
+66099,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Sao Tome and Principe
+66100,Indicação,2024-01-20,Não Convertido,,0.0,Agressivo,Namibia
+66101,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Uruguay
+66102,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Senegal
+66103,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Conservador,Dominican Republic
+66104,YouTube Ads,2024-01-20,Convertido,3.0,3285.51,Moderado,Samoa
+66105,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Australia
+66106,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,Pakistan
+66107,TikTok,2024-01-19,Convertido,21.0,9924.98,Agressivo,India
+66108,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Samoa
+66109,Facebook,2024-01-19,Não Convertido,,0.0,Desconhecido,Sri Lanka
+66110,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Austria
+66111,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Eritrea
+66112,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Denmark
+66113,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Micronesia
+66114,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Conservador,Egypt
+66115,YouTube Ads,2024-01-20,Não Convertido,,0.0,Desconhecido,Uzbekistan
+66116,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Tuvalu
+66117,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Martinique
+66118,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Turkmenistan
+66119,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Malta
+66120,Google Ads,2024-01-17,Não Convertido,,0.0,Moderado,Pakistan
+66121,Instagram,2024-01-15,Não Convertido,,0.0,Conservador,Romania
+66122,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,French Southern Territories
+66123,YouTube Ads,2024-01-18,Não Convertido,,0.0,Conservador,Austria
+66124,WhatsApp,2024-01-17,Convertido,15.0,583.23,Conservador,Guadeloupe
+66125,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Martinique
+66126,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Saint Barthelemy
+66127,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Agressivo,Burkina Faso
+66128,Facebook,2024-01-17,Não Convertido,,0.0,Moderado,Cambodia
+66129,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Eritrea
+66130,Instagram,2024-01-20,Não Convertido,,0.0,Desconhecido,Guyana
+66131,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Hungary
+66132,WhatsApp,2024-01-20,Convertido,25.0,9894.39,Moderado,Poland
+66133,TikTok,2024-01-20,Não Convertido,,0.0,Desconhecido,Niger
+66134,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Malaysia
+66135,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Romania
+66136,Facebook,2024-01-19,Não Convertido,,0.0,Agressivo,Kyrgyz Republic
+66137,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Kiribati
+66138,TikTok,2024-01-16,Não Convertido,,0.0,Conservador,Solomon Islands
+66139,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Faroe Islands
+66140,YouTube Ads,2024-01-15,Não Convertido,,0.0,Conservador,Bhutan
+66141,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Haiti
+66142,TikTok,2024-01-17,Não Convertido,,0.0,Conservador,Sao Tome and Principe
+66143,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Portugal
+66144,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Argentina
+66145,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Yemen
+66146,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Honduras
+66147,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Guernsey
+66148,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Denmark
+66149,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Belize
+66150,Indicação,2024-01-17,Não Convertido,,0.0,Moderado,Ghana
+66151,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Nigeria
+66152,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Tunisia
+66153,Facebook,2024-01-19,Não Convertido,,0.0,Desconhecido,Cambodia
+66154,TikTok,2024-01-16,Não Convertido,,0.0,Desconhecido,Belize
+66155,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Belarus
+66156,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Ethiopia
+66157,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,American Samoa
+66158,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Comoros
+66159,WhatsApp,2024-01-15,Não Convertido,,0.0,Agressivo,Kenya
+66160,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Desconhecido,Cape Verde
+66161,Facebook,2024-01-20,Não Convertido,,0.0,Moderado,Guernsey
+66162,Facebook,2024-01-15,Não Convertido,,0.0,Agressivo,Moldova
+66163,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,French Polynesia
+66164,Instagram,2024-01-17,Não Convertido,,0.0,Conservador,Panama
+66165,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Papua New Guinea
+66166,Indicação,2024-01-19,Convertido,22.0,7207.11,Agressivo,Greenland
+66167,Indicação,2024-01-19,Não Convertido,,0.0,Moderado,Faroe Islands
+66168,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,United States of America
+66169,YouTube Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Guinea-Bissau
+66170,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Hong Kong
+66171,Google Ads,2024-01-19,Não Convertido,,0.0,Moderado,Japan
+66172,TikTok,2024-01-19,Não Convertido,,0.0,Desconhecido,Panama
+66173,Orgânico,2024-01-18,Não Convertido,,0.0,Desconhecido,Honduras
+66174,YouTube Ads,2024-01-16,Não Convertido,,0.0,Moderado,Liechtenstein
+66175,Facebook,2024-01-17,Convertido,0.0,6477.18,Moderado,Nepal
+66176,WhatsApp,2024-01-20,Não Convertido,,0.0,Conservador,Saint Kitts and Nevis
+66177,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Ecuador
+66178,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Mexico
+66179,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Iraq
+66180,Instagram,2024-01-19,Não Convertido,,0.0,Agressivo,Brazil
+66181,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Moderado,Aruba
+66182,TikTok,2024-01-17,Não Convertido,,0.0,Desconhecido,Sweden
+66183,Facebook,2024-01-16,Não Convertido,,0.0,Agressivo,French Southern Territories
+66184,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Bosnia and Herzegovina
+66185,WhatsApp,2024-01-17,Não Convertido,,0.0,Moderado,Bulgaria
+66186,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Agressivo,Philippines
+66187,TikTok,2024-01-18,Não Convertido,,0.0,Agressivo,Moldova
+66188,Orgânico,2024-01-20,Não Convertido,,0.0,Agressivo,Saint Lucia
+66189,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Togo
+66190,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Madagascar
+66191,Facebook,2024-01-16,Não Convertido,,0.0,Conservador,Uganda
+66192,YouTube Ads,2024-01-17,Não Convertido,,0.0,Moderado,Djibouti
+66193,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Pakistan
+66194,Orgânico,2024-01-19,Não Convertido,,0.0,Moderado,Ethiopia
+66195,Orgânico,2024-01-15,Não Convertido,,0.0,Desconhecido,Fiji
+66196,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Ireland
+66197,YouTube Ads,2024-01-20,Não Convertido,,0.0,Desconhecido,Malawi
+66198,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Honduras
+66199,TikTok,2024-01-18,Não Convertido,,0.0,Conservador,Portugal
+66200,Facebook,2024-01-19,Não Convertido,,0.0,Moderado,Puerto Rico
+66201,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Monaco
+66202,Orgânico,2024-01-20,Não Convertido,,0.0,Moderado,Bahrain
+66203,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Andorra
+66204,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,United Kingdom
+66205,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Malta
+66206,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Pitcairn Islands
+66207,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Guatemala
+66208,Instagram,2024-01-17,Não Convertido,,0.0,Agressivo,Guatemala
+66209,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Kenya
+66210,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,Myanmar
+66211,WhatsApp,2024-01-20,Não Convertido,,0.0,Conservador,Paraguay
+66212,TikTok,2024-01-17,Não Convertido,,0.0,Agressivo,Cyprus
+66213,TikTok,2024-01-16,Não Convertido,,0.0,Moderado,Cyprus
+66214,Indicação,2024-01-19,Não Convertido,,0.0,Agressivo,Taiwan
+66215,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,Angola
+66216,Instagram,2024-01-15,Não Convertido,,0.0,Moderado,Lithuania
+66217,YouTube Ads,2024-01-20,Não Convertido,,0.0,Moderado,Taiwan
+66218,Facebook,2024-01-18,Não Convertido,,0.0,Moderado,Montenegro
+66219,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Honduras
+66220,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Bermuda
+66221,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Panama
+66222,Orgânico,2024-01-19,Não Convertido,,0.0,Desconhecido,Singapore
+66223,Orgânico,2024-01-20,Não Convertido,,0.0,Desconhecido,Qatar
+66224,Google Ads,2024-01-20,Não Convertido,,0.0,Agressivo,Luxembourg
+66225,WhatsApp,2024-01-15,Não Convertido,,0.0,Conservador,Morocco
+66226,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Senegal
+66227,Facebook,2024-01-15,Não Convertido,,0.0,Desconhecido,Gabon
+66228,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Lao People's Democratic Republic
+66229,Facebook,2024-01-16,Não Convertido,,0.0,Moderado,Switzerland
+66230,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,El Salvador
+66231,Instagram,2024-01-18,Não Convertido,,0.0,Conservador,Ireland
+66232,Orgânico,2024-01-16,Não Convertido,,0.0,Conservador,Pitcairn Islands
+66233,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,Finland
+66234,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Tunisia
+66235,Instagram,2024-01-19,Não Convertido,,0.0,Moderado,Lithuania
+66236,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Suriname
+66237,Instagram,2024-01-20,Não Convertido,,0.0,Conservador,Madagascar
+66238,Google Ads,2024-01-17,Não Convertido,,0.0,Desconhecido,Syrian Arab Republic
+66239,E-mail Marketing,2024-01-17,Não Convertido,,0.0,Agressivo,Kiribati
+66240,Orgânico,2024-01-17,Convertido,1.0,330.92,Moderado,France
+66241,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Sri Lanka
+66242,Google Ads,2024-01-18,Não Convertido,,0.0,Conservador,Barbados
+66243,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,Denmark
+66244,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Egypt
+66245,Orgânico,2024-01-19,Não Convertido,,0.0,Desconhecido,Uzbekistan
+66246,Indicação,2024-01-17,Não Convertido,,0.0,Conservador,Haiti
+66247,Google Ads,2024-01-17,Convertido,18.0,2210.46,Conservador,Samoa
+66248,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Nicaragua
+66249,Instagram,2024-01-19,Não Convertido,,0.0,Conservador,Slovenia
+66250,Orgânico,2024-01-19,Não Convertido,,0.0,Conservador,Bangladesh
+66251,Google Ads,2024-01-16,Não Convertido,,0.0,Moderado,Equatorial Guinea
+66252,Instagram,2024-01-15,Não Convertido,,0.0,Desconhecido,Angola
+66253,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Honduras
+66254,Facebook,2024-01-15,Não Convertido,,0.0,Moderado,Liberia
+66255,TikTok,2024-01-20,Não Convertido,,0.0,Agressivo,Somalia
+66256,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Falkland Islands (Malvinas)
+66257,YouTube Ads,2024-01-18,Não Convertido,,0.0,Agressivo,Ireland
+66258,Orgânico,2024-01-17,Não Convertido,,0.0,Agressivo,Antigua and Barbuda
+66259,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Nicaragua
+66260,Orgânico,2024-01-17,Convertido,14.0,6961.3,Moderado,Guam
+66261,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,South Africa
+66262,TikTok,2024-01-18,Não Convertido,,0.0,Moderado,Namibia
+66263,Orgânico,2024-01-18,Não Convertido,,0.0,Agressivo,Afghanistan
+66264,YouTube Ads,2024-01-19,Não Convertido,,0.0,Moderado,Samoa
+66265,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Cook Islands
+66266,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Moderado,Bosnia and Herzegovina
+66267,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,American Samoa
+66268,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Canada
+66269,Google Ads,2024-01-17,Não Convertido,,0.0,Agressivo,Angola
+66270,WhatsApp,2024-01-18,Não Convertido,,0.0,Conservador,United Arab Emirates
+66271,Facebook,2024-01-17,Não Convertido,,0.0,Agressivo,Taiwan
+66272,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,American Samoa
+66273,Instagram,2024-01-16,Não Convertido,,0.0,Moderado,Pitcairn Islands
+66274,WhatsApp,2024-01-16,Não Convertido,,0.0,Moderado,Canada
+66275,Orgânico,2024-01-15,Não Convertido,,0.0,Moderado,Rwanda
+66276,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,United States of America
+66277,TikTok,2024-01-19,Não Convertido,,0.0,Agressivo,Romania
+66278,Indicação,2024-01-18,Não Convertido,,0.0,Conservador,United States Virgin Islands
+66279,TikTok,2024-01-19,Não Convertido,,0.0,Desconhecido,Tunisia
+66280,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,Lesotho
+66281,TikTok,2024-01-15,Não Convertido,,0.0,Agressivo,Ireland
+66282,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Conservador,Hungary
+66283,Facebook,2024-01-15,Não Convertido,,0.0,Conservador,Austria
+66284,E-mail Marketing,2024-01-18,Convertido,9.0,3053.96,Agressivo,Zimbabwe
+66285,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Desconhecido,Maldives
+66286,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,Saint Martin
+66287,Orgânico,2024-01-19,Não Convertido,,0.0,Agressivo,Cameroon
+66288,Facebook,2024-01-18,Não Convertido,,0.0,Conservador,Kyrgyz Republic
+66289,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Samoa
+66290,Indicação,2024-01-15,Não Convertido,,0.0,Moderado,Ghana
+66291,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Honduras
+66292,Instagram,2024-01-17,Não Convertido,,0.0,Moderado,Mexico
+66293,Facebook,2024-01-19,Não Convertido,,0.0,Conservador,Rwanda
+66294,Instagram,2024-01-20,Não Convertido,,0.0,Moderado,Morocco
+66295,TikTok,2024-01-16,Não Convertido,,0.0,Agressivo,Nigeria
+66296,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Singapore
+66297,Orgânico,2024-01-17,Não Convertido,,0.0,Moderado,Guatemala
+66298,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Finland
+66299,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Vanuatu
+66300,E-mail Marketing,2024-01-18,Não Convertido,,0.0,Moderado,Anguilla
+66301,YouTube Ads,2024-01-15,Não Convertido,,0.0,Moderado,Canada
+66302,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+66303,Facebook,2024-01-19,Não Convertido,,0.0,Desconhecido,French Southern Territories
+66304,Indicação,2024-01-20,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+66305,E-mail Marketing,2024-01-15,Convertido,21.0,1305.06,Agressivo,Micronesia
+66306,TikTok,2024-01-15,Não Convertido,,0.0,Moderado,United Kingdom
+66307,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,Tajikistan
+66308,Orgânico,2024-01-17,Não Convertido,,0.0,Desconhecido,Bangladesh
+66309,Orgânico,2024-01-19,Não Convertido,,0.0,Desconhecido,Latvia
+66310,Instagram,2024-01-16,Não Convertido,,0.0,Conservador,Mauritania
+66311,WhatsApp,2024-01-19,Não Convertido,,0.0,Conservador,Botswana
+66312,Instagram,2024-01-16,Convertido,20.0,972.51,Conservador,Nepal
+66313,TikTok,2024-01-16,Convertido,23.0,2486.59,Agressivo,Togo
+66314,Facebook,2024-01-17,Convertido,16.0,6165.94,Moderado,Uruguay
+66315,YouTube Ads,2024-01-18,Não Convertido,,0.0,Moderado,Mauritius
+66316,Google Ads,2024-01-15,Não Convertido,,0.0,Moderado,Tanzania
+66317,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Niger
+66318,YouTube Ads,2024-01-19,Não Convertido,,0.0,Conservador,United Arab Emirates
+66319,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Mauritius
+66320,Google Ads,2024-01-18,Não Convertido,,0.0,Moderado,Honduras
+66321,Instagram,2024-01-19,Não Convertido,,0.0,Desconhecido,Iraq
+66322,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Thailand
+66323,Orgânico,2024-01-20,Convertido,27.0,2481.84,Agressivo,Denmark
+66324,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Korea
+66325,Orgânico,2024-01-15,Não Convertido,,0.0,Agressivo,Hungary
+66326,WhatsApp,2024-01-19,Não Convertido,,0.0,Moderado,Netherlands
+66327,Google Ads,2024-01-20,Não Convertido,,0.0,Moderado,American Samoa
+66328,E-mail Marketing,2024-01-20,Não Convertido,,0.0,Agressivo,Russian Federation
+66329,Instagram,2024-01-18,Não Convertido,,0.0,Desconhecido,Cuba
+66330,TikTok,2024-01-19,Não Convertido,,0.0,Conservador,San Marino
+66331,YouTube Ads,2024-01-17,Não Convertido,,0.0,Desconhecido,Heard Island and McDonald Islands
+66332,WhatsApp,2024-01-20,Não Convertido,,0.0,Moderado,Croatia
+66333,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Agressivo,Thailand
+66334,E-mail Marketing,2024-01-19,Não Convertido,,0.0,Conservador,Uzbekistan
+66335,Instagram,2024-01-20,Não Convertido,,0.0,Agressivo,El Salvador
+66336,Orgânico,2024-01-18,Não Convertido,,0.0,Moderado,Kazakhstan
+66337,Orgânico,2024-01-16,Não Convertido,,0.0,Moderado,Uruguay
+66338,E-mail Marketing,2024-01-15,Não Convertido,,0.0,Moderado,Taiwan
+66339,WhatsApp,2024-01-17,Não Convertido,,0.0,Conservador,Hong Kong
+66340,Indicação,2024-01-16,Não Convertido,,0.0,Moderado,Japan
+66341,Instagram,2024-01-18,Não Convertido,,0.0,Moderado,Timor-Leste
+66342,TikTok,2024-01-19,Não Convertido,,0.0,Moderado,Suriname
+66343,WhatsApp,2024-01-18,Não Convertido,,0.0,Moderado,Mongolia
+66344,Facebook,2024-01-17,Não Convertido,,0.0,Conservador,Heard Island and McDonald Islands
+66345,Orgânico,2024-01-15,Não Convertido,,0.0,Conservador,Australia
+66346,E-mail Marketing,2024-01-16,Não Convertido,,0.0,Moderado,Bahamas
+66347,YouTube Ads,2024-01-15,Não Convertido,,0.0,Desconhecido,Yemen
+66348,YouTube Ads,2024-01-16,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic

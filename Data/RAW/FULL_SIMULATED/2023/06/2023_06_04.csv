@@ -1,0 +1,1340 @@
+lead_id,origem,data_cadastro,status_conversao,dias_ate_1o_trade,valor_deposito,perfil,pais
+13864,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Portugal
+13865,WhatsApp,2023-06-30,Não Convertido,,0.0,Agressivo,Ukraine
+13866,Facebook,2023-06-26,Não Convertido,,0.0,Conservador,Bangladesh
+13867,YouTube Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Turkey
+13868,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Burundi
+13869,WhatsApp,2023-07-01,Não Convertido,,0.0,Agressivo,India
+13870,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Spain
+13871,Google Ads,2023-06-30,Não Convertido,,0.0,Conservador,Martinique
+13872,YouTube Ads,2023-06-27,Não Convertido,,0.0,Moderado,Uzbekistan
+13873,TikTok,2023-07-01,Não Convertido,,0.0,Desconhecido,Svalbard & Jan Mayen Islands
+13874,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Panama
+13875,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Tunisia
+13876,Indicação,2023-07-01,Não Convertido,,0.0,Desconhecido,Guam
+13877,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Montserrat
+13878,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,United States Virgin Islands
+13879,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Tuvalu
+13880,Orgânico,2023-06-28,Convertido,18.0,9911.75,Conservador,Malta
+13881,Google Ads,2023-06-29,Não Convertido,,0.0,Desconhecido,Kazakhstan
+13882,E-mail Marketing,2023-06-29,Convertido,29.0,1985.51,Conservador,Canada
+13883,TikTok,2023-06-27,Não Convertido,,0.0,Conservador,Namibia
+13884,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,Peru
+13885,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Mauritius
+13886,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Niue
+13887,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,Monaco
+13888,Indicação,2023-06-30,Não Convertido,,0.0,Moderado,Venezuela
+13889,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,China
+13890,TikTok,2023-06-28,Não Convertido,,0.0,Conservador,Jamaica
+13891,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,Jamaica
+13892,WhatsApp,2023-06-28,Não Convertido,,0.0,Conservador,El Salvador
+13893,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Guyana
+13894,TikTok,2023-06-29,Não Convertido,,0.0,Conservador,Belize
+13895,Facebook,2023-06-26,Não Convertido,,0.0,Conservador,Saint Kitts and Nevis
+13896,Facebook,2023-06-28,Não Convertido,,0.0,Agressivo,Austria
+13897,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Gibraltar
+13898,Indicação,2023-07-01,Não Convertido,,0.0,Moderado,Denmark
+13899,WhatsApp,2023-06-26,Não Convertido,,0.0,Moderado,Slovenia
+13900,TikTok,2023-06-30,Não Convertido,,0.0,Conservador,Korea
+13901,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Switzerland
+13902,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Reunion
+13903,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,Svalbard & Jan Mayen Islands
+13904,Indicação,2023-06-26,Não Convertido,,0.0,Agressivo,Lebanon
+13905,Google Ads,2023-06-29,Convertido,13.0,1103.91,Conservador,Angola
+13906,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Congo
+13907,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Russian Federation
+13908,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Libyan Arab Jamahiriya
+13909,YouTube Ads,2023-07-01,Não Convertido,,0.0,Desconhecido,Sierra Leone
+13910,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,Togo
+13911,Indicação,2023-06-27,Não Convertido,,0.0,Moderado,Venezuela
+13912,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Angola
+13913,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Algeria
+13914,WhatsApp,2023-06-28,Não Convertido,,0.0,Desconhecido,South Africa
+13915,Indicação,2023-07-01,Não Convertido,,0.0,Conservador,Montserrat
+13916,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Agressivo,Pakistan
+13917,Facebook,2023-06-29,Não Convertido,,0.0,Conservador,Kuwait
+13918,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,El Salvador
+13919,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Agressivo,Nauru
+13920,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,South Georgia and the South Sandwich Islands
+13921,Google Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+13922,Google Ads,2023-06-30,Não Convertido,,0.0,Agressivo,Guatemala
+13923,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Swaziland
+13924,Google Ads,2023-06-27,Não Convertido,,0.0,Moderado,Central African Republic
+13925,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,Togo
+13926,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Bolivia
+13927,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Aruba
+13928,Google Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Belarus
+13929,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,Cocos (Keeling) Islands
+13930,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Cambodia
+13931,Indicação,2023-06-29,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+13932,WhatsApp,2023-06-30,Não Convertido,,0.0,Desconhecido,Nigeria
+13933,Facebook,2023-06-28,Convertido,8.0,8727.66,Moderado,Central African Republic
+13934,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Belize
+13935,Facebook,2023-06-28,Não Convertido,,0.0,Agressivo,Moldova
+13936,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,Nauru
+13937,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Congo
+13938,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Conservador,Heard Island and McDonald Islands
+13939,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Moldova
+13940,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Moderado,Papua New Guinea
+13941,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Cuba
+13942,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Liberia
+13943,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Portugal
+13944,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Bangladesh
+13945,Orgânico,2023-06-29,Não Convertido,,0.0,Desconhecido,Ethiopia
+13946,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Desconhecido,Svalbard & Jan Mayen Islands
+13947,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Bolivia
+13948,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Finland
+13949,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Uruguay
+13950,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Tokelau
+13951,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Tokelau
+13952,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Malaysia
+13953,YouTube Ads,2023-06-26,Não Convertido,,0.0,Moderado,Maldives
+13954,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Saint Helena
+13955,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Angola
+13956,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Conservador,Panama
+13957,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Japan
+13958,TikTok,2023-06-26,Convertido,6.0,4572.85,Moderado,Spain
+13959,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Czech Republic
+13960,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,Guyana
+13961,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+13962,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Greece
+13963,WhatsApp,2023-07-01,Não Convertido,,0.0,Agressivo,Namibia
+13964,Indicação,2023-07-01,Não Convertido,,0.0,Moderado,Luxembourg
+13965,TikTok,2023-06-29,Não Convertido,,0.0,Desconhecido,Suriname
+13966,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,Falkland Islands (Malvinas)
+13967,WhatsApp,2023-06-26,Não Convertido,,0.0,Moderado,Barbados
+13968,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Chile
+13969,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,Czech Republic
+13970,TikTok,2023-06-26,Não Convertido,,0.0,Conservador,Hong Kong
+13971,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,French Guiana
+13972,TikTok,2023-06-26,Não Convertido,,0.0,Agressivo,Brunei Darussalam
+13973,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Conservador,Thailand
+13974,TikTok,2023-07-01,Não Convertido,,0.0,Desconhecido,Saudi Arabia
+13975,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Tunisia
+13976,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Swaziland
+13977,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Puerto Rico
+13978,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Morocco
+13979,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Sierra Leone
+13980,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Israel
+13981,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Conservador,Cape Verde
+13982,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Conservador,Tanzania
+13983,WhatsApp,2023-06-28,Não Convertido,,0.0,Moderado,Netherlands Antilles
+13984,Facebook,2023-06-28,Não Convertido,,0.0,Desconhecido,Mexico
+13985,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Conservador,Marshall Islands
+13986,Google Ads,2023-06-27,Não Convertido,,0.0,Moderado,Pakistan
+13987,Instagram,2023-06-28,Não Convertido,,0.0,Desconhecido,Jersey
+13988,YouTube Ads,2023-06-29,Não Convertido,,0.0,Agressivo,French Guiana
+13989,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Korea
+13990,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Ukraine
+13991,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Angola
+13992,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Moderado,Cameroon
+13993,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Congo
+13994,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Lao People's Democratic Republic
+13995,TikTok,2023-06-30,Convertido,14.0,8234.14,Agressivo,Antarctica (the territory South of 60 deg S)
+13996,Orgânico,2023-06-28,Não Convertido,,0.0,Conservador,Armenia
+13997,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Macao
+13998,Google Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Haiti
+13999,YouTube Ads,2023-06-29,Não Convertido,,0.0,Moderado,Chile
+14000,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Finland
+14001,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Timor-Leste
+14002,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Bermuda
+14003,Orgânico,2023-06-26,Não Convertido,,0.0,Conservador,Saint Barthelemy
+14004,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Solomon Islands
+14005,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Tokelau
+14006,YouTube Ads,2023-07-01,Não Convertido,,0.0,Conservador,Liberia
+14007,Google Ads,2023-06-27,Não Convertido,,0.0,Moderado,Cyprus
+14008,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Kiribati
+14009,WhatsApp,2023-07-01,Não Convertido,,0.0,Desconhecido,Tajikistan
+14010,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Mali
+14011,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,French Polynesia
+14012,Google Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Svalbard & Jan Mayen Islands
+14013,Orgânico,2023-06-29,Não Convertido,,0.0,Conservador,Ghana
+14014,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Georgia
+14015,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Bahrain
+14016,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Moderado,Australia
+14017,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Cayman Islands
+14018,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Palestinian Territory
+14019,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Vietnam
+14020,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Mozambique
+14021,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Cuba
+14022,Orgânico,2023-06-26,Convertido,9.0,61.1,Moderado,Tuvalu
+14023,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Zimbabwe
+14024,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,Namibia
+14025,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Papua New Guinea
+14026,Indicação,2023-06-28,Não Convertido,,0.0,Agressivo,Haiti
+14027,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Venezuela
+14028,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Ecuador
+14029,YouTube Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Lesotho
+14030,YouTube Ads,2023-07-01,Não Convertido,,0.0,Desconhecido,Somalia
+14031,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Turkmenistan
+14032,WhatsApp,2023-07-01,Não Convertido,,0.0,Moderado,Ethiopia
+14033,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Spain
+14034,WhatsApp,2023-06-27,Não Convertido,,0.0,Moderado,Bahrain
+14035,YouTube Ads,2023-06-27,Não Convertido,,0.0,Moderado,Gibraltar
+14036,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Kiribati
+14037,Indicação,2023-06-26,Não Convertido,,0.0,Conservador,Belgium
+14038,Orgânico,2023-06-28,Não Convertido,,0.0,Desconhecido,Nepal
+14039,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Saint Kitts and Nevis
+14040,YouTube Ads,2023-06-29,Não Convertido,,0.0,Desconhecido,Paraguay
+14041,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Libyan Arab Jamahiriya
+14042,Indicação,2023-06-27,Não Convertido,,0.0,Conservador,Switzerland
+14043,Google Ads,2023-06-30,Não Convertido,,0.0,Desconhecido,Gambia
+14044,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Agressivo,Wallis and Futuna
+14045,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Pitcairn Islands
+14046,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Brunei Darussalam
+14047,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Czech Republic
+14048,YouTube Ads,2023-06-30,Não Convertido,,0.0,Moderado,Romania
+14049,Indicação,2023-06-27,Não Convertido,,0.0,Moderado,Namibia
+14050,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Holy See (Vatican City State)
+14051,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,India
+14052,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Congo
+14053,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Poland
+14054,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Conservador,Bulgaria
+14055,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Conservador,Puerto Rico
+14056,Indicação,2023-06-30,Não Convertido,,0.0,Agressivo,Congo
+14057,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Bangladesh
+14058,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,Bangladesh
+14059,Orgânico,2023-06-27,Convertido,13.0,3666.7,Moderado,Rwanda
+14060,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Nigeria
+14061,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Senegal
+14062,Indicação,2023-06-26,Não Convertido,,0.0,Conservador,Mozambique
+14063,Google Ads,2023-06-29,Não Convertido,,0.0,Conservador,Zambia
+14064,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,France
+14065,YouTube Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Brazil
+14066,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Fiji
+14067,E-mail Marketing,2023-07-01,Convertido,30.0,7646.3,Agressivo,Gabon
+14068,Orgânico,2023-07-01,Não Convertido,,0.0,Conservador,Kiribati
+14069,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Guinea-Bissau
+14070,Facebook,2023-06-30,Não Convertido,,0.0,Conservador,Western Sahara
+14071,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Holy See (Vatican City State)
+14072,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Myanmar
+14073,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Algeria
+14074,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Conservador,Gabon
+14075,Google Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Guinea
+14076,Facebook,2023-07-01,Não Convertido,,0.0,Conservador,Korea
+14077,Orgânico,2023-06-27,Convertido,25.0,5015.08,Agressivo,Serbia
+14078,E-mail Marketing,2023-06-27,Convertido,24.0,2312.21,Moderado,France
+14079,WhatsApp,2023-06-26,Não Convertido,,0.0,Conservador,Brunei Darussalam
+14080,Google Ads,2023-06-28,Não Convertido,,0.0,Agressivo,United Kingdom
+14081,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Romania
+14082,WhatsApp,2023-06-28,Não Convertido,,0.0,Moderado,Kazakhstan
+14083,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Svalbard & Jan Mayen Islands
+14084,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Timor-Leste
+14085,Orgânico,2023-06-28,Não Convertido,,0.0,Conservador,North Macedonia
+14086,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Saint Kitts and Nevis
+14087,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Moldova
+14088,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Suriname
+14089,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,New Zealand
+14090,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Benin
+14091,Instagram,2023-06-27,Não Convertido,,0.0,Desconhecido,Swaziland
+14092,YouTube Ads,2023-06-28,Não Convertido,,0.0,Moderado,China
+14093,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Comoros
+14094,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Croatia
+14095,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Ethiopia
+14096,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Syrian Arab Republic
+14097,Google Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Mongolia
+14098,Google Ads,2023-07-01,Convertido,2.0,795.86,Agressivo,Taiwan
+14099,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Jamaica
+14100,WhatsApp,2023-06-27,Não Convertido,,0.0,Moderado,Papua New Guinea
+14101,YouTube Ads,2023-06-29,Não Convertido,,0.0,Conservador,Mozambique
+14102,Google Ads,2023-06-28,Não Convertido,,0.0,Desconhecido,Malaysia
+14103,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Niue
+14104,Google Ads,2023-06-27,Não Convertido,,0.0,Conservador,Suriname
+14105,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Agressivo,North Macedonia
+14106,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Chad
+14107,TikTok,2023-06-29,Não Convertido,,0.0,Conservador,Guinea
+14108,Indicação,2023-07-01,Não Convertido,,0.0,Agressivo,Bermuda
+14109,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Desconhecido,Netherlands Antilles
+14110,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Bosnia and Herzegovina
+14111,Facebook,2023-06-30,Não Convertido,,0.0,Desconhecido,Sweden
+14112,WhatsApp,2023-06-27,Não Convertido,,0.0,Conservador,Germany
+14113,WhatsApp,2023-07-01,Não Convertido,,0.0,Conservador,Maldives
+14114,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,Italy
+14115,Facebook,2023-06-27,Não Convertido,,0.0,Agressivo,Greece
+14116,TikTok,2023-06-30,Não Convertido,,0.0,Desconhecido,India
+14117,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Tajikistan
+14118,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,United Kingdom
+14119,Google Ads,2023-06-30,Não Convertido,,0.0,Conservador,United States Minor Outlying Islands
+14120,Instagram,2023-07-01,Convertido,11.0,4945.71,Conservador,Austria
+14121,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Conservador,New Caledonia
+14122,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Korea
+14123,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,New Caledonia
+14124,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Australia
+14125,Facebook,2023-06-28,Não Convertido,,0.0,Conservador,Saint Kitts and Nevis
+14126,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Estonia
+14127,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Hong Kong
+14128,Instagram,2023-06-30,Não Convertido,,0.0,Agressivo,Uzbekistan
+14129,TikTok,2023-06-26,Não Convertido,,0.0,Desconhecido,Tuvalu
+14130,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Saint Pierre and Miquelon
+14131,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Thailand
+14132,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Taiwan
+14133,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Christmas Island
+14134,YouTube Ads,2023-07-01,Convertido,9.0,8499.42,Conservador,Angola
+14135,Google Ads,2023-06-27,Não Convertido,,0.0,Moderado,Morocco
+14136,Google Ads,2023-06-26,Não Convertido,,0.0,Conservador,Palau
+14137,TikTok,2023-06-30,Não Convertido,,0.0,Desconhecido,Sao Tome and Principe
+14138,YouTube Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Germany
+14139,WhatsApp,2023-06-26,Não Convertido,,0.0,Moderado,Kyrgyz Republic
+14140,Google Ads,2023-06-26,Não Convertido,,0.0,Conservador,Monaco
+14141,TikTok,2023-06-28,Não Convertido,,0.0,Conservador,Equatorial Guinea
+14142,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Netherlands
+14143,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Angola
+14144,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+14145,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Wallis and Futuna
+14146,YouTube Ads,2023-06-28,Não Convertido,,0.0,Moderado,Slovenia
+14147,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Guinea
+14148,YouTube Ads,2023-07-01,Não Convertido,,0.0,Conservador,Algeria
+14149,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Cape Verde
+14150,Indicação,2023-06-29,Não Convertido,,0.0,Agressivo,Peru
+14151,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Iraq
+14152,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Cape Verde
+14153,Facebook,2023-06-28,Não Convertido,,0.0,Moderado,Mauritius
+14154,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Belarus
+14155,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Oman
+14156,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,Northern Mariana Islands
+14157,YouTube Ads,2023-06-27,Não Convertido,,0.0,Desconhecido,Honduras
+14158,YouTube Ads,2023-06-27,Não Convertido,,0.0,Conservador,Azerbaijan
+14159,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,British Indian Ocean Territory (Chagos Archipelago)
+14160,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Brazil
+14161,Google Ads,2023-06-28,Não Convertido,,0.0,Moderado,Wallis and Futuna
+14162,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Libyan Arab Jamahiriya
+14163,Instagram,2023-06-27,Convertido,21.0,7281.2,Conservador,Lebanon
+14164,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Chile
+14165,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Libyan Arab Jamahiriya
+14166,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Aruba
+14167,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Suriname
+14168,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Suriname
+14169,WhatsApp,2023-06-27,Não Convertido,,0.0,Conservador,Egypt
+14170,TikTok,2023-07-01,Convertido,3.0,9388.62,Moderado,Macao
+14171,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Togo
+14172,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Pitcairn Islands
+14173,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Peru
+14174,YouTube Ads,2023-07-01,Não Convertido,,0.0,Agressivo,South Africa
+14175,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Nigeria
+14176,YouTube Ads,2023-06-28,Não Convertido,,0.0,Agressivo,Ireland
+14177,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Romania
+14178,WhatsApp,2023-06-27,Não Convertido,,0.0,Moderado,Saint Helena
+14179,Facebook,2023-06-30,Não Convertido,,0.0,Desconhecido,Dominican Republic
+14180,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Isle of Man
+14181,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Jordan
+14182,Google Ads,2023-06-28,Não Convertido,,0.0,Agressivo,United Arab Emirates
+14183,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,India
+14184,Indicação,2023-06-30,Não Convertido,,0.0,Moderado,Norfolk Island
+14185,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,Hong Kong
+14186,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Agressivo,Myanmar
+14187,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,United States Minor Outlying Islands
+14188,Indicação,2023-06-30,Não Convertido,,0.0,Desconhecido,Bahamas
+14189,Google Ads,2023-06-27,Não Convertido,,0.0,Conservador,Congo
+14190,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Rwanda
+14191,TikTok,2023-06-26,Não Convertido,,0.0,Conservador,Turkey
+14192,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Chad
+14193,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Northern Mariana Islands
+14194,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Comoros
+14195,Indicação,2023-06-30,Não Convertido,,0.0,Moderado,Tokelau
+14196,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Conservador,Cambodia
+14197,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Armenia
+14198,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Guadeloupe
+14199,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,Wallis and Futuna
+14200,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Philippines
+14201,Orgânico,2023-07-01,Convertido,7.0,6937.05,Conservador,French Southern Territories
+14202,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,Azerbaijan
+14203,YouTube Ads,2023-06-29,Convertido,25.0,911.07,Desconhecido,Guadeloupe
+14204,YouTube Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Dominican Republic
+14205,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Wallis and Futuna
+14206,Google Ads,2023-06-30,Não Convertido,,0.0,Moderado,Lebanon
+14207,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Brunei Darussalam
+14208,Facebook,2023-06-26,Não Convertido,,0.0,Conservador,Panama
+14209,YouTube Ads,2023-06-28,Não Convertido,,0.0,Desconhecido,Kenya
+14210,Indicação,2023-06-28,Não Convertido,,0.0,Conservador,Turks and Caicos Islands
+14211,Facebook,2023-06-30,Não Convertido,,0.0,Agressivo,United Kingdom
+14212,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Finland
+14213,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,India
+14214,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Kenya
+14215,TikTok,2023-06-27,Não Convertido,,0.0,Moderado,Sierra Leone
+14216,Google Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Burundi
+14217,YouTube Ads,2023-06-30,Não Convertido,,0.0,Moderado,Netherlands
+14218,WhatsApp,2023-06-30,Não Convertido,,0.0,Conservador,Ethiopia
+14219,YouTube Ads,2023-06-28,Não Convertido,,0.0,Moderado,South Georgia and the South Sandwich Islands
+14220,Indicação,2023-06-30,Não Convertido,,0.0,Agressivo,Chile
+14221,Google Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Myanmar
+14222,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Poland
+14223,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Colombia
+14224,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Grenada
+14225,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Congo
+14226,YouTube Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Iran
+14227,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Uruguay
+14228,TikTok,2023-07-01,Não Convertido,,0.0,Desconhecido,Suriname
+14229,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Singapore
+14230,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Burkina Faso
+14231,Instagram,2023-06-26,Não Convertido,,0.0,Desconhecido,Uruguay
+14232,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Montenegro
+14233,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Cyprus
+14234,Orgânico,2023-06-26,Não Convertido,,0.0,Desconhecido,Israel
+14235,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Moderado,Peru
+14236,Orgânico,2023-06-26,Não Convertido,,0.0,Desconhecido,Holy See (Vatican City State)
+14237,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,Singapore
+14238,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Moderado,Sri Lanka
+14239,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Greece
+14240,Google Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Montenegro
+14241,Instagram,2023-06-29,Não Convertido,,0.0,Conservador,Taiwan
+14242,Orgânico,2023-07-01,Não Convertido,,0.0,Desconhecido,Djibouti
+14243,Orgânico,2023-07-01,Convertido,0.0,7684.98,Agressivo,Colombia
+14244,Instagram,2023-06-29,Não Convertido,,0.0,Conservador,Thailand
+14245,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Cyprus
+14246,Orgânico,2023-06-28,Convertido,16.0,5931.58,Conservador,Zimbabwe
+14247,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Korea
+14248,TikTok,2023-06-26,Convertido,16.0,6508.14,Agressivo,Romania
+14249,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Moderado,Austria
+14250,Instagram,2023-06-29,Não Convertido,,0.0,Desconhecido,Suriname
+14251,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Kiribati
+14252,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,Switzerland
+14253,WhatsApp,2023-06-30,Não Convertido,,0.0,Agressivo,Cambodia
+14254,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Djibouti
+14255,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Moldova
+14256,Indicação,2023-06-27,Não Convertido,,0.0,Moderado,Lao People's Democratic Republic
+14257,Instagram,2023-06-26,Não Convertido,,0.0,Desconhecido,Burkina Faso
+14258,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Saudi Arabia
+14259,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Bahrain
+14260,TikTok,2023-06-28,Não Convertido,,0.0,Conservador,Guyana
+14261,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Malta
+14262,YouTube Ads,2023-06-29,Não Convertido,,0.0,Conservador,British Indian Ocean Territory (Chagos Archipelago)
+14263,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Namibia
+14264,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Thailand
+14265,YouTube Ads,2023-07-01,Convertido,16.0,183.84,Moderado,Botswana
+14266,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,South Georgia and the South Sandwich Islands
+14267,YouTube Ads,2023-06-28,Não Convertido,,0.0,Agressivo,Ecuador
+14268,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Morocco
+14269,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Palau
+14270,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Zambia
+14271,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Moldova
+14272,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Saint Kitts and Nevis
+14273,Indicação,2023-06-26,Não Convertido,,0.0,Moderado,Namibia
+14274,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,Andorra
+14275,Orgânico,2023-06-30,Convertido,29.0,5405.88,Agressivo,Eritrea
+14276,TikTok,2023-06-26,Não Convertido,,0.0,Conservador,Algeria
+14277,Facebook,2023-06-28,Não Convertido,,0.0,Conservador,Uruguay
+14278,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Dominica
+14279,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,British Indian Ocean Territory (Chagos Archipelago)
+14280,WhatsApp,2023-06-28,Não Convertido,,0.0,Conservador,United States Virgin Islands
+14281,Facebook,2023-06-30,Não Convertido,,0.0,Agressivo,French Southern Territories
+14282,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Serbia
+14283,Facebook,2023-06-29,Não Convertido,,0.0,Agressivo,North Macedonia
+14284,WhatsApp,2023-06-28,Não Convertido,,0.0,Agressivo,Northern Mariana Islands
+14285,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Marshall Islands
+14286,YouTube Ads,2023-06-28,Não Convertido,,0.0,Moderado,Azerbaijan
+14287,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Agressivo,Faroe Islands
+14288,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Mali
+14289,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Peru
+14290,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Moderado,Wallis and Futuna
+14291,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Japan
+14292,TikTok,2023-06-28,Não Convertido,,0.0,Conservador,Austria
+14293,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Cayman Islands
+14294,Indicação,2023-06-29,Não Convertido,,0.0,Agressivo,Argentina
+14295,TikTok,2023-06-27,Não Convertido,,0.0,Conservador,Bhutan
+14296,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,South Georgia and the South Sandwich Islands
+14297,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Thailand
+14298,YouTube Ads,2023-06-30,Não Convertido,,0.0,Moderado,Bolivia
+14299,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Ghana
+14300,Indicação,2023-06-29,Não Convertido,,0.0,Desconhecido,Nigeria
+14301,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Burundi
+14302,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Estonia
+14303,TikTok,2023-06-30,Não Convertido,,0.0,Desconhecido,Haiti
+14304,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Liberia
+14305,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Burkina Faso
+14306,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Aruba
+14307,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Kenya
+14308,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Korea
+14309,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Samoa
+14310,Instagram,2023-06-30,Não Convertido,,0.0,Desconhecido,Mauritania
+14311,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Cook Islands
+14312,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Conservador,Myanmar
+14313,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,Chile
+14314,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Nepal
+14315,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Lao People's Democratic Republic
+14316,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Micronesia
+14317,Orgânico,2023-06-29,Não Convertido,,0.0,Conservador,Western Sahara
+14318,Google Ads,2023-06-28,Não Convertido,,0.0,Moderado,New Caledonia
+14319,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+14320,Indicação,2023-06-29,Não Convertido,,0.0,Moderado,Svalbard & Jan Mayen Islands
+14321,Orgânico,2023-07-01,Não Convertido,,0.0,Conservador,Sri Lanka
+14322,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Faroe Islands
+14323,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,El Salvador
+14324,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Russian Federation
+14325,Indicação,2023-07-01,Não Convertido,,0.0,Desconhecido,Korea
+14326,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Jersey
+14327,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Netherlands Antilles
+14328,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Burundi
+14329,Facebook,2023-07-01,Não Convertido,,0.0,Conservador,Montenegro
+14330,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Brazil
+14331,Facebook,2023-07-01,Convertido,3.0,9009.83,Moderado,Madagascar
+14332,Instagram,2023-06-28,Não Convertido,,0.0,Conservador,Tonga
+14333,Orgânico,2023-06-27,Convertido,21.0,7998.98,Moderado,Togo
+14334,YouTube Ads,2023-06-29,Não Convertido,,0.0,Desconhecido,Antigua and Barbuda
+14335,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Nepal
+14336,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Dominica
+14337,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,Burundi
+14338,WhatsApp,2023-07-01,Não Convertido,,0.0,Moderado,Belize
+14339,YouTube Ads,2023-06-29,Não Convertido,,0.0,Conservador,Yemen
+14340,Instagram,2023-06-28,Convertido,24.0,6541.33,Moderado,Israel
+14341,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Congo
+14342,Instagram,2023-06-28,Não Convertido,,0.0,Conservador,Cote d'Ivoire
+14343,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Somalia
+14344,TikTok,2023-06-29,Não Convertido,,0.0,Conservador,Nepal
+14345,Orgânico,2023-07-01,Não Convertido,,0.0,Conservador,Western Sahara
+14346,YouTube Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Macao
+14347,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,Switzerland
+14348,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Pakistan
+14349,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+14350,YouTube Ads,2023-06-30,Não Convertido,,0.0,Agressivo,Malawi
+14351,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Jamaica
+14352,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Ghana
+14353,Google Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Suriname
+14354,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Bhutan
+14355,Google Ads,2023-06-26,Não Convertido,,0.0,Conservador,Guernsey
+14356,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Brunei Darussalam
+14357,Google Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Iraq
+14358,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+14359,TikTok,2023-06-26,Não Convertido,,0.0,Desconhecido,Croatia
+14360,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Saint Helena
+14361,Facebook,2023-06-27,Não Convertido,,0.0,Conservador,Jordan
+14362,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,French Guiana
+14363,Google Ads,2023-06-29,Não Convertido,,0.0,Conservador,Gabon
+14364,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Central African Republic
+14365,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Conservador,Bahrain
+14366,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Benin
+14367,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Greenland
+14368,YouTube Ads,2023-07-01,Convertido,15.0,8964.74,Conservador,Romania
+14369,TikTok,2023-06-26,Não Convertido,,0.0,Agressivo,Pakistan
+14370,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Ethiopia
+14371,Instagram,2023-07-01,Não Convertido,,0.0,Conservador,Turks and Caicos Islands
+14372,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Estonia
+14373,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Germany
+14374,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Bahrain
+14375,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Myanmar
+14376,YouTube Ads,2023-06-27,Não Convertido,,0.0,Conservador,Belize
+14377,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Cuba
+14378,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Papua New Guinea
+14379,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Hungary
+14380,TikTok,2023-06-26,Não Convertido,,0.0,Agressivo,Thailand
+14381,Indicação,2023-06-27,Não Convertido,,0.0,Moderado,Malawi
+14382,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Austria
+14383,Facebook,2023-06-28,Não Convertido,,0.0,Conservador,Eritrea
+14384,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Malta
+14385,Orgânico,2023-06-26,Não Convertido,,0.0,Conservador,Bosnia and Herzegovina
+14386,Facebook,2023-06-27,Não Convertido,,0.0,Conservador,Azerbaijan
+14387,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+14388,Orgânico,2023-06-26,Não Convertido,,0.0,Conservador,Norway
+14389,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,British Virgin Islands
+14390,Instagram,2023-06-30,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+14391,YouTube Ads,2023-06-28,Não Convertido,,0.0,Agressivo,Burkina Faso
+14392,Instagram,2023-06-28,Não Convertido,,0.0,Conservador,Tunisia
+14393,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Kazakhstan
+14394,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Desconhecido,Czech Republic
+14395,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Botswana
+14396,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+14397,Facebook,2023-06-27,Não Convertido,,0.0,Agressivo,Seychelles
+14398,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,Nepal
+14399,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Montserrat
+14400,YouTube Ads,2023-06-27,Não Convertido,,0.0,Moderado,Netherlands
+14401,WhatsApp,2023-06-30,Não Convertido,,0.0,Agressivo,Luxembourg
+14402,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Hong Kong
+14403,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Kiribati
+14404,TikTok,2023-06-30,Não Convertido,,0.0,Conservador,Afghanistan
+14405,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Guatemala
+14406,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Mali
+14407,Google Ads,2023-06-29,Não Convertido,,0.0,Conservador,Indonesia
+14408,Orgânico,2023-06-26,Não Convertido,,0.0,Desconhecido,Syrian Arab Republic
+14409,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Micronesia
+14410,YouTube Ads,2023-06-28,Não Convertido,,0.0,Agressivo,Cook Islands
+14411,Orgânico,2023-06-29,Não Convertido,,0.0,Conservador,Egypt
+14412,Google Ads,2023-06-28,Não Convertido,,0.0,Moderado,Rwanda
+14413,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,United Arab Emirates
+14414,Facebook,2023-06-30,Não Convertido,,0.0,Agressivo,Azerbaijan
+14415,Google Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Djibouti
+14416,Orgânico,2023-06-26,Não Convertido,,0.0,Desconhecido,Bolivia
+14417,TikTok,2023-06-27,Não Convertido,,0.0,Desconhecido,Cambodia
+14418,Google Ads,2023-06-30,Não Convertido,,0.0,Desconhecido,Germany
+14419,Instagram,2023-06-30,Não Convertido,,0.0,Agressivo,Niue
+14420,Orgânico,2023-06-26,Não Convertido,,0.0,Conservador,Bhutan
+14421,Google Ads,2023-06-27,Não Convertido,,0.0,Conservador,Bangladesh
+14422,YouTube Ads,2023-06-27,Não Convertido,,0.0,Desconhecido,Romania
+14423,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Kazakhstan
+14424,WhatsApp,2023-06-28,Não Convertido,,0.0,Desconhecido,Saint Barthelemy
+14425,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Bhutan
+14426,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Iceland
+14427,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Solomon Islands
+14428,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Saudi Arabia
+14429,Orgânico,2023-06-28,Convertido,21.0,5017.67,Conservador,Zambia
+14430,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Montserrat
+14431,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Mali
+14432,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Jamaica
+14433,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Netherlands
+14434,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Nigeria
+14435,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Vietnam
+14436,WhatsApp,2023-06-29,Não Convertido,,0.0,Conservador,Czech Republic
+14437,WhatsApp,2023-06-26,Não Convertido,,0.0,Moderado,Libyan Arab Jamahiriya
+14438,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Ghana
+14439,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Mali
+14440,YouTube Ads,2023-06-30,Não Convertido,,0.0,Conservador,Luxembourg
+14441,Indicação,2023-06-29,Não Convertido,,0.0,Conservador,Central African Republic
+14442,WhatsApp,2023-06-26,Não Convertido,,0.0,Moderado,Belgium
+14443,YouTube Ads,2023-06-30,Não Convertido,,0.0,Moderado,Andorra
+14444,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Bouvet Island (Bouvetoya)
+14445,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,British Indian Ocean Territory (Chagos Archipelago)
+14446,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Poland
+14447,Orgânico,2023-06-28,Não Convertido,,0.0,Desconhecido,Kenya
+14448,WhatsApp,2023-06-27,Não Convertido,,0.0,Moderado,Australia
+14449,Orgânico,2023-06-28,Não Convertido,,0.0,Desconhecido,Sri Lanka
+14450,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Namibia
+14451,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Mali
+14452,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,Micronesia
+14453,Google Ads,2023-06-30,Não Convertido,,0.0,Agressivo,American Samoa
+14454,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Holy See (Vatican City State)
+14455,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Venezuela
+14456,Google Ads,2023-06-28,Não Convertido,,0.0,Moderado,Botswana
+14457,Google Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Falkland Islands (Malvinas)
+14458,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Italy
+14459,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Monaco
+14460,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Tuvalu
+14461,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+14462,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,French Polynesia
+14463,Facebook,2023-06-27,Não Convertido,,0.0,Agressivo,Tajikistan
+14464,TikTok,2023-06-28,Não Convertido,,0.0,Desconhecido,Zambia
+14465,Indicação,2023-07-01,Não Convertido,,0.0,Conservador,Antarctica (the territory South of 60 deg S)
+14466,TikTok,2023-06-26,Não Convertido,,0.0,Agressivo,United Kingdom
+14467,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Israel
+14468,TikTok,2023-06-29,Não Convertido,,0.0,Conservador,Ethiopia
+14469,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Burkina Faso
+14470,Orgânico,2023-06-27,Convertido,15.0,7522.33,Agressivo,Djibouti
+14471,Facebook,2023-06-28,Não Convertido,,0.0,Agressivo,British Virgin Islands
+14472,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Congo
+14473,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Bangladesh
+14474,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Denmark
+14475,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Cape Verde
+14476,WhatsApp,2023-06-28,Não Convertido,,0.0,Agressivo,Reunion
+14477,Indicação,2023-06-29,Não Convertido,,0.0,Agressivo,Cayman Islands
+14478,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Iran
+14479,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Poland
+14480,TikTok,2023-06-29,Convertido,27.0,6876.48,Conservador,Cuba
+14481,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Malta
+14482,Facebook,2023-06-29,Não Convertido,,0.0,Agressivo,Tuvalu
+14483,WhatsApp,2023-06-27,Não Convertido,,0.0,Conservador,Seychelles
+14484,Orgânico,2023-06-29,Não Convertido,,0.0,Conservador,Benin
+14485,Google Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Italy
+14486,Orgânico,2023-06-29,Não Convertido,,0.0,Desconhecido,Guinea-Bissau
+14487,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Holy See (Vatican City State)
+14488,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Guinea
+14489,TikTok,2023-06-29,Não Convertido,,0.0,Desconhecido,Wallis and Futuna
+14490,Indicação,2023-07-01,Não Convertido,,0.0,Conservador,United States of America
+14491,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+14492,Google Ads,2023-07-01,Não Convertido,,0.0,Agressivo,United States of America
+14493,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Greenland
+14494,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Costa Rica
+14495,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Kenya
+14496,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,United States Virgin Islands
+14497,Indicação,2023-06-28,Não Convertido,,0.0,Agressivo,Estonia
+14498,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Conservador,Puerto Rico
+14499,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Mauritania
+14500,Instagram,2023-06-28,Não Convertido,,0.0,Desconhecido,Ethiopia
+14501,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Somalia
+14502,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+14503,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Belgium
+14504,WhatsApp,2023-06-28,Não Convertido,,0.0,Moderado,Sao Tome and Principe
+14505,WhatsApp,2023-06-28,Não Convertido,,0.0,Agressivo,Christmas Island
+14506,Indicação,2023-06-27,Não Convertido,,0.0,Agressivo,French Southern Territories
+14507,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Italy
+14508,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Mali
+14509,YouTube Ads,2023-06-26,Não Convertido,,0.0,Conservador,Greenland
+14510,WhatsApp,2023-06-26,Não Convertido,,0.0,Moderado,Angola
+14511,Facebook,2023-06-27,Não Convertido,,0.0,Agressivo,Palau
+14512,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Greenland
+14513,Facebook,2023-07-01,Não Convertido,,0.0,Desconhecido,Wallis and Futuna
+14514,TikTok,2023-06-30,Convertido,21.0,5504.99,Agressivo,Morocco
+14515,Instagram,2023-07-01,Não Convertido,,0.0,Conservador,Iran
+14516,Google Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Sierra Leone
+14517,WhatsApp,2023-06-26,Não Convertido,,0.0,Agressivo,Anguilla
+14518,Facebook,2023-07-01,Não Convertido,,0.0,Desconhecido,Sao Tome and Principe
+14519,WhatsApp,2023-06-26,Não Convertido,,0.0,Conservador,Vanuatu
+14520,Google Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Qatar
+14521,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Northern Mariana Islands
+14522,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Desconhecido,Brazil
+14523,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Oman
+14524,Facebook,2023-06-30,Não Convertido,,0.0,Conservador,Turks and Caicos Islands
+14525,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,American Samoa
+14526,YouTube Ads,2023-06-28,Não Convertido,,0.0,Conservador,Seychelles
+14527,TikTok,2023-06-29,Não Convertido,,0.0,Conservador,Seychelles
+14528,WhatsApp,2023-06-28,Não Convertido,,0.0,Desconhecido,Maldives
+14529,Indicação,2023-06-27,Não Convertido,,0.0,Agressivo,Saint Lucia
+14530,Indicação,2023-06-28,Não Convertido,,0.0,Conservador,Maldives
+14531,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Moderado,Vanuatu
+14532,Instagram,2023-07-01,Não Convertido,,0.0,Conservador,Tajikistan
+14533,Instagram,2023-06-26,Convertido,14.0,6465.14,Agressivo,Botswana
+14534,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Iraq
+14535,Indicação,2023-06-28,Não Convertido,,0.0,Agressivo,Malawi
+14536,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Niue
+14537,TikTok,2023-06-27,Convertido,20.0,2175.84,Agressivo,Netherlands
+14538,Google Ads,2023-06-30,Não Convertido,,0.0,Moderado,Argentina
+14539,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Tuvalu
+14540,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Venezuela
+14541,TikTok,2023-06-30,Não Convertido,,0.0,Desconhecido,Romania
+14542,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Peru
+14543,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Mauritania
+14544,Orgânico,2023-06-27,Não Convertido,,0.0,Desconhecido,Uruguay
+14545,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Guatemala
+14546,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Rwanda
+14547,TikTok,2023-06-27,Não Convertido,,0.0,Moderado,Bahrain
+14548,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Afghanistan
+14549,Indicação,2023-06-30,Não Convertido,,0.0,Conservador,French Guiana
+14550,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Desconhecido,Lithuania
+14551,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Agressivo,Hong Kong
+14552,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,French Polynesia
+14553,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,Singapore
+14554,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+14555,Instagram,2023-07-01,Não Convertido,,0.0,Desconhecido,South Africa
+14556,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Tunisia
+14557,YouTube Ads,2023-07-01,Não Convertido,,0.0,Desconhecido,Cameroon
+14558,Facebook,2023-06-26,Convertido,22.0,5708.49,Conservador,Guyana
+14559,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Armenia
+14560,Orgânico,2023-06-27,Não Convertido,,0.0,Conservador,Tajikistan
+14561,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Congo
+14562,Orgânico,2023-06-29,Não Convertido,,0.0,Desconhecido,Uzbekistan
+14563,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Portugal
+14564,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,Finland
+14565,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Kuwait
+14566,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Moderado,Panama
+14567,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Desconhecido,Cyprus
+14568,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Lao People's Democratic Republic
+14569,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Cape Verde
+14570,YouTube Ads,2023-06-29,Não Convertido,,0.0,Desconhecido,Saint Kitts and Nevis
+14571,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Djibouti
+14572,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Tonga
+14573,Google Ads,2023-06-28,Não Convertido,,0.0,Conservador,Romania
+14574,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,Burkina Faso
+14575,WhatsApp,2023-06-29,Não Convertido,,0.0,Agressivo,Burkina Faso
+14576,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Christmas Island
+14577,Google Ads,2023-06-27,Não Convertido,,0.0,Desconhecido,Bahrain
+14578,WhatsApp,2023-07-01,Convertido,20.0,9612.82,Moderado,Liberia
+14579,WhatsApp,2023-06-28,Não Convertido,,0.0,Moderado,Mayotte
+14580,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Conservador,Afghanistan
+14581,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Conservador,Tanzania
+14582,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,British Virgin Islands
+14583,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Greece
+14584,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Moderado,Rwanda
+14585,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Dominica
+14586,Google Ads,2023-07-01,Não Convertido,,0.0,Conservador,Papua New Guinea
+14587,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,French Southern Territories
+14588,Indicação,2023-06-30,Não Convertido,,0.0,Agressivo,Puerto Rico
+14589,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,Togo
+14590,Orgânico,2023-06-29,Não Convertido,,0.0,Conservador,Colombia
+14591,Indicação,2023-06-26,Não Convertido,,0.0,Moderado,El Salvador
+14592,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Tanzania
+14593,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Northern Mariana Islands
+14594,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Angola
+14595,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Thailand
+14596,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Poland
+14597,Google Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Aruba
+14598,Google Ads,2023-06-29,Não Convertido,,0.0,Conservador,Burundi
+14599,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Jordan
+14600,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,British Virgin Islands
+14601,Instagram,2023-06-30,Não Convertido,,0.0,Agressivo,Singapore
+14602,Instagram,2023-06-28,Não Convertido,,0.0,Desconhecido,Korea
+14603,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,Qatar
+14604,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Maldives
+14605,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Congo
+14606,Facebook,2023-06-27,Convertido,0.0,2063.64,Moderado,Fiji
+14607,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Kuwait
+14608,YouTube Ads,2023-07-01,Não Convertido,,0.0,Conservador,Mexico
+14609,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Cameroon
+14610,WhatsApp,2023-06-27,Não Convertido,,0.0,Moderado,Nigeria
+14611,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,Greece
+14612,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Zambia
+14613,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Congo
+14614,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,American Samoa
+14615,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+14616,E-mail Marketing,2023-07-01,Convertido,10.0,2403.28,Moderado,Puerto Rico
+14617,TikTok,2023-06-30,Não Convertido,,0.0,Desconhecido,Chad
+14618,WhatsApp,2023-07-01,Não Convertido,,0.0,Moderado,United Kingdom
+14619,Orgânico,2023-06-29,Não Convertido,,0.0,Desconhecido,Brazil
+14620,Instagram,2023-06-29,Não Convertido,,0.0,Conservador,Cote d'Ivoire
+14621,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Burundi
+14622,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Conservador,Kiribati
+14623,Indicação,2023-06-27,Não Convertido,,0.0,Agressivo,Georgia
+14624,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Turkmenistan
+14625,WhatsApp,2023-06-28,Não Convertido,,0.0,Moderado,Pakistan
+14626,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Finland
+14627,Orgânico,2023-06-29,Convertido,4.0,807.05,Moderado,Turkmenistan
+14628,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Italy
+14629,TikTok,2023-06-27,Não Convertido,,0.0,Moderado,Netherlands
+14630,YouTube Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Djibouti
+14631,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Falkland Islands (Malvinas)
+14632,Indicação,2023-07-01,Não Convertido,,0.0,Agressivo,Guinea-Bissau
+14633,Google Ads,2023-06-30,Não Convertido,,0.0,Agressivo,France
+14634,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Vanuatu
+14635,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Tokelau
+14636,Instagram,2023-06-27,Não Convertido,,0.0,Desconhecido,Mexico
+14637,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Lesotho
+14638,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Niger
+14639,Facebook,2023-06-26,Não Convertido,,0.0,Conservador,Korea
+14640,Indicação,2023-06-26,Não Convertido,,0.0,Moderado,Mexico
+14641,WhatsApp,2023-06-28,Não Convertido,,0.0,Conservador,Martinique
+14642,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,New Zealand
+14643,Google Ads,2023-06-27,Não Convertido,,0.0,Conservador,Tokelau
+14644,Orgânico,2023-07-01,Não Convertido,,0.0,Conservador,Togo
+14645,Instagram,2023-06-26,Não Convertido,,0.0,Desconhecido,Uganda
+14646,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Maldives
+14647,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Chad
+14648,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Comoros
+14649,Instagram,2023-06-30,Não Convertido,,0.0,Desconhecido,Bermuda
+14650,Orgânico,2023-06-28,Convertido,20.0,7518.77,Agressivo,Egypt
+14651,Indicação,2023-06-29,Não Convertido,,0.0,Conservador,Anguilla
+14652,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Brunei Darussalam
+14653,Instagram,2023-06-28,Não Convertido,,0.0,Conservador,Montserrat
+14654,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Italy
+14655,Orgânico,2023-06-27,Não Convertido,,0.0,Conservador,Grenada
+14656,Indicação,2023-06-30,Não Convertido,,0.0,Conservador,Cook Islands
+14657,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,United Arab Emirates
+14658,YouTube Ads,2023-06-30,Não Convertido,,0.0,Moderado,Tuvalu
+14659,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,United States of America
+14660,Indicação,2023-06-30,Não Convertido,,0.0,Agressivo,Wallis and Futuna
+14661,Instagram,2023-07-01,Não Convertido,,0.0,Desconhecido,Bahamas
+14662,Orgânico,2023-07-01,Não Convertido,,0.0,Conservador,Gabon
+14663,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Indonesia
+14664,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,French Southern Territories
+14665,Orgânico,2023-06-29,Convertido,19.0,3855.61,Agressivo,Micronesia
+14666,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Swaziland
+14667,Facebook,2023-06-26,Convertido,6.0,7175.88,Conservador,Angola
+14668,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Thailand
+14669,Facebook,2023-06-28,Não Convertido,,0.0,Agressivo,Turks and Caicos Islands
+14670,E-mail Marketing,2023-06-28,Convertido,23.0,8763.45,Moderado,Colombia
+14671,TikTok,2023-07-01,Não Convertido,,0.0,Desconhecido,Canada
+14672,Facebook,2023-06-28,Não Convertido,,0.0,Agressivo,Falkland Islands (Malvinas)
+14673,WhatsApp,2023-07-01,Não Convertido,,0.0,Agressivo,Macao
+14674,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Cameroon
+14675,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Sudan
+14676,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Peru
+14677,Google Ads,2023-06-27,Não Convertido,,0.0,Conservador,Eritrea
+14678,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Guadeloupe
+14679,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Grenada
+14680,Indicação,2023-07-01,Não Convertido,,0.0,Moderado,Finland
+14681,WhatsApp,2023-07-01,Não Convertido,,0.0,Conservador,Greenland
+14682,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Saint Barthelemy
+14683,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Cyprus
+14684,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Lao People's Democratic Republic
+14685,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,Georgia
+14686,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Equatorial Guinea
+14687,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Turkmenistan
+14688,WhatsApp,2023-06-30,Não Convertido,,0.0,Desconhecido,Swaziland
+14689,Google Ads,2023-06-30,Não Convertido,,0.0,Moderado,Cambodia
+14690,WhatsApp,2023-06-27,Não Convertido,,0.0,Moderado,Montserrat
+14691,YouTube Ads,2023-06-29,Não Convertido,,0.0,Conservador,Norway
+14692,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Tajikistan
+14693,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Korea
+14694,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,Switzerland
+14695,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Nicaragua
+14696,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Lithuania
+14697,Facebook,2023-06-27,Não Convertido,,0.0,Agressivo,Congo
+14698,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Bolivia
+14699,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Gibraltar
+14700,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+14701,Orgânico,2023-06-30,Convertido,24.0,578.14,Agressivo,British Indian Ocean Territory (Chagos Archipelago)
+14702,Facebook,2023-06-27,Não Convertido,,0.0,Desconhecido,Sweden
+14703,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Cambodia
+14704,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Jamaica
+14705,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Iceland
+14706,WhatsApp,2023-06-28,Não Convertido,,0.0,Conservador,Chile
+14707,Google Ads,2023-06-30,Não Convertido,,0.0,Moderado,Samoa
+14708,Indicação,2023-06-27,Não Convertido,,0.0,Conservador,Oman
+14709,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Conservador,Sweden
+14710,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Mayotte
+14711,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Jersey
+14712,Google Ads,2023-06-29,Não Convertido,,0.0,Conservador,Northern Mariana Islands
+14713,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,Grenada
+14714,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Austria
+14715,Google Ads,2023-06-30,Não Convertido,,0.0,Agressivo,Guernsey
+14716,WhatsApp,2023-06-26,Não Convertido,,0.0,Moderado,Yemen
+14717,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Syrian Arab Republic
+14718,Google Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Mozambique
+14719,Facebook,2023-06-27,Não Convertido,,0.0,Conservador,Bahamas
+14720,WhatsApp,2023-06-28,Não Convertido,,0.0,Agressivo,El Salvador
+14721,Indicação,2023-06-30,Convertido,17.0,1474.14,Agressivo,Tonga
+14722,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Conservador,Indonesia
+14723,Instagram,2023-06-29,Não Convertido,,0.0,Conservador,Singapore
+14724,Indicação,2023-06-30,Não Convertido,,0.0,Agressivo,American Samoa
+14725,Indicação,2023-06-29,Não Convertido,,0.0,Moderado,Russian Federation
+14726,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Pitcairn Islands
+14727,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Saint Helena
+14728,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Benin
+14729,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Kuwait
+14730,Instagram,2023-07-01,Não Convertido,,0.0,Desconhecido,Saint Kitts and Nevis
+14731,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Bosnia and Herzegovina
+14732,Google Ads,2023-06-28,Não Convertido,,0.0,Moderado,Chad
+14733,YouTube Ads,2023-06-29,Não Convertido,,0.0,Conservador,Guinea-Bissau
+14734,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Austria
+14735,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Cook Islands
+14736,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Argentina
+14737,Orgânico,2023-06-27,Não Convertido,,0.0,Desconhecido,United Arab Emirates
+14738,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Desconhecido,Nigeria
+14739,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Holy See (Vatican City State)
+14740,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Bouvet Island (Bouvetoya)
+14741,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Northern Mariana Islands
+14742,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Swaziland
+14743,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Pitcairn Islands
+14744,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Mongolia
+14745,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Denmark
+14746,YouTube Ads,2023-06-30,Não Convertido,,0.0,Conservador,Bangladesh
+14747,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Pakistan
+14748,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Singapore
+14749,Orgânico,2023-06-28,Convertido,6.0,208.61,Moderado,Ukraine
+14750,WhatsApp,2023-07-01,Não Convertido,,0.0,Moderado,Rwanda
+14751,Facebook,2023-06-27,Convertido,6.0,5844.84,Conservador,Gibraltar
+14752,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Cook Islands
+14753,TikTok,2023-07-01,Convertido,25.0,9051.74,Moderado,Kenya
+14754,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Conservador,Brunei Darussalam
+14755,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Iceland
+14756,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,North Macedonia
+14757,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Iceland
+14758,Google Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Ethiopia
+14759,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,Uruguay
+14760,Instagram,2023-06-30,Não Convertido,,0.0,Desconhecido,French Southern Territories
+14761,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Equatorial Guinea
+14762,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Agressivo,Saint Kitts and Nevis
+14763,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Angola
+14764,TikTok,2023-06-29,Não Convertido,,0.0,Desconhecido,Ireland
+14765,WhatsApp,2023-06-26,Não Convertido,,0.0,Agressivo,Togo
+14766,YouTube Ads,2023-06-26,Não Convertido,,0.0,Conservador,Gambia
+14767,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Agressivo,Puerto Rico
+14768,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Botswana
+14769,TikTok,2023-06-28,Não Convertido,,0.0,Desconhecido,Singapore
+14770,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Agressivo,Macao
+14771,Instagram,2023-06-26,Não Convertido,,0.0,Desconhecido,Puerto Rico
+14772,TikTok,2023-06-28,Não Convertido,,0.0,Conservador,Dominica
+14773,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Sweden
+14774,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Cayman Islands
+14775,WhatsApp,2023-06-29,Não Convertido,,0.0,Moderado,Marshall Islands
+14776,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Heard Island and McDonald Islands
+14777,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Djibouti
+14778,Indicação,2023-06-27,Não Convertido,,0.0,Agressivo,Thailand
+14779,Facebook,2023-06-27,Não Convertido,,0.0,Agressivo,Jamaica
+14780,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Liberia
+14781,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Azerbaijan
+14782,WhatsApp,2023-06-30,Convertido,0.0,1331.61,Moderado,Kiribati
+14783,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Moderado,Andorra
+14784,Instagram,2023-07-01,Não Convertido,,0.0,Conservador,Moldova
+14785,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Vanuatu
+14786,TikTok,2023-06-28,Não Convertido,,0.0,Desconhecido,Afghanistan
+14787,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Oman
+14788,TikTok,2023-06-28,Convertido,4.0,6192.12,Conservador,Tuvalu
+14789,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Libyan Arab Jamahiriya
+14790,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Cocos (Keeling) Islands
+14791,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,French Guiana
+14792,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Micronesia
+14793,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Tuvalu
+14794,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,India
+14795,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Thailand
+14796,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Moderado,Benin
+14797,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,Portugal
+14798,Indicação,2023-06-29,Não Convertido,,0.0,Desconhecido,Iraq
+14799,Indicação,2023-06-30,Não Convertido,,0.0,Agressivo,Dominican Republic
+14800,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Costa Rica
+14801,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,South Africa
+14802,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Lesotho
+14803,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,China
+14804,Google Ads,2023-06-30,Convertido,11.0,4461.8,Moderado,China
+14805,Instagram,2023-06-30,Não Convertido,,0.0,Agressivo,Mayotte
+14806,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Spain
+14807,WhatsApp,2023-06-28,Não Convertido,,0.0,Agressivo,Solomon Islands
+14808,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Moderado,Czech Republic
+14809,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Palestinian Territory
+14810,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Uruguay
+14811,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Thailand
+14812,Indicação,2023-07-01,Não Convertido,,0.0,Conservador,Tuvalu
+14813,Google Ads,2023-06-28,Não Convertido,,0.0,Conservador,Canada
+14814,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Liechtenstein
+14815,Google Ads,2023-06-27,Não Convertido,,0.0,Desconhecido,Ukraine
+14816,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,France
+14817,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Netherlands Antilles
+14818,Instagram,2023-06-29,Não Convertido,,0.0,Conservador,Djibouti
+14819,Instagram,2023-06-26,Convertido,5.0,1408.71,Conservador,Saudi Arabia
+14820,YouTube Ads,2023-06-26,Não Convertido,,0.0,Moderado,Sierra Leone
+14821,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Cape Verde
+14822,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Gibraltar
+14823,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Uruguay
+14824,Indicação,2023-06-30,Não Convertido,,0.0,Moderado,Palestinian Territory
+14825,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Monaco
+14826,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,New Caledonia
+14827,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,New Caledonia
+14828,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Norway
+14829,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,French Polynesia
+14830,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,Wallis and Futuna
+14831,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Palestinian Territory
+14832,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Cote d'Ivoire
+14833,Google Ads,2023-06-27,Não Convertido,,0.0,Moderado,Netherlands Antilles
+14834,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Mexico
+14835,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,Papua New Guinea
+14836,Facebook,2023-06-28,Não Convertido,,0.0,Agressivo,Portugal
+14837,Facebook,2023-07-01,Não Convertido,,0.0,Desconhecido,Guatemala
+14838,Instagram,2023-06-29,Não Convertido,,0.0,Desconhecido,Kenya
+14839,YouTube Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Kenya
+14840,YouTube Ads,2023-06-30,Não Convertido,,0.0,Agressivo,Guadeloupe
+14841,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Palestinian Territory
+14842,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Bolivia
+14843,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Agressivo,Macao
+14844,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Tonga
+14845,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Guernsey
+14846,Google Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Russian Federation
+14847,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Moderado,Tuvalu
+14848,Facebook,2023-06-28,Não Convertido,,0.0,Conservador,Tanzania
+14849,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Niger
+14850,Google Ads,2023-06-30,Não Convertido,,0.0,Agressivo,Tajikistan
+14851,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,American Samoa
+14852,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Martinique
+14853,WhatsApp,2023-07-01,Não Convertido,,0.0,Conservador,Italy
+14854,Facebook,2023-06-28,Não Convertido,,0.0,Conservador,Slovenia
+14855,Google Ads,2023-06-28,Não Convertido,,0.0,Desconhecido,Liberia
+14856,YouTube Ads,2023-06-28,Não Convertido,,0.0,Conservador,Guadeloupe
+14857,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Pakistan
+14858,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Senegal
+14859,YouTube Ads,2023-06-28,Não Convertido,,0.0,Moderado,Isle of Man
+14860,TikTok,2023-06-26,Não Convertido,,0.0,Desconhecido,Guernsey
+14861,Indicação,2023-06-29,Não Convertido,,0.0,Moderado,Algeria
+14862,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Western Sahara
+14863,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Mali
+14864,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Turkmenistan
+14865,Orgânico,2023-06-27,Não Convertido,,0.0,Conservador,Netherlands
+14866,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Albania
+14867,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Brazil
+14868,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,Kiribati
+14869,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,British Indian Ocean Territory (Chagos Archipelago)
+14870,WhatsApp,2023-06-28,Não Convertido,,0.0,Agressivo,Malaysia
+14871,Facebook,2023-06-28,Não Convertido,,0.0,Agressivo,Norway
+14872,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,Nigeria
+14873,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Argentina
+14874,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Malta
+14875,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Honduras
+14876,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Senegal
+14877,Google Ads,2023-07-01,Não Convertido,,0.0,Desconhecido,Panama
+14878,Orgânico,2023-06-26,Não Convertido,,0.0,Conservador,Niue
+14879,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,British Indian Ocean Territory (Chagos Archipelago)
+14880,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+14881,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Zambia
+14882,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Italy
+14883,Instagram,2023-06-28,Não Convertido,,0.0,Conservador,Mozambique
+14884,TikTok,2023-07-01,Não Convertido,,0.0,Agressivo,Saudi Arabia
+14885,WhatsApp,2023-06-29,Não Convertido,,0.0,Conservador,Suriname
+14886,Google Ads,2023-06-30,Não Convertido,,0.0,Desconhecido,Korea
+14887,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Agressivo,Cameroon
+14888,Google Ads,2023-06-28,Não Convertido,,0.0,Agressivo,Belarus
+14889,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Turkey
+14890,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Thailand
+14891,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Saudi Arabia
+14892,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Bangladesh
+14893,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,India
+14894,Instagram,2023-06-28,Não Convertido,,0.0,Moderado,Armenia
+14895,Indicação,2023-06-28,Não Convertido,,0.0,Agressivo,Brazil
+14896,Facebook,2023-06-29,Não Convertido,,0.0,Desconhecido,Tunisia
+14897,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Moderado,Oman
+14898,Instagram,2023-06-26,Não Convertido,,0.0,Desconhecido,Guadeloupe
+14899,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+14900,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Trinidad and Tobago
+14901,Instagram,2023-06-29,Não Convertido,,0.0,Conservador,Taiwan
+14902,Instagram,2023-06-26,Não Convertido,,0.0,Desconhecido,Heard Island and McDonald Islands
+14903,Orgânico,2023-06-28,Não Convertido,,0.0,Desconhecido,Albania
+14904,TikTok,2023-06-26,Não Convertido,,0.0,Desconhecido,Togo
+14905,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Agressivo,Guam
+14906,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Desconhecido,Somalia
+14907,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+14908,TikTok,2023-06-29,Não Convertido,,0.0,Conservador,Bouvet Island (Bouvetoya)
+14909,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Moderado,British Virgin Islands
+14910,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Hong Kong
+14911,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Agressivo,France
+14912,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,India
+14913,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Lithuania
+14914,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Ethiopia
+14915,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Slovenia
+14916,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Indonesia
+14917,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Hong Kong
+14918,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,British Virgin Islands
+14919,E-mail Marketing,2023-06-29,Convertido,6.0,3581.97,Conservador,Azerbaijan
+14920,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Guam
+14921,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Grenada
+14922,YouTube Ads,2023-06-26,Não Convertido,,0.0,Moderado,United States of America
+14923,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Solomon Islands
+14924,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Senegal
+14925,YouTube Ads,2023-07-01,Não Convertido,,0.0,Conservador,Latvia
+14926,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Guyana
+14927,Facebook,2023-06-29,Não Convertido,,0.0,Desconhecido,Switzerland
+14928,YouTube Ads,2023-06-27,Não Convertido,,0.0,Moderado,Luxembourg
+14929,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Micronesia
+14930,Facebook,2023-07-01,Não Convertido,,0.0,Conservador,Senegal
+14931,TikTok,2023-06-27,Não Convertido,,0.0,Conservador,Switzerland
+14932,Facebook,2023-06-27,Não Convertido,,0.0,Desconhecido,Malaysia
+14933,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Mali
+14934,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Armenia
+14935,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Palestinian Territory
+14936,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Morocco
+14937,Google Ads,2023-06-28,Não Convertido,,0.0,Conservador,Somalia
+14938,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Benin
+14939,Orgânico,2023-06-29,Não Convertido,,0.0,Agressivo,Ghana
+14940,YouTube Ads,2023-06-26,Não Convertido,,0.0,Moderado,Israel
+14941,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Czech Republic
+14942,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Guadeloupe
+14943,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Western Sahara
+14944,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Congo
+14945,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Azerbaijan
+14946,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Desconhecido,Senegal
+14947,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Moderado,Botswana
+14948,Orgânico,2023-07-01,Não Convertido,,0.0,Conservador,Trinidad and Tobago
+14949,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Christmas Island
+14950,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Sao Tome and Principe
+14951,Facebook,2023-06-27,Não Convertido,,0.0,Moderado,Honduras
+14952,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Colombia
+14953,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,Mali
+14954,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Iraq
+14955,WhatsApp,2023-06-28,Não Convertido,,0.0,Conservador,Libyan Arab Jamahiriya
+14956,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Egypt
+14957,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,United Arab Emirates
+14958,Orgânico,2023-06-28,Não Convertido,,0.0,Conservador,Yemen
+14959,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Conservador,Norway
+14960,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Agressivo,Palestinian Territory
+14961,WhatsApp,2023-06-30,Não Convertido,,0.0,Conservador,Guatemala
+14962,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Libyan Arab Jamahiriya
+14963,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Seychelles
+14964,WhatsApp,2023-06-30,Não Convertido,,0.0,Conservador,Bahamas
+14965,YouTube Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Serbia
+14966,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+14967,Instagram,2023-06-27,Não Convertido,,0.0,Desconhecido,Andorra
+14968,Indicação,2023-06-28,Não Convertido,,0.0,Desconhecido,Malta
+14969,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,Estonia
+14970,Indicação,2023-06-26,Convertido,11.0,5480.58,Moderado,Russian Federation
+14971,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,South Georgia and the South Sandwich Islands
+14972,Facebook,2023-06-28,Convertido,0.0,5126.25,Agressivo,Niue
+14973,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Afghanistan
+14974,Facebook,2023-06-28,Não Convertido,,0.0,Moderado,Togo
+14975,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Agressivo,Belgium
+14976,Facebook,2023-06-30,Não Convertido,,0.0,Agressivo,Madagascar
+14977,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Bouvet Island (Bouvetoya)
+14978,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Jamaica
+14979,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Italy
+14980,Google Ads,2023-07-01,Convertido,25.0,1194.66,Conservador,Cocos (Keeling) Islands
+14981,YouTube Ads,2023-07-01,Não Convertido,,0.0,Conservador,Sao Tome and Principe
+14982,Orgânico,2023-06-26,Não Convertido,,0.0,Conservador,Uruguay
+14983,Google Ads,2023-06-30,Não Convertido,,0.0,Desconhecido,Western Sahara
+14984,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,South Africa
+14985,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Kuwait
+14986,Google Ads,2023-06-30,Não Convertido,,0.0,Moderado,Saint Vincent and the Grenadines
+14987,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Turkey
+14988,Google Ads,2023-06-26,Convertido,6.0,1884.91,Agressivo,Northern Mariana Islands
+14989,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Sweden
+14990,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Peru
+14991,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Bolivia
+14992,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Angola
+14993,TikTok,2023-06-27,Não Convertido,,0.0,Desconhecido,Lebanon
+14994,Orgânico,2023-06-27,Não Convertido,,0.0,Desconhecido,Chile
+14995,WhatsApp,2023-07-01,Não Convertido,,0.0,Agressivo,Czech Republic
+14996,WhatsApp,2023-06-29,Não Convertido,,0.0,Agressivo,Bahamas
+14997,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,Cuba
+14998,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Mozambique
+14999,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Reunion
+15000,TikTok,2023-06-27,Não Convertido,,0.0,Desconhecido,Niue
+15001,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Tuvalu
+15002,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Costa Rica
+15003,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Liechtenstein
+15004,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Lesotho
+15005,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Tajikistan
+15006,WhatsApp,2023-06-28,Não Convertido,,0.0,Conservador,Gambia
+15007,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Korea
+15008,TikTok,2023-06-26,Não Convertido,,0.0,Agressivo,Turkey
+15009,Facebook,2023-06-28,Não Convertido,,0.0,Moderado,Mayotte
+15010,Facebook,2023-06-28,Não Convertido,,0.0,Moderado,Czech Republic
+15011,Orgânico,2023-06-29,Convertido,24.0,1416.64,Conservador,Reunion
+15012,Facebook,2023-06-28,Não Convertido,,0.0,Moderado,Austria
+15013,Instagram,2023-06-28,Não Convertido,,0.0,Agressivo,Jamaica
+15014,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,Cyprus
+15015,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Sri Lanka
+15016,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Colombia
+15017,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Peru
+15018,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,Montenegro
+15019,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Togo
+15020,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Ghana
+15021,Indicação,2023-07-01,Não Convertido,,0.0,Moderado,Colombia
+15022,Indicação,2023-06-27,Convertido,16.0,9547.61,Desconhecido,Latvia
+15023,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Italy
+15024,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Russian Federation
+15025,YouTube Ads,2023-06-30,Não Convertido,,0.0,Moderado,Bahrain
+15026,TikTok,2023-06-27,Não Convertido,,0.0,Conservador,Mauritius
+15027,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,South Africa
+15028,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,Sweden
+15029,Facebook,2023-06-26,Não Convertido,,0.0,Conservador,Cyprus
+15030,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Liechtenstein
+15031,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Chile
+15032,Orgânico,2023-06-27,Não Convertido,,0.0,Desconhecido,Korea
+15033,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Bhutan
+15034,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Kenya
+15035,WhatsApp,2023-06-28,Não Convertido,,0.0,Desconhecido,Philippines
+15036,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Chad
+15037,Facebook,2023-06-26,Não Convertido,,0.0,Agressivo,Qatar
+15038,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Cuba
+15039,YouTube Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Greece
+15040,Facebook,2023-06-26,Não Convertido,,0.0,Desconhecido,Peru
+15041,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,Germany
+15042,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Conservador,United States Minor Outlying Islands
+15043,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Kuwait
+15044,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Niger
+15045,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Korea
+15046,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Moderado,Morocco
+15047,Facebook,2023-07-01,Não Convertido,,0.0,Agressivo,French Southern Territories
+15048,TikTok,2023-06-27,Não Convertido,,0.0,Moderado,Nicaragua
+15049,Orgânico,2023-06-26,Não Convertido,,0.0,Desconhecido,Lebanon
+15050,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Malaysia
+15051,YouTube Ads,2023-07-01,Não Convertido,,0.0,Moderado,Israel
+15052,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Finland
+15053,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Lesotho
+15054,Orgânico,2023-06-28,Não Convertido,,0.0,Conservador,Senegal
+15055,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,Greenland
+15056,YouTube Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Liechtenstein
+15057,WhatsApp,2023-06-28,Não Convertido,,0.0,Desconhecido,Guinea-Bissau
+15058,YouTube Ads,2023-06-28,Não Convertido,,0.0,Conservador,Botswana
+15059,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Liechtenstein
+15060,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Agressivo,Seychelles
+15061,Instagram,2023-06-30,Não Convertido,,0.0,Moderado,Seychelles
+15062,YouTube Ads,2023-06-30,Não Convertido,,0.0,Moderado,Australia
+15063,YouTube Ads,2023-06-29,Não Convertido,,0.0,Conservador,Bahrain
+15064,E-mail Marketing,2023-07-01,Convertido,24.0,1840.67,Agressivo,Senegal
+15065,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,Latvia
+15066,Facebook,2023-06-26,Não Convertido,,0.0,Moderado,Burkina Faso
+15067,Instagram,2023-06-29,Não Convertido,,0.0,Conservador,Burundi
+15068,Facebook,2023-06-30,Não Convertido,,0.0,Moderado,Argentina
+15069,Google Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Dominica
+15070,Google Ads,2023-06-28,Não Convertido,,0.0,Moderado,Papua New Guinea
+15071,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Rwanda
+15072,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Western Sahara
+15073,Google Ads,2023-06-30,Convertido,1.0,6093.11,Desconhecido,Saudi Arabia
+15074,Facebook,2023-06-27,Não Convertido,,0.0,Agressivo,Oman
+15075,Orgânico,2023-06-27,Não Convertido,,0.0,Desconhecido,British Virgin Islands
+15076,Facebook,2023-06-30,Não Convertido,,0.0,Agressivo,Ethiopia
+15077,Instagram,2023-06-27,Não Convertido,,0.0,Agressivo,Slovakia (Slovak Republic)
+15078,Indicação,2023-07-01,Não Convertido,,0.0,Moderado,Niue
+15079,Indicação,2023-07-01,Não Convertido,,0.0,Agressivo,Vietnam
+15080,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Conservador,British Virgin Islands
+15081,Orgânico,2023-06-28,Não Convertido,,0.0,Conservador,Poland
+15082,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Oman
+15083,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Samoa
+15084,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Singapore
+15085,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Sudan
+15086,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Indonesia
+15087,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Cyprus
+15088,Instagram,2023-06-29,Não Convertido,,0.0,Agressivo,Djibouti
+15089,Instagram,2023-06-30,Não Convertido,,0.0,Conservador,Austria
+15090,YouTube Ads,2023-06-27,Não Convertido,,0.0,Conservador,Uganda
+15091,WhatsApp,2023-06-30,Convertido,0.0,3218.89,Moderado,French Guiana
+15092,TikTok,2023-06-27,Não Convertido,,0.0,Moderado,Greece
+15093,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Agressivo,Liechtenstein
+15094,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Mauritius
+15095,WhatsApp,2023-06-30,Não Convertido,,0.0,Moderado,Luxembourg
+15096,WhatsApp,2023-06-28,Não Convertido,,0.0,Moderado,Bosnia and Herzegovina
+15097,YouTube Ads,2023-06-26,Não Convertido,,0.0,Agressivo,Antarctica (the territory South of 60 deg S)
+15098,Google Ads,2023-06-27,Não Convertido,,0.0,Moderado,Antigua and Barbuda
+15099,Orgânico,2023-06-26,Não Convertido,,0.0,Agressivo,Denmark
+15100,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Timor-Leste
+15101,TikTok,2023-07-01,Não Convertido,,0.0,Conservador,Saint Pierre and Miquelon
+15102,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Saint Kitts and Nevis
+15103,Instagram,2023-06-28,Não Convertido,,0.0,Desconhecido,Korea
+15104,TikTok,2023-06-27,Não Convertido,,0.0,Conservador,Libyan Arab Jamahiriya
+15105,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Moderado,Haiti
+15106,TikTok,2023-06-26,Não Convertido,,0.0,Desconhecido,Cook Islands
+15107,Orgânico,2023-07-01,Não Convertido,,0.0,Agressivo,Russian Federation
+15108,Orgânico,2023-06-30,Não Convertido,,0.0,Agressivo,Lebanon
+15109,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Somalia
+15110,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,New Caledonia
+15111,WhatsApp,2023-06-27,Não Convertido,,0.0,Agressivo,Netherlands Antilles
+15112,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,United Arab Emirates
+15113,Facebook,2023-06-26,Não Convertido,,0.0,Conservador,Estonia
+15114,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Czech Republic
+15115,YouTube Ads,2023-06-27,Não Convertido,,0.0,Agressivo,Central African Republic
+15116,YouTube Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Mongolia
+15117,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Gibraltar
+15118,Orgânico,2023-06-26,Não Convertido,,0.0,Conservador,Chile
+15119,TikTok,2023-06-26,Convertido,10.0,8452.41,Agressivo,Poland
+15120,E-mail Marketing,2023-06-29,Não Convertido,,0.0,Agressivo,Turkey
+15121,YouTube Ads,2023-06-27,Não Convertido,,0.0,Moderado,Bouvet Island (Bouvetoya)
+15122,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Saint Lucia
+15123,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Palestinian Territory
+15124,Google Ads,2023-06-27,Não Convertido,,0.0,Conservador,Germany
+15125,Instagram,2023-06-27,Não Convertido,,0.0,Conservador,Gibraltar
+15126,Orgânico,2023-06-28,Não Convertido,,0.0,Agressivo,Cambodia
+15127,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Guinea
+15128,E-mail Marketing,2023-07-01,Não Convertido,,0.0,Moderado,Svalbard & Jan Mayen Islands
+15129,TikTok,2023-06-26,Não Convertido,,0.0,Conservador,Tajikistan
+15130,Facebook,2023-07-01,Convertido,19.0,2007.93,Moderado,Burkina Faso
+15131,YouTube Ads,2023-06-28,Não Convertido,,0.0,Moderado,Saint Pierre and Miquelon
+15132,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Mauritius
+15133,Orgânico,2023-06-30,Não Convertido,,0.0,Moderado,Nigeria
+15134,Google Ads,2023-07-01,Não Convertido,,0.0,Agressivo,Saint Vincent and the Grenadines
+15135,Orgânico,2023-06-26,Não Convertido,,0.0,Moderado,Serbia
+15136,Orgânico,2023-07-01,Não Convertido,,0.0,Conservador,Suriname
+15137,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Germany
+15138,TikTok,2023-06-29,Não Convertido,,0.0,Moderado,Mexico
+15139,E-mail Marketing,2023-06-26,Não Convertido,,0.0,Agressivo,Cyprus
+15140,Instagram,2023-07-01,Não Convertido,,0.0,Conservador,Norfolk Island
+15141,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Rwanda
+15142,Orgânico,2023-06-27,Não Convertido,,0.0,Moderado,Azerbaijan
+15143,Google Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Burkina Faso
+15144,WhatsApp,2023-06-28,Não Convertido,,0.0,Conservador,Malawi
+15145,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Timor-Leste
+15146,Google Ads,2023-07-01,Não Convertido,,0.0,Moderado,Australia
+15147,Facebook,2023-06-29,Não Convertido,,0.0,Conservador,Saudi Arabia
+15148,TikTok,2023-06-30,Não Convertido,,0.0,Agressivo,Lesotho
+15149,TikTok,2023-06-30,Não Convertido,,0.0,Moderado,Monaco
+15150,TikTok,2023-06-27,Não Convertido,,0.0,Agressivo,Lao People's Democratic Republic
+15151,Orgânico,2023-06-30,Não Convertido,,0.0,Conservador,Spain
+15152,Orgânico,2023-06-28,Não Convertido,,0.0,Conservador,Saint Barthelemy
+15153,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Mauritania
+15154,WhatsApp,2023-06-30,Não Convertido,,0.0,Desconhecido,Belarus
+15155,Orgânico,2023-06-29,Não Convertido,,0.0,Moderado,Antarctica (the territory South of 60 deg S)
+15156,Facebook,2023-06-30,Não Convertido,,0.0,Conservador,Yemen
+15157,Google Ads,2023-06-29,Não Convertido,,0.0,Moderado,Albania
+15158,Orgânico,2023-06-26,Não Convertido,,0.0,Desconhecido,Palau
+15159,Facebook,2023-06-28,Não Convertido,,0.0,Moderado,Nigeria
+15160,TikTok,2023-07-01,Não Convertido,,0.0,Moderado,Philippines
+15161,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Namibia
+15162,Facebook,2023-07-01,Não Convertido,,0.0,Moderado,Turkmenistan
+15163,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Desconhecido,Nigeria
+15164,WhatsApp,2023-06-29,Não Convertido,,0.0,Agressivo,Cocos (Keeling) Islands
+15165,TikTok,2023-06-28,Não Convertido,,0.0,Moderado,Guam
+15166,Orgânico,2023-06-27,Não Convertido,,0.0,Agressivo,Afghanistan
+15167,E-mail Marketing,2023-06-30,Não Convertido,,0.0,Conservador,Taiwan
+15168,Facebook,2023-06-29,Não Convertido,,0.0,Moderado,Lao People's Democratic Republic
+15169,Google Ads,2023-06-26,Não Convertido,,0.0,Moderado,Austria
+15170,WhatsApp,2023-06-30,Não Convertido,,0.0,Agressivo,Albania
+15171,Orgânico,2023-06-26,Convertido,1.0,8504.07,Desconhecido,Macao
+15172,Instagram,2023-06-27,Não Convertido,,0.0,Desconhecido,British Indian Ocean Territory (Chagos Archipelago)
+15173,Instagram,2023-06-30,Não Convertido,,0.0,Desconhecido,Lesotho
+15174,Instagram,2023-07-01,Não Convertido,,0.0,Moderado,Slovakia (Slovak Republic)
+15175,WhatsApp,2023-06-29,Não Convertido,,0.0,Conservador,Swaziland
+15176,Google Ads,2023-06-28,Não Convertido,,0.0,Agressivo,Burkina Faso
+15177,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Moderado,Zimbabwe
+15178,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Micronesia
+15179,YouTube Ads,2023-06-27,Convertido,30.0,1795.31,Moderado,Jamaica
+15180,WhatsApp,2023-06-26,Não Convertido,,0.0,Agressivo,Andorra
+15181,TikTok,2023-06-26,Não Convertido,,0.0,Desconhecido,American Samoa
+15182,Instagram,2023-06-26,Não Convertido,,0.0,Agressivo,Mongolia
+15183,Instagram,2023-06-29,Não Convertido,,0.0,Moderado,Namibia
+15184,Indicação,2023-06-29,Não Convertido,,0.0,Conservador,Luxembourg
+15185,WhatsApp,2023-06-29,Não Convertido,,0.0,Desconhecido,Mauritius
+15186,Instagram,2023-07-01,Não Convertido,,0.0,Agressivo,Togo
+15187,WhatsApp,2023-06-27,Não Convertido,,0.0,Conservador,Sao Tome and Principe
+15188,E-mail Marketing,2023-06-28,Não Convertido,,0.0,Moderado,Uganda
+15189,Instagram,2023-06-26,Não Convertido,,0.0,Conservador,Sri Lanka
+15190,Instagram,2023-06-27,Não Convertido,,0.0,Moderado,Seychelles
+15191,TikTok,2023-06-29,Não Convertido,,0.0,Agressivo,United Kingdom
+15192,Indicação,2023-06-29,Não Convertido,,0.0,Agressivo,Bahrain
+15193,Orgânico,2023-06-28,Não Convertido,,0.0,Moderado,Heard Island and McDonald Islands
+15194,TikTok,2023-06-28,Não Convertido,,0.0,Agressivo,French Polynesia
+15195,Orgânico,2023-07-01,Não Convertido,,0.0,Moderado,Cayman Islands
+15196,Orgânico,2023-06-28,Não Convertido,,0.0,Conservador,South Georgia and the South Sandwich Islands
+15197,Instagram,2023-06-26,Não Convertido,,0.0,Moderado,Switzerland
+15198,TikTok,2023-06-27,Não Convertido,,0.0,Desconhecido,Suriname
+15199,E-mail Marketing,2023-06-27,Não Convertido,,0.0,Conservador,Antigua and Barbuda
+15200,Indicação,2023-06-26,Não Convertido,,0.0,Conservador,Bolivia
+15201,Google Ads,2023-06-29,Não Convertido,,0.0,Agressivo,Saudi Arabia
+15202,TikTok,2023-06-26,Não Convertido,,0.0,Moderado,Ethiopia
