@@ -26,9 +26,50 @@ venv.bak/
 *.xlsx
 *.json
 *.parquet
-Data/RAW/**
-Data/PROCESSED/**
-Data/FINAL/**
+
+
+# Diretórios e arquivos temporários
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Ambientes virtuais
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de configuração locais
+*.env
+*.vscode/
+*.idea/
+
+# Dados simulados e exportações 
+*.parquet
+*.json
+*.xlsx
+*.csv
+
+
+# Dados simulados e exportações
+Data/RAW/FULL_SIMULATED/
+
+# Relatórios
+*.pdf
+*.docx
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+
 
 # Relatórios
 *.pdf
