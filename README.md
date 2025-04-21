@@ -19,10 +19,16 @@ Todos os dados foram gerados de forma sintética com controle de crescimento e p
 
 ## 📘 Notebooks Principais
 
-- [🔁 ETL e Geração de Leads Simulados](./Notebooks/ETL/)
-- [📊 Análise Preditiva de Conversão](./Notebooks/Modelagem/preditivo_conversao_e_crescimento_final.ipynb)
-- [🔍 Detecção de Fraudes (Anomalias)](./Notebooks/Fraude/deteccao_anomalias.ipynb)
-- [📈 Dashboard Interativo com Streamlit](./App/app_dashboard.py)
+Os notebooks estão organizados por etapa do pipeline:
+
+| Categoria     | Descrição                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| 🔄 **ETL**     | - [ETL_Leads.ipynb](../Notebooks/ETL/ETL_Leads.ipynb): Limpeza e estruturação dos dados  
+|               | - [gerador_leads_semanal.ipynb](../Notebooks/ETL/gerador_leads_semanal.ipynb): Geração automatizada de leads simulados semanalmente  
+| 📊 **EDA**     | - [analyze_leads_completo.ipynb](../Notebooks/EDA/analyze_leads_completo.ipynb): Análise exploratória de leads, canais e países  
+| 🧠 **Modelagem**| - [preditivo_conversao_corrigido.ipynb](../Notebooks/Modelagem/preditivo_conversao_corrigido.ipynb): Modelo de previsão de conversão  
+|               | - [preditivo_corrigido_mes_ano_modelo.ipynb](../Notebooks/Modelagem/preditivo_corrigido_mes_ano_modelo.ipynb): Análise com impacto temporal (mês/ano)  
+| 🔍 **Fraude**  | - [fraude_anomalias_leads.ipynb](../Notebooks/Fraude/fraude_anomalias_leads.ipynb): Detecção de comportamentos suspeitos via anomalias 
 
 ---
 
