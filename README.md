@@ -17,21 +17,19 @@ Todos os dados foram gerados de forma sintética com controle de crescimento e p
 
 ---
 
-## 📘 Notebooks Principais
+### 📒 Notebooks Principais
 
-Os notebooks estão organizados por etapa do pipeline:
+| Etapa | Notebook | Descrição |
+|-------|----------|-----------|
+| 🔧 ETL | `ETL/ETL_Leads.ipynb` | Leitura e transformação inicial dos dados. |
+| 🏗️ Geração de Dados | `ETL/gerador_leads_semanal.ipynb` | Simulação de leads com crescimento realista (via Faker). |
+| 🧼 Dados Completos | `ETL/leads_completo_merge.ipynb` | Merge de todos os arquivos CSV em um único dataset atualizado. |
+| 📊 EDA - Leads Gerais | `EDA/analyze_leads_completo.ipynb` | Análise exploratória de conversão, depósitos, perfis e sazonalidade. |
+| 📈 EDA - Canais de Marketing | `EDA/analyze_canais_marketing.ipynb` | Análise de performance de canais com score combinado. |
 
-| Categoria     | Descrição                                                                 |
-|---------------|---------------------------------------------------------------------------|
-| 🔄 **ETL**     | - [ETL_Leads.ipynb](../Notebooks/ETL/ETL_Leads.ipynb): Limpeza e estruturação dos dados  
-|               | - [gerador_leads_semanal.ipynb](../Notebooks/ETL/gerador_leads_semanal.ipynb): Geração automatizada de leads simulados semanalmente  
-| 📊 **EDA**     | - [analyze_leads_completo.ipynb](../Notebooks/EDA/analyze_leads_completo.ipynb): Análise exploratória de leads, canais e países  
-| 🧠 **Modelagem**| - [preditivo_conversao_corrigido.ipynb](../Notebooks/Modelagem/preditivo_conversao_corrigido.ipynb): Modelo de previsão de conversão  
-|               | - [preditivo_corrigido_mes_ano_modelo.ipynb](../Notebooks/Modelagem/preditivo_corrigido_mes_ano_modelo.ipynb): Análise com impacto temporal (mês/ano)  
-| 🔍 **Fraude**  | - [fraude_anomalias_leads.ipynb](../Notebooks/Fraude/fraude_anomalias_leads.ipynb): Detecção de comportamentos suspeitos via anomalias 
+🔎 Consulte também: [`Docs/score_combinado.md`](Docs/score_combinado.md) – explicação completa da métrica `score_combinado` com foco estratégico.
 
 ---
-
 ## 🚀 Tecnologias Utilizadas
 
 - Python (Pandas, NumPy, Faker, Scikit-Learn)
