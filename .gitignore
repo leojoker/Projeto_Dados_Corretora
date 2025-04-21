@@ -61,6 +61,11 @@ venv.bak/
 # Dados simulados e exportações
 Data/RAW/FULL_SIMULATED/
 
+# EXCEÇÃO: Permite CSVs nas pastas PROCESSED e FINAL
+!Data/PROCESSED/*.csv
+!Data/FINAL/*.csv
+
+
 # Relatórios
 *.pdf
 *.docx
