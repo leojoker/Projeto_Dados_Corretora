@@ -19,7 +19,7 @@ Todos os dados foram gerados de forma sintética com controle de crescimento e p
 
 ## 📘 Notebooks Principais
 
-- [🔁 ETL e Geração de Leads Simulados](./Notebooks/ETL/gerador_leads_fake.ipynb)
+- [🔁 ETL e Geração de Leads Simulados](./Notebooks/ETL/)
 - [📊 Análise Preditiva de Conversão](./Notebooks/Modelagem/preditivo_conversao_e_crescimento_final.ipynb)
 - [🔍 Detecção de Fraudes (Anomalias)](./Notebooks/Fraude/deteccao_anomalias.ipynb)
 - [📈 Dashboard Interativo com Streamlit](./App/app_dashboard.py)
